@@ -1,6 +1,11 @@
-export async function loadItinerary() {
-    const response = await fetch("/JSON/trips.json"); 
-    
+const params = new URLSearchParams(window.location.search);
+const tripKey = params.get('itinerary');
+const filePath = "/Plans/JSON/" + tripKey + ".json";
+
+export async function loadData() {
+
+    const response = await fetch(filePath); 
+
     const text = await response.text(); 
 
     const trips = JSON.parse(text); 
@@ -8,24 +13,4 @@ export async function loadItinerary() {
     return trips;
 }
 
-export const trips = await loadItinerary();
-
-export async function loadHotels() {
-    const responseHotels = await fetch("/JSON/hotels.json"); 
-    
-    const textHotels = await responseHotels.text(); 
-
-    const hotels = JSON.parse(textHotels); 
-    // 
-    return hotels;
-}
-
-export const hotels = await loadHotels();
-
-
-
-
-
-
-
-
+export const trips = await loadData();

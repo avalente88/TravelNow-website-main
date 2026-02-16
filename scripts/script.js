@@ -48,19 +48,19 @@ document.addEventListener('DOMContentLoaded', () => {
     ],
     // Uzbequistão
     UZ: [
-      { title: 'Uzbequistão com extensão ao Turcomenistão', href: 'Plans/Asia/uzbekistan-turkmenistan-plan.html' }
+      { title: 'Uzbequistão com extensão ao Turcomenistão', href: 'Plans/global_itinerary.html?itinerary=uzbekistan1' }
     ],
     // Peru
     PE: [
-      { title: 'Peru, Argentina e relaxe no Brasil', href: 'Plans/Americas/plano-peru-argentina-brasil.html' }
+      { title: 'Peru, Argentina e relaxe no Brasil', href: 'Plans/plano-peru-argentina-brasil.html' }
     ],
     // Chile
     CL: [
-      { title: 'Patagónia e Rio de Janeiro', href: 'Plans/Americas/patagonia-e-rio.html' }
+      { title: 'Patagónia e Rio de Janeiro', href: 'Plans/global_itinerary.html?itinerary=patagonia1' }
     ],
     // Argentina
     AR: [
-      { title: 'Patagónia e Rio de Janeiro', href: 'Plans/Americas/patagonia-e-rio.html' },
+      { title: 'Patagónia e Rio de Janeiro', href: 'Plans/global_itinerary.html?itinerary=patagonia1' },
       { title: 'Peru, Argentina e relaxe no Brasil', href: 'Plans/Americas/plano-peru-argentina-brasil.html' }
     ],
     // Portugal (exemplo vazio)

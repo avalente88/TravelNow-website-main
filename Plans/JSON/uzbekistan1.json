@@ -1,0 +1,214 @@
+{
+  "name": "Uzbequistão + Turcomenistão",
+  "itineraryRoute": "",
+  "numberOfDays": "",
+  "totalPrice": "",
+  "figures": [],
+  "flights": [], 
+  "restaurants":[], 
+  "tours": [], 
+  "flightSearch": [],
+  "days": [
+      {
+        "date": "Dia 1",
+        "city": "Chegada a Tashkent",
+        "transport": [
+          { "type": "voo", "text": "chegada" }
+        ],
+        "details": [
+          {
+            "label": null,
+            "items": ["Chegada ~00:40", "Chegada ao hotel"]
+          }
+        ]
+      },
+      {
+        "date": "Dia 2",
+        "city": "Tashkent (dia completo)",
+        "transport": [],
+        "details": [
+          { "label": "Manhã",  "items": ["Complexo Khast Imam (Alcorão de Uthman)", "Biblioteca Moyie Mubarek"] },
+          { "label": "Almoço", "items": ["Central Asian Plov Center"] },
+          { "label": "Tarde",  "items": ["Bazar Chorsu", "Metrô: Kosmonavtlar · Alisher Navoi"] },
+          { "label": "Noite",  "items": ["Praça Amir Timur", "Jantar (Afsona ou Caravan)"] }
+        ]
+      },
+      {
+        "date": "Dia 3",
+        "city": "Tashkent (moderno + cultura)",
+        "transport": [],
+        "details": [
+          { "label": "Visitas", "items": ["Museu de Artes Aplicadas", "Museu de História do Uzbequistão"] },
+          { "label": "Parques", "items": ["Parque Alisher Navoi", "Tashkent City Park"] },
+          { "label": "Nota",    "items": ["Preparar malas (comboio cedo)"] }
+        ]
+      },
+      {
+        "date": "Dia 4",
+        "city": "Tashkent → Samarcanda",
+        "transport": [
+          { "type": "comboio", "text": "08:37 → 11:46" }
+        ],
+        "details": [
+          { "label": "Manhã", "items": ["Ida de manhã para a estação de comboios (bilhete de 20€).", "Chegada ao hotel"] },
+          { "label": "Tarde", "items": ["Mausoléu Gur‑e Amir", "Passeio pelo centro histórico"] },
+          { "label": "Noite", "items": ["Registan iluminado (imperdível)"] }
+        ]
+      },
+      {
+        "date": "Dia 5",
+        "city": "Samarcanda (dia completo)",
+        "transport": [],
+        "details": [
+          { "label": "Manhã",  "items": ["Registan (madraças)", "Mesquita Bibi‑Khanym"] },
+          { "label": "Almoço", "items": ["Zona do Bazar Siab"] },
+          { "label": "Tarde",  "items": ["Shah‑i‑Zinda (ritmo calmo)", "Chá em chaikhana tradicional"] }
+        ]
+      },
+      {
+        "date": "Dia 6",
+        "city": "Samarcanda → Bucara",
+        "transport": [
+          { "type": "comboio", "text": "09:53 → 11:42" }
+        ],
+        "details": [
+          { "label": null, "items": ["Chegada ao hotel"] },
+          { "label": "Passeio", "items": ["Lyabi‑Hauz", "Nadir Divan‑Begi"] }
+        ]
+      },
+      {
+        "date": "Dia 7",
+        "city": "Bucara (dia completo)",
+        "transport": [],
+        "details": [
+          { "label": "Manhã", "items": ["Ark Fortress", "Bolo‑Haouz Mosque", "Po‑i‑Kalyan (minarete + mesquita)"] },
+          { "label": "Tarde", "items": ["Chor Minor", "Cúpulas comerciais (Toqi Zargaron, Toqi Sarrafon)"] },
+          { "label": "Noite", "items": ["Cidade iluminada"] }
+        ]
+      },
+      {
+        "date": "Dia 8",
+        "city": "Bucara → Khiva",
+        "transport": [
+          { "type": "voo", "text": "" },
+          { "type": "estrada", "text": "" }
+        ],
+        "details": [
+          { "label": null, "items": ["Chegada ao hotel"] },
+          { "label": "Tarde", "items": ["Primeira volta por Itchan Kala (cidade murada)"] },
+          { "label": "Noite", "items": ["Pôr do sol nas muralhas", "Jantar dentro da cidade antiga"] }
+        ]
+      },
+      {
+        "date": "Dia 9",
+        "city": "Khiva (dia completo)",
+        "transport": [],
+        "details": [
+          { "label": "Manhã", "items": ["Kunya Ark", "Minarete Kalta Minor", "Palácio Tash‑Hauli"] },
+          { "label": "Tarde", "items": ["Madrasa de Muhammad Amin Khan", "Minarete Islam Khodja (vista elevada)"] },
+          { "label": "Noite", "items": ["Passeio final pela cidade murada"] }
+        ]
+      },
+      {
+        "date": "Dia 10",
+        "city": "Khiva → Darvaza (Turcomenistão)",
+        "transport": [
+          { "type": "tour", "text": "" }
+        ],
+        "details": [
+          { "label": "Destaque", "items": ["Cratera de gás (Porta do Inferno)"] }
+        ]
+      },
+      {
+        "date": "Dia 11",
+        "city": "Darvaza → Ashgabat",
+        "transport": [
+          { "type": "tour", "text": "" }
+        ],
+        "details": [
+          { "label": "Cidade", "items": ["Monumentos de mármore · paisagem urbana singular"] }
+        ]
+      },
+      {
+        "date": "Dia 12",
+        "city": "Ashgabat → Mary · Merv (UNESCO)",
+        "transport": [
+          { "type": "tour", "text": "" }
+        ],
+        "details": [
+          { "label": "História", "items": ["Merv Antiga · Rota da Seda"] }
+        ]
+      },
+      {
+        "date": "Dia 13",
+        "city": "Mary → Bucara",
+        "transport": [
+          { "type": "tour", "text": "" }
+        ],
+        "details": [
+          { "label": null, "items": ["Chegada ao hotel"] }
+        ]
+      },
+      {
+        "date": "Dia 14",
+        "city": "Bucara → Tashkent → Lisboa",
+        "transport": [
+          { "type": "voo", "text": "" }
+        ],
+        "details": [
+          { "label": "Regresso", "items": ["Voo para Lisboa"] }
+        ]
+      }
+    ],
+        "hotels": [
+        {
+          "hotel": "Crowne Plaza Tashkent",
+          "url": "https://www.ihg.com/crowneplaza/hotels/pt/pt/tashkent/tastm/hoteldetail",
+          "local": "Tashkent",
+          "noites": 3,
+          "regime": "PA",
+          "preco": 276.00
+        },
+        {
+          "hotel": "Zarafshon Parkside",
+          "url": "https://www.zarafshonparkside.com/en/home",
+          "local": "Samarcanda",
+          "noites": 2,
+          "regime": "PA",
+          "preco": 165.00
+        },
+        {
+          "hotel": "Kukaldosh Boutique Hotel",
+          "url": "https://www.booking.com/hotel/uz/kukaldosh.pt-pt.html?aid=356980&label=gog235jc-10CAso7gFCCWt1a2FsZG9zaEgzWANoRogBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0_DjywbAAgHSAiRhNWFjNDg5NC0zMjcxLTQzMDEtOTU3OS1hNzExM2RmMWZlOTHYAgHgAgE&sid=870b178448d73cef57e8697f06836b45&all_sr_blocks=107690014_118520059_2_41_0_860339&checkin=2026-04-10&checkout=2026-04-12&dest_id=-2575720&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=107690014_118520059_2_41_0_860339&hpos=1&matching_block_id=107690014_118520059_2_41_0_860339&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=107690014_118520059_2_41_0_860339_23723&srepoch=1769535589&srpvid=90127c2f49ac05ef&type=total&ucfs=1&",
+          "local": "Bucara",
+          "noites": 2,
+          "regime": "PA",
+          "preco": 107.00
+        },
+        {
+          "hotel": "Oasis al Khiva Boutique Hotel Inside Citadel",
+          "url": "https://www.booking.com/hotel/uz/oasis-al-khiva-boutique.pt-pt.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaLsBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALzxb7LBsACAdICJDEyODQ4NmY2LThmYTEtNGQ5MS05N2RlLTI0NjI3YjM2MWQ3Y9gCAeACAQ&sid=870b178448d73cef57e8697f06836b45&all_sr_blocks=1432006101_414826359_0_2_0&checkin=2026-04-12&checkout=2026-04-13&dest_id=-2577285&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=1432006101_414826359_0_2_0&hpos=1&matching_block_id=1432006101_414826359_0_2_0&nflt=review_score%3D90&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=1432006101_414826359_0_2_0__5190&srepoch=1769533776&srpvid=fed678a063a80028&type=total&ucfs=1&",
+          "local": "Khiva",
+          "noites": 2,
+          "regime": "PA",
+          "preco": 48.00
+        },
+        {
+          "hotel": "Tour",
+          "url": "https://www.getyourguide.com/pt-pt/tashauz-l201621/de-khiva-aventura-de-4-dias-no-turquemenistao-com-a-cratera-de-darvaza-t1154300/?visitor-id=DR7ACBXZC46FL1KI0CO5ZSHMD9Y9BH4T&locale_autoredirect_optout=true",
+          "local": "Turcomenistão",
+          "noites": 3,
+          "regime": "Tour",
+          "preco": 850.00
+        },
+        {
+          "hotel": "Premium Hotel Labi Rud",
+          "url": "https://www.booking.com/hotel/uz/malika-sultan-inn.pt-pt.html?label=gen173nr-10CAEoggI46AdIM1gEaLsBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALzxb7LBsACAdICJDEyODQ4NmY2LThmYTEtNGQ5MS05N2RlLTI0NjI3YjM2MWQ3Y9gCAeACAQ&aid=304142&ucfs=1&checkin=2026-04-17&checkout=2026-04-18&dest_id=-2575720&dest_type=city&group_adults=2&no_rooms=1&group_children=0&srpvid=ce397f524c4b0690&srepoch=1769537217&matching_block_id=1353043803_407633032_2_1_0_794701&atlas_src=sr_iw_title",
+          "local": "Bucara",
+          "noites": 1,
+          "regime": "PA",
+          "preco": 58.50
+        }
+      ]
+
+}

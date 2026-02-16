@@ -18,12 +18,6 @@ const Amadeus = require('amadeus');
 const port = process.env.PORT || 3000;
 const baseDir = process.cwd();
 
-// Initialize Amadeus using ENV variables
-const amadeus = new Amadeus({
-  clientId: process.env.API_KEY,
-  clientSecret: process.env.API_SECRET,
-});
-
 const app = express();
 
 // Parse JSON

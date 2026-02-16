@@ -1,10 +1,41 @@
 import { trips } from "./itinerary.js"; 
-import { hotels } from "./itinerary.js"; 
 
-// 1. Descobrir qual viagem carregar 
-const itineraryName = document.getElementById("dailyList"); 
-const tripKey = itineraryName.dataset.trip; // ← "patagonia1", "uz", etc. 
+// ----------------------------
+// Render Basic Information 
+// ----------------------------
 
+const itineraryRoute= document.getElementById("itineraryRoute");
+itineraryRoute.innerHTML = "<strong>Itinerário: </strong>" + trips.itineraryRoute;
+const dayNumber= document.getElementById("dayNumber");
+dayNumber.innerHTML = trips.numberOfDays;
+const totalPrice= document.getElementById("totalPrice");
+totalPrice.innerHTML = trips.totalPrice;
+
+// ----------------------------
+// Render Photos 
+// ----------------------------
+const imageGalery= document.getElementById("imageGalery");
+const imagesData = trips.figures;
+
+imagesData.forEach((d, idx) => {
+    imageGalery.innerHTML = ""; // limpa antes de preencher
+
+    imagesData.forEach((d, idx) => {
+        imageGalery.innerHTML = ""; // limpa antes de preencher
+
+        imagesData.forEach(img => {
+        const figure = document.createElement("figure");
+        
+
+        figure.innerHTML = `
+            <img src="${img.source}" alt="${img.alt}" />
+            <figcaption>${img.caption}</figcaption>
+        `;
+
+        imageGalery.appendChild(figure);
+        });    
+    });
+});
 
 // ----------------------------
 // Helpers de UI
@@ -20,11 +51,37 @@ const colorByType = (type) => {
 };
 
 // ----------------------------
+// Render Initial Flights
+// ----------------------------
+const flightTBody= document.querySelector("#flightTable tbody");
+const flightsData = trips.flights;
+
+flightsData.forEach((d, idx) => {
+    flightTBody.innerHTML = ""; // limpa antes de preencher
+
+    flightsData.forEach(flight => {
+    const trFlight = document.createElement("tr");
+
+    trFlight.innerHTML = `
+        <td>${flight.from}</td>
+        <td>${flight.to}</td>
+        <td>${flight.duration}</td>
+        <td>${flight.stops}</td>
+        <td class="right">${flight.price.toFixed(2).replace(".", ",")}&nbsp;€</td>
+    `;
+
+    flightTBody.appendChild(trFlight);
+    });    
+});
+
+
+
+// ----------------------------
 // Render Hotels
 // ----------------------------
 
 const hotelsTBody= document.querySelector("#hotelsTable tbody");
-const hotelsData = hotels[tripKey].hotels;
+const hotelsData = trips.hotels;
 
 hotelsData.forEach((d, idx) => {
     hotelsTBody.innerHTML = ""; // limpa antes de preencher
@@ -48,7 +105,7 @@ hotelsData.forEach((d, idx) => {
 // Render Daily List
 // ----------------------------
 const root = document.getElementById('dailyList');
-const daysData = trips[tripKey].days;
+const daysData = trips.days;
 
 daysData.forEach((d, idx) => {
     // Linha simples
@@ -129,131 +186,48 @@ daysData.forEach((d, idx) => {
     root.appendChild(details);
 });
 
-
 // ----------------------------
-// Expandir / Ocultar todos
+// Render Tours
 // ----------------------------
-const expandAllBtn  = document.getElementById('expandAll');
-const collapseAllBtn = document.getElementById('collapseAll');
 
-expandAllBtn.addEventListener('click', () => {
-    document.querySelectorAll('.day-details').forEach((el, i) => {
-    el.classList.add('open');
-    const btn = document.querySelector(`.day-line[data-index="${i}"] .btn-tag`);
-    if(btn){ btn.setAttribute('aria-expanded','true'); btn.textContent = 'Ocultar'; }
+const toursTBody= document.querySelector("#tourTable tbody");
+const toursData = trips.tours;
+
+const tourSection = document.getElementById("toursSection");
+
+if (toursData.length==0){
+    tourSection.hidden = "true";
+}
+else{
+    toursData.forEach((d, idx) => {
+        toursTBody.innerHTML = ""; // limpa antes de preencher
+
+        toursData.forEach(tour => {
+        const trTours = document.createElement("tr");
+
+        trTours.innerHTML = `
+            <td><a class="hotel" href="${tour.href}" target="_blank" rel="noopener">${tour.name}</a></td>
+            <td>${tour.location}</td>
+            <td>${tour.price}</td>
+        `;
+
+        toursTBody.appendChild(trTours);
+        });    
     });
-});
-
-collapseAllBtn.addEventListener('click', () => {
-    document.querySelectorAll('.day-details').forEach((el, i) => {
-    el.classList.remove('open');
-    const btn = document.querySelector(`.day-line[data-index="${i}"] .btn-tag`);
-    if(btn){ btn.setAttribute('aria-expanded','false'); btn.textContent = 'Ver detalhes'; }
-    });
-});
-
-
-// ----------------------------
-// Carregar o html para mobile para os voos
-// ----------------------------
-
- // Aplica data-labels a todas as TD com base no texto dos TH
-function applyDataLabels(table) {
-if (!table) return;
-const ths = Array.from(table.querySelectorAll('thead th'));
-if (!ths.length) return;
-
-// Extrai os textos dos TH (tratando espaços e quebras)
-const headers = ths.map(th => (th.textContent || '').replace(/\s+/g, ' ').trim());
-
-// Aplica em cada TD
-table.querySelectorAll('tbody tr').forEach(tr => {
-    Array.from(tr.children).forEach((td, i) => {
-    const label = headers[i] || '';
-    if (label) td.setAttribute('data-label', label);
-    });
-});
 }
 
-// Aplica aos seletores desejados
-function makeStackedTables(...selectors) {
-selectors.forEach(sel => {
-    document.querySelectorAll(sel).forEach(applyDataLabels);
-});
+
+// ----------------------------
+// Render Restaurantes
+// ----------------------------
+
+const restaurantSection = document.getElementById("restaurantes");
+if (trips.restaurants.length == 0){
+    restaurantSection.hidden = "true";
+}
+else{
+
+     //List: TO DO 
 }
 
-// Corre quando o DOM estiver pronto
-document.addEventListener('DOMContentLoaded', function() {
-makeStackedTables('#voos table', '#hoteis table');
 
-// OPCIONAL: se a tua página renderiza/atualiza tabelas via JS depois do load
-// ativa este observer para voltar a aplicar labels quando o tbody mudar
-const observer = new MutationObserver(() => {
-    makeStackedTables('#voos table', '#hoteis table');
-});
-document.querySelectorAll('#voos table tbody, #hoteis table tbody').forEach(tbody => {
-    observer.observe(tbody, { childList: true, subtree: true });
-});
-});
-
-async function runSearch(){
-    if(!dateInput.value) { dateInput.focus(); return; }
-
-    const isoDate = dateInput.value; // yyyy-mm-dd
-    thead.innerHTML = "<tr><th>Voos</th><th>Data</th><th>Origem</th><th>Destino</th><th>Partida</th><th>Chegada</th><th>Tempo</th><th>Escala</th><th class='right'>Preço</th></tr>";
-
-    // Loading state
-    if(tbody){
-    tbody.innerHTML = '<tr><td colspan="9">A procurar voos…</td></tr>';
-    }
-
-    try{
-
-    const offers = await getAllOffers(isoDate, flights);
-
-    if (offers.some(o => o.length === 0)) {
-        tbody.innerHTML = '<tr><td colspan="9">Há pelo menos um dos trajetos para o qual não foi encontrado voo.</td></tr>';
-        return;
-    }
-
-    // Map first up to 10 results onto the table schema
-    const rows = offers.slice(0,10).map(o => {
-        const itin0 = o.itineraries?.[0];
-        const seg0 = itin0?.segments?.[0];
-        const lastSeg = itin0?.segments?.[itin0.segments.length-1];
-        const dep = seg0?.departure?.at?.substring(11,16) || '';
-        const arr = lastSeg?.arrival?.at?.substring(11,16) || '';
-        const depAirport = getAirportLabel(seg0?.departure.iataCode);
-        const arrAirport = getAirportLabel(lastSeg?.arrival.iataCode);
-        const stops = getStops(itin0);
-        const duration = itin0?.duration?.replace('PT','').toLowerCase() || '';
-        const code = o.validatingAirlineCodes?.[0] || (seg0?.carrierCode||'') + (seg0?.number||'');
-        const price = o.price?.total || '';
-        const datePretty = seg0?.departure.at.split("T")[0].split('-').reverse().join('-');
-        const flightNumber = itin0.segments?.map(seg => seg.carrierCode + seg.number).join(" + ");
-        
-        return `
-        <tr>
-            <td>${flightNumber}</td>
-            <td>${datePretty}</td>
-            <td>${depAirport}</td>
-            <td>${arrAirport}</td>
-            <td>${dep}</td>
-            <td>${arr}</td>
-            <td>${duration}</td>
-            <td>${stops === 0 ? '' : stops.toString()}</td>
-            <td class="right">${price ? price + ' €' : ''}</td>
-        </tr>`; 
-    }).join('');
-    tbody.innerHTML = rows;
-    }catch(err){
-    console.error(err);
-    tbody.innerHTML = '<tr><td colspan="9">Ocorreu um erro ao procurar voos.</td></tr>';
-    }
-}
-const btn = document.getElementById('btnSearchFlights');
-const dateInput = document.getElementById('departureDate');
-const tbody = document.querySelector('#voos table tbody');
-const thead = document.querySelector('#voos table thead');
-          
-if(btn){ btn.addEventListener('click', runSearch); }

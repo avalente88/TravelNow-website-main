@@ -42,10 +42,10 @@
     });
     // baseline: cheapest
     var cheapest = enriched.reduce(function (a, b) { return (a.price < b.price ? a : b); });
-    var maxAllowedPrice = cheapest.price + 200; // simple business rule
-    // eligible: <= +200€ and <= stops of cheapest
+    var maxAllowedPrice = cheapest.price + 250; 
+    // eligible: <= +250€ and <= stops of cheapest 
     var eligible = enriched.filter(function (f) {
-      return f.price <= maxAllowedPrice && f.stops <= cheapest.stops;
+      return f.price <= maxAllowedPrice && f.stops <= cheapest.stops && parseInt(f.offer.itineraries[0].segments[0].departure.at.split("T")[1].split(":")[0]) >= 8;
     });
     if (eligible.length > 0) {
       eligible.sort(function (a, b) { return a.duration - b.duration; });
@@ -116,7 +116,7 @@ if (typeof window !== 'undefined' && window.FlightSearch) {
 let airportMap = {};
 
 async function loadAirports() {
-  const response = await fetch("../../JSON/airports.json");
+  const response = await fetch("/JSON/airports.json");
   const airports = await response.json();
 
   airportMap = airports.reduce((acc, a) => {
@@ -167,7 +167,7 @@ async function getAllOffers(isoDate, flights) {
 
   const offers = [];
 
-  for (const [from, to, offset] of flights) {
+  for (const {from, to, offset} of flights) {
     const date = new Date(baseDate);
     date.setDate(date.getDate() + offset);
 
