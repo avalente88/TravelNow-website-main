@@ -3,7 +3,7 @@
    <head>
       <meta charset="UTF-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>Plano de Viagem — Patagónia 2026</title>
+      <title>Plano de Viagem</title>
       <link rel="stylesheet" href="/styles/styles.css" />
       <link rel="stylesheet" href="/styles/datepicker.css" />
       <script type="module" src="/scripts/itinerary.js"></script>
@@ -76,8 +76,6 @@
                 Procurar voos
               </button>
             </form>
-
-
             <p id="flightSearchHint" class="muted" style="margin-top:8px;">
                Escolha a data e clique em <em>Procurar voos</em>. Os resultados irão atualizar a tabela abaixo.
             </p>
@@ -126,11 +124,12 @@
             <!-- Legenda e ações -->
             <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap; margin-bottom:10px;">
                <p class="muted" style="margin:0;">
-                  <span class="tag tag-voo">avião</span>
-                  <span class="tag tag-tour">tour</span>
-                  <span class="tag tag-autocarro">autocarro</span>
-                  <span class="tag tag-ferry">ferry</span>
-                  <span class="tag tag-comboio">comboio</span>
+                  <span id="tagFlight" class="tag tag-voo">avião</span>
+                  <span id="tagTour" class="tag tag-tour">tour</span>
+                  <span id="tagBus" class="tag tag-autocarro">autocarro</span>
+                  <span id="tagFerry" class="tag tag-ferry">ferry</span>
+                  <span id="tagTrain" class="tag tag-comboio">comboio</span>
+                  <span id="tagRoad" class="tag tag-estrada">estrada</span>
                </p>
                <div style="display:flex; gap:8px;">
                   <button type="button" class="btn-outline" id="expandAll">Expandir todos</button>
@@ -164,9 +163,6 @@
                   <!-- Lista é gerada por JS -->
                </tbody>
               </table>
-
-
-
          </section>
       </main>
       <footer>

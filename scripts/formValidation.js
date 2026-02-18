@@ -164,6 +164,61 @@ document.addEventListener("DOMContentLoaded", () => {
 
     
     if (contactForm) {
+
+        contactForm.addEventListener("submit", async (e) => {
+            e.preventDefault();
+
+            let isValid = true;
+
+            const fullName = contactForm.elements["fullname"];
+            const email = contactForm.elements["email"];
+            const message = contactForm.elements["message"];
+            const thankYou = document.getElementById("thankYouMessage");
+
+            [fullName, email, message].forEach(input => {
+                if (input) clearError(input);
+            });
+
+            if (!fullName.value.trim()) {
+                showError(fullName, "Full name is required.");
+                isValid = false;
+            }
+
+            if (!email.value.trim()) {
+                showError(email, "Email address is required.");
+                isValid = false;
+            } else if (!isEmailValid(email.value.trim())) {
+                showError(email, "Please enter a valid email address.");
+                isValid = false;
+            }
+
+            if (!message.value.trim()) {
+                showError(message, "Please enter your message.");
+                isValid = false;
+            }
+
+            if (!isValid) return;
+
+            // 👉 Enviar via fetch
+            const response = await fetch("/send-email", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    fullname: fullName.value,
+                    email: email.value,
+                    message: message.value
+                })
+            });
+
+            if (response.ok) {
+                thankYou.style.display = "block";
+                contactForm.reset();
+            } else {
+                alert("Ocorreu um erro ao enviar a mensagem.");
+            }
+        });
+
+
         contactForm.addEventListener("submit", (e) => {
             let isValid = true;
 
@@ -204,7 +259,8 @@ document.addEventListener("DOMContentLoaded", () => {
             if (thankYou) {
                 thankYou.style.display = "block";
             }
-            contactForm.reset();
+            //contactForm.reset();
+
         });
     }
 });

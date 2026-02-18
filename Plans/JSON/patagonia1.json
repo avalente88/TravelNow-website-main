@@ -48,18 +48,53 @@
   "flights": 
   [
     {
-      "from": "teste",
-      "to": "fsd",
-      "duration": "2:12",
-      "stops": "sdfs",
+      "from": "LIS - Lisboa",
+      "to": "SCL - Santiago",
+      "duration": "14:30",
+      "stops": "São Paulo - 1h:10",
+      "price": 736.00
+    },
+    {
+      "from": "SCL - Santiago",
+      "to": "PNT - Puerto Natales",
+      "duration": "04:27",
+      "stops": "",
       "price": 146.00
     },
     {
-      "from": "asd",
-      "to": "tfghj",
-      "duration": "2:00",
-      "stops": "jhgf",
-      "price": 1400.00
+      "from": "PUQ - Punta Arenas",
+      "to": "WPU - Porto Williams",
+      "duration": "01:15",
+      "stops": "",
+      "price": 112.00
+    },
+    {
+      "from": "USH - Ushuaia",
+      "to": "FTE - El Calafate",
+      "duration": "01:2O",
+      "stops": "",
+      "price": 210.00
+    },
+    {
+      "from": "FTE - El Calafate",
+      "to": "AEP - Buenos Aires",
+      "duration": "03:00",
+      "stops": "",
+      "price": 90.00
+    },
+    {
+      "from": "AEP - Buenos Aires",
+      "to": "GIG - Rio de Janeiro",
+      "duration": "02:55",
+      "stops": "",
+      "price": 183.00
+    },
+    {
+      "from": "GIG - Rio de Janeiro",
+      "to": "LIS - Lisboa",
+      "duration": "09:40",
+      "stops": "",
+      "price": 699.00
     }
   ], 
   "restaurants":[], 

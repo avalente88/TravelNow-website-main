@@ -1,69 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TravelNow – Travel Agency</title>
+    <title>Mala dos Sonhos - Os roteiros mais fixes</title>
+
     <link rel="stylesheet" href="styles/styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400..700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #f0f4f8;
-            color: #1e293b;
-        }
-
-        /* Styling for the SVG map */
-        #world-map-svg {
-            cursor: pointer;
-            width: 100%;
-            height: auto;
-            max-height: 90vh;
-        }
-
-        /* Default country style */
-        #world-map-svg path {
-            fill: #cbd5e1;
-            stroke: #f0f4f8;
-            stroke-width: 0.5;
-            transition: fill 0.2s ease-in-out;
-        }
-
-        /* Style for a country when hovered over */
-        #world-map-svg path:hover {
-            fill: #94a3b8;
-        }
-
-        /* Style for the currently selected country */
-        #world-map-svg path.active {
-            fill: #f63b6d;
-        }
-        /* Container for the map to enable scaling */
-        #map-container > svg {
-            width: 100%;
-            height: 100%;
-        }
-        /* Simple pulse animation for the loading indicator */
-        @keyframes pulse {
-            0%, 100% {
-                opacity: 1;
-            }
-            50% {
-                opacity: 0.5;
-            }
-        }
-        .animate-pulse {
-            animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-        }
-    </style>
-
 </head>
-<body >
-    <!-- Top Navigation Bar -->
+
+<body>
+
+    <!-- NAVBAR -->
     <nav class="top-navbar">
         <ul>
             <li><a href="index.html">Home</a></li>
@@ -71,52 +22,52 @@
         </ul>
     </nav>
 
-    <!-- Header / Home Section -->
+    <!-- HEADER (mantido) -->
     <header class="header-top" id="home">
         <div class="profile-container">
-            <img src="Images/logo.png" alt="TravelNow – Dream Destinations">
+            <img src="Images/logo.png" alt="Mala dos Sonhos – Logo">
         </div>
-
     </header>
 
+    <!-- CONTEÚDO CENTRAL -->
     <main class="container">
-      
-    <section id="aboutme" class="card">
-      <h2 class="section-title">Sobre mim</h2>
-      
-    <p>Olá! Sou a Ana Valente.</p>
-    <p> Desenho roteiros e planos de viagem dos meus sonhos e registo-os aqui. Gosto de ter estimativas de duração, escalas e custos médios para me conseguir orientar.</p>
-    <p> Se tens um destino em mente, procura por aqui. Qualquer dúvida manda mensagem. 
-    </p>
-    <p>P.S.: Não sou uma agência de viagens. Apenas gosto de partilhar os meus sonhos.</p>
 
-    </section>
+        <!-- SOBRE MIM (usa .card → largura consistente) -->
+        <section id="aboutme" class="card">
+            <h2 class="section-title">Sobre mim</h2>
 
-    <!-- Contact Section (simple contact form for now) -->
-    <section id="contact">
-        <h3 class="h3 form-title">Contacta-me</h3>
-        <div id="thankYouMessage" style="display: none;">
-            <p>Obrigada pela tua mensagem. Respondo-te assim que me for possível. </p>
-        </div>
-        <form name="contactForm" method="POST" id="contactForm">
-            <div class="input-wrapper">
+            <p>Olá! Sou a Ana Valente.</p>
+            <p>Desenho roteiros e planos de viagem dos meus sonhos e registo-os aqui. Gosto de ter estimativas de duração, escalas e custos médios para me conseguir orientar.</p>
+            <p>Se tens um destino em mente, procura por aqui. Qualquer dúvida manda mensagem.</p>
+            <p><strong>P.S.:</strong> Não sou uma agência de viagens. Apenas gosto de partilhar os meus sonhos.</p>
+        </section>
+
+        <!-- CONTACTOS (agora também .card → mesma largura e estilo) -->
+        <section id="contact" class="card">
+            <h3 class="section-title">Contacta-me</h3>
+
+            <div id="thankYouMessage" style="display:none;">
+                <p>Obrigada pela tua mensagem. Respondo-te assim que me for possível.</p>
+            </div>
+
+            <form id="contactForm" method="POST" action="/send-email">
                 <input type="text" name="fullname" class="form-input" placeholder="Nome" required>
                 <input type="email" name="email" class="form-input" placeholder="Email" required>
-            </div>
-            <textarea name="message" class="form-input" placeholder="A tua mensagem." required></textarea>
-            <button class="form-btn" type="submit">
-                <span>Enviar Mensagem</span>
-            </button>
-        </form>
-    </section>
+                <textarea name="message" class="form-input" placeholder="A tua mensagem." required></textarea>
 
-    <script src="scripts/formValidation.js"></script>
+                <button class="form-btn" type="submit">
+                    <span>Enviar Mensagem</span>
+                </button>
+            </form>
+        </section>
 
     </main>
-    <!-- Footer -->
-    <footer>
-        <p>&copy; 2026 Mala de Sonhos </p>
 
+    <!-- FOOTER -->
+    <footer>
+        <p>&copy; 2026 Mala de Sonhos</p>
     </footer>
+
+    <script src="scripts/formValidation.js"></script>
 </body>
 </html>

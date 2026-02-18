@@ -1,19 +1,245 @@
 {
   "name": "Uzbequistão + Turcomenistão",
-  "itineraryRoute": "",
-  "numberOfDays": "",
-  "totalPrice": "",
-  "figures": [],
-  "flights": [], 
-  "restaurants":[], 
-  "tours": [], 
-  "flightSearch": [],
+  "itineraryRoute": "Tashkent → Samarcanda → Bucara → Khiva → Darvaza/Ashgabat/Mary → Bucara → Tashkent → Lisboa",
+  "numberOfDays": "Número de dias: 15 (pode ser superior, caso se opte por tours)",
+  "totalPrice": "TOTAL: 2&nbsp;486,50&nbsp;€",
+  "figures": [
+    {
+      "source": "/Images/UZ/tashkent.jpg",
+      "alt": "Tashkent",
+      "caption": "Tashkent"
+    },
+    {
+      "source": "/Images/UZ/registan_samarkand.jpg",
+      "alt": "Registan, Samarcanda",
+      "caption": "Samarcanda"
+    },
+    {
+      "source": "/Images/UZ/bukhara.jpg",
+      "alt": "Bucara",
+      "caption": "Bucara"
+    },
+    {
+      "source": "/Images/UZ/khiva.jpg",
+      "alt": "Khiva",
+      "caption": "Khiva"
+    },
+    {
+      "source": "/Images/UZ/darvaza.jpg",
+      "alt": "Darvaza",
+      "caption": "Cratera de Darvaza"
+    },
+    {
+      "source": "/Images/UZ/ashgabat.jpg",
+      "alt": "Ashgabat",
+      "caption": "Ashgabat"
+    },
+    {
+      "source": "/Images/UZ/mary_merv.jpg",
+      "alt": "Mary (Merv)",
+      "caption": "Mary UNESCO"
+    },
+    {
+      "source": "/Images/UZ/fergana.jpg",
+      "alt": "Vale de Fergana",
+      "caption": "Vale de Fergana"
+    }
+  ],
+  "flights": 
+  [
+    {
+      "from": "LIS - Lisboa",
+      "to": "TAS - Tashkent",
+      "duration": "14:40",
+      "stops": "IST - Istambul: 5:30",
+      "price": 797.00
+    },
+    {
+      "from": "BHK - Bucara",
+      "to": "UGC - Urgench",
+      "duration": "00:50",
+      "stops": "",
+      "price": 70.00
+    },
+    {
+      "from": "BHK - Bucara",
+      "to": "TAS - Tashkent",
+      "duration": "01:20",
+      "stops": "",
+      "price": 75.00
+    },
+    {
+      "from": "TAS - Tashkent",
+      "to": "LIS - Lisboa",
+      "duration": "12:15",
+      "stops": "IST - Istambul - 01:50",
+      "price": 75.00
+    }
+  ], 
+  "restaurants": 
+   [
+    {
+      "city": "Tashkent",
+      "restaurants": [
+        {
+          "name": "Central Asian Plov Center",
+          "location": "perto do centro",
+          "tip": "Plov obrigatório · Ideal antes das 14h"
+        },
+        {
+          "name": "Afsona",
+          "location": "zona Amir Timur",
+          "tip": "Cozinha uzbeque moderna"
+        },
+        {
+          "name": "Caravan",
+          "location": "centro",
+          "tip": "Ambiente tradicional · Bons manti e shashlik"
+        },
+        {
+          "name": "Dudek Brewery",
+          "location": "Tashkent City",
+          "tip": "Cerveja artesanal · Ótimo após City Park"
+        }
+      ]
+    },
+    {
+      "city": "Samarcanda",
+      "restaurants": [
+        {
+          "name": "Old City Restaurant",
+          "location": "perto do Gur‑e Amir",
+          "tip": "Prático e honesto"
+        },
+        {
+          "name": "Platan",
+          "location": "centro histórico",
+          "tip": "Um dos melhores · Reserva recomendada"
+        },
+        {
+          "name": "Bibi‑Khanum Teahouse",
+          "location": "atrás da mesquita",
+          "tip": "Ambiente lindíssimo · Pratos tradicionais"
+        },
+        {
+          "name": "Samarkand Restaurant",
+          "location": null,
+          "tip": "Clássico · Bom e consistente"
+        }
+      ]
+    },
+    {
+      "city": "Bucara",
+      "restaurants": [
+        {
+          "name": "Minzifa",
+          "location": "cidade antiga",
+          "tip": "Terraço agradável"
+        },
+        {
+          "name": "Old Bukhara",
+          "location": null,
+          "tip": "Muito tradicional"
+        },
+        {
+          "name": "Lyabi House",
+          "location": "zona Lyabi‑Hauz",
+          "tip": "Perfeito entre visitas"
+        },
+        {
+          "name": "Chor Bakr Restaurant",
+          "location": null,
+          "tip": "Ambiente calmo · Boa comida"
+        },
+        {
+          "name": "Labi Rud Restaurant",
+          "location": "perto do hotel",
+          "tip": "Ótimo após dia de estrada"
+        }
+      ]
+    },
+    {
+      "city": "Khiva",
+      "restaurants": [
+        {
+          "name": "Khorezm Art Restaurant",
+          "location": "dentro de Itchan Kala",
+          "tip": "Cozinha regional"
+        },
+        {
+          "name": "Terrassa Café (Orient Star)",
+          "location": "antiga madrassa",
+          "tip": "Vista incrível ao pôr do sol"
+        },
+        {
+          "name": "Zarafshan Café",
+          "location": null,
+          "tip": "Simples e eficaz"
+        },
+        {
+          "name": "Mirzaboshi",
+          "location": "dentro das muralhas",
+          "tip": "Perfeito para a última noite"
+        }
+      ]
+    }
+  ],
+  "tours": 
+  [
+    {
+      "name": "Vale de Fergana",
+      "href": "https://www.civitatis.com/pt/tashkent/tour-dois-dias-vale-fergana/?_gl=1*1dj67r*_up*MQ..*_ga*MTA1Nzg5MjE0MC4xNzcxMTEwNjc1*_ga_QJQ54CTKPM*czE3NzExMTA2NzUkbzEkZzEkdDE3NzExMTA3MTEkajI0JGwwJGgw*_ga_216706797*czE3NzExMTA2NzUkbzEkZzAkdDE3NzExMTA3MTMkajIyJGwwJGgxOTU0ODI2MTM1",
+      "location": "Tashkent",
+      "price": "576,00&nbsp;€"
+    },
+    {
+      "name": "Mar de Aral",
+      "href": "https://www.getyourguide.com/pt-pt/khiva-l179618/de-khiva-ao-mar-de-aral-2-dias-uma-noite-em-yurt-t796610/?ranking_uuid=c23e0150-d3de-4030-b9d6-7673d4d4a249",
+      "location": "Khiva",
+      "price": "584,00&nbsp;€"
+    },
+    {
+      "name": "Deserto Kyzylkum",
+      "href": "https://www.getyourguide.com/pt-pt/bukhara-l143829/safari-em-kyzylkoum-no-lago-aydar-2-dias-acampamento-em-yurt-e-muito-mais-t1137257/?ranking_uuid=85de0ff7-a313-4531-985a-8caa691c371a",
+      "location": "Bucara",
+      "price": "185,00&nbsp;€"
+    },
+    {
+      "name": "Aventura no Turcomenistão",
+      "href": "https://www.getyourguide.com/pt-pt/tashauz-l201621/de-khiva-aventura-de-4-dias-no-turquemenistao-com-a-cratera-de-darvaza-t1154300/?visitor-id=DR7ACBXZC46FL1KI0CO5ZSHMD9Y9BH4T&locale_autoredirect_optout=true",
+      "location": "Khiva",
+      "price": "833,00&nbsp;€"
+    }
+  ], 
+  "flightSearch": 
+  [
+    {
+      "from": "LIS",
+      "to": "TAS",
+      "offset": 0
+    },
+    {
+      "from": "BHK",
+      "to": "UGC",
+      "offset": 3
+    },
+    {
+      "from": "BHK",
+      "to": "TAS",
+      "offset": 13
+    },
+    {
+      "from": "TAS",
+      "to": "LIS",
+      "offset": 14
+    }
+  ],
   "days": [
       {
         "date": "Dia 1",
         "city": "Chegada a Tashkent",
         "transport": [
-          { "type": "voo", "text": "chegada" }
+          { "type": "avião", "text": "chegada" }
         ],
         "details": [
           {
@@ -90,7 +316,7 @@
         "date": "Dia 8",
         "city": "Bucara → Khiva",
         "transport": [
-          { "type": "voo", "text": "" },
+          { "type": "avião", "text": "" },
           { "type": "estrada", "text": "" }
         ],
         "details": [
@@ -153,7 +379,7 @@
         "date": "Dia 14",
         "city": "Bucara → Tashkent → Lisboa",
         "transport": [
-          { "type": "voo", "text": "" }
+          { "type": "avião", "text": "" }
         ],
         "details": [
           { "label": "Regresso", "items": ["Voo para Lisboa"] }

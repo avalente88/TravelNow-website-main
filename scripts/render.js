@@ -38,19 +38,6 @@ imagesData.forEach((d, idx) => {
 });
 
 // ----------------------------
-// Helpers de UI
-// ----------------------------
-const colorByType = (type) => {
-    // normaliza para classes existentes (mantém novas onde aplicável)
-    if (type === "avião" || type === "voo") return "tag-voo";
-    if (type === "comboio") return "tag-comboio";
-    if (type === "tour") return "tag-tour";
-    if (type === "autocarro") return "tag-autocarro";
-    if (type === "ferry" || type === "barco") return "tag-ferry";
-    return "tag-estrada"; // fallback
-};
-
-// ----------------------------
 // Render Initial Flights
 // ----------------------------
 const flightTBody= document.querySelector("#flightTable tbody");
@@ -75,10 +62,14 @@ flightsData.forEach((d, idx) => {
 });
 
 
-
 // ----------------------------
 // Render Hotels
 // ----------------------------
+
+const restaurantSection = document.getElementById("restaurantes");
+if (trips.restaurants.length == 0){
+    restaurantSection.hidden = "true";
+}
 
 const hotelsTBody= document.querySelector("#hotelsTable tbody");
 const hotelsData = trips.hotels;
@@ -101,13 +92,85 @@ hotelsData.forEach((d, idx) => {
     });    
 });
 
+
+// ----------------------------
+// Render Restaurants
+// ----------------------------
+
+  const restaurantData = trips.restaurants;
+  const container = document.querySelector("#restaurantes .resto-grid");
+  container.innerHTML = ""; // limpar
+
+  restaurantData.forEach(cityBlock => {
+    const div = document.createElement("div");
+    div.className = "resto";
+
+    // título da cidade
+    div.innerHTML += `<h4>${cityBlock.city}</h4>`;
+
+    // restaurantes
+    cityBlock.restaurants.forEach((r, index) => {
+      div.innerHTML += `
+        <div class="meta">
+          <strong>${r.name}</strong>
+          ${r.location ? ` — ${r.location}` : ""}
+        </div>
+        <div class="tip">${r.tip}</div>
+        ${index < cityBlock.restaurants.length - 1 ? "<hr>" : ""}
+      `;
+    });
+
+    container.appendChild(div);
+  });
+
+
+
 // ----------------------------
 // Render Daily List
 // ----------------------------
+
+const colorByType = (type) => {
+    // normaliza para classes existentes (mantém novas onde aplicável)
+    if (type === "avião" || type === "voo") return "tag-voo";
+    if (type === "comboio") return "tag-comboio";
+    if (type === "tour") return "tag-tour";
+    if (type === "autocarro") return "tag-autocarro";
+    if (type === "ferry" || type === "barco") return "tag-ferry";
+    return "tag-estrada"; // fallback
+};
+
 const root = document.getElementById('dailyList');
 const daysData = trips.days;
 
+const tagFlight = document.getElementById("tagFlight");
+const tagTour = document.getElementById("tagTour");
+const tagRoad = document.getElementById("tagRoad");
+const tagTrain = document.getElementById("tagTrain");
+const tagBus = document.getElementById("tagBus");
+const tagFerry = document.getElementById("tagFerry");
+
+var hasTour = false;
+var hasFlight = false;
+var hasRoad = false;
+var hasTrain = false;
+var hasBus = false;
+var hasFerry = false;
+
 daysData.forEach((d, idx) => {
+
+    if(!hasFlight)
+        hasFlight = d.transport.some(t => t.type === "avião");
+    if(!hasTour)
+        hasTour = d.transport.some(t => t.type === "tour");
+    if(!hasRoad)
+        hasRoad = d.transport.some(t => t.type === "estrada");
+    if(!hasTrain)
+        hasTrain = d.transport.some(t => t.type === "comboio");
+    if(!hasBus)
+        hasBus = d.transport.some(t => t.type === "autocarro");
+    if(!hasFerry)
+        hasFerry = d.transport.some(t => t.type === "ferry");
+
     // Linha simples
     const line = document.createElement('div');
     line.className = 'day-line';
@@ -186,6 +249,25 @@ daysData.forEach((d, idx) => {
     root.appendChild(details);
 });
 
+if(!hasTour)
+    tagTour.style.display = hasTour ? "inline-block" : "none";
+
+if(!hasFlight)
+     tagFlight.style.display = hasFlight ? "inline-block" : "none";
+
+if(!hasRoad)
+     tagRoad.style.display = hasRoad ? "inline-block" : "none";
+
+if(!hasTrain)
+     tagTrain.style.display = hasTrain ? "inline-block" : "none";
+
+if(!hasBus)
+     tagBus.style.display = hasBus ? "inline-block" : "none";
+
+if(!hasFerry)
+     tagFerry.style.display = hasFerry ? "inline-block" : "none";
+
+
 // ----------------------------
 // Render Tours
 // ----------------------------
@@ -215,19 +297,3 @@ else{
         });    
     });
 }
-
-
-// ----------------------------
-// Render Restaurantes
-// ----------------------------
-
-const restaurantSection = document.getElementById("restaurantes");
-if (trips.restaurants.length == 0){
-    restaurantSection.hidden = "true";
-}
-else{
-
-     //List: TO DO 
-}
-
-

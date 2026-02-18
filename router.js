@@ -10,6 +10,7 @@ const amadeus = new Amadeus({
   clientSecret: API_SECRET
 });
 
+
 // GET /api/flights
 router.get("/api/flights", async (req, res) => {
   const { origin, destination, departureDate, adults = 1, max = 10 } = req.query;

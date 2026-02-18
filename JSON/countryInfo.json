@@ -1,0 +1,4432 @@
+[
+    {"flags":{"png":"https://flagcdn.com/w320/va.png","svg":"https://flagcdn.com/va.svg","alt":"A bandeira da Cidade do Vaticano é quadrada, composta por duas faixas verticais iguais, amarela e branca, com o brasão papal ao centro da faixa branca."},"name":{"common":"Cidade do Vaticano","official":"Estado da Cidade do Vaticano","nativeName":{"ita":{"official":"Stato della Città del Vaticano","common":"Vaticano"},"lat":{"official":"Status Civitatis Vaticanæ","common":"Vaticanæ"}}},"cca3":"VAT","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Cidade do Vaticano"],"languages":{"ita":"Italiano","lat":"Latim"},"area":0.49,"population":882,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/be.png","svg":"https://flagcdn.com/be.svg","alt":"A bandeira da Bélgica é composta por três faixas verticais iguais: preto, amarelo e vermelho."},"name":{"common":"Bélgica","official":"Reino da Bélgica","nativeName":{"deu":{"official":"Königreich Belgien","common":"Belgien"},"fra":{"official":"Royaume de Belgique","common":"Belgique"},"nld":{"official":"Koninkrijk België","common":"België"}}},"cca3":"BEL","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Bruxelas"],"languages":{"deu":"Alemão","fra":"Francês","nld":"Neerlandês"},"area":30528,"population":11825551,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/km.png","svg":"https://flagcdn.com/km.svg","alt":"A bandeira das Comores tem quatro faixas horizontais amarelo, branco, vermelho e azul, com um triângulo verde contendo uma lua crescente e quatro estrelas."},"name":{"common":"Comores","official":"União das Comores","nativeName":{"ara":{"official":"الاتحاد القمري","common":"القمر‎"},"fra":{"official":"Union des Comores","common":"Comores"},"zdj":{"official":"Udzima wa Komori","common":"Komori"}}},"cca3":"COM","currencies":{"KMF":{"name":"Franco comorense","symbol":"Fr"}},"capital":["Moroni"],"languages":{"ara":"Árabe","fra":"Francês","zdj":"Comoriano"},"area":1862,"population":919901,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/pr.png","svg":"https://flagcdn.com/pr.svg","alt":"A bandeira de Porto Rico tem cinco faixas horizontais vermelhas e brancas e um triângulo azul com uma estrela branca."},"name":{"common":"Porto Rico","official":"Comunidade de Porto Rico","nativeName":{"eng":{"official":"Commonwealth of Puerto Rico","common":"Puerto Rico"},"spa":{"official":"Estado Libre Asociado de Puerto Rico","common":"Puerto Rico"}}},"cca3":"PRI","currencies":{"USD":{"name":"Dólar dos Estados Unidos","symbol":"$"}},"capital":["San Juan"],"languages":{"eng":"Inglês","spa":"Espanhol"},"area":8870,"population":3203295,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/um.png","svg":"https://flagcdn.com/um.svg","alt":"A bandeira das Ilhas Menores Distantes dos EUA segue o padrão da bandeira dos Estados Unidos."},"name":{"common":"Ilhas Menores Distantes dos Estados Unidos","official":"Ilhas Menores Distantes dos Estados Unidos","nativeName":{"eng":{"official":"United States Minor Outlying Islands","common":"United States Minor Outlying Islands"}}},"cca3":"UMI","currencies":{"USD":{"name":"Dólar dos Estados Unidos","symbol":"$"}},"capital":["Washington DC"],"languages":{"eng":"Inglês"},"area":34.2,"population":0,"continents":["Oceânia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/bv.png","svg":"https://flagcdn.com/bv.svg","alt":"A bandeira da Ilha Bouvet segue o padrão da bandeira da Noruega."},"name":{"common":"Ilha Bouvet","official":"Ilha Bouvet","nativeName":{"nor":{"official":"Bouvetøya","common":"Bouvetøya"}}},"cca3":"BVT","currencies":{},"capital":[],"languages":{"nor":"Norueguês"},"area":49,"population":0,"continents":["Antártida"]},
+    {"flags":{"png":"https://flagcdn.com/w320/tz.png","svg":"https://flagcdn.com/tz.svg","alt":"A bandeira da Tanzânia tem uma faixa diagonal preta com bordas amarelas, separando áreas verde e azul."},"name":{"common":"Tanzânia","official":"República Unida da Tanzânia","nativeName":{"eng":{"official":"United Republic of Tanzania","common":"Tanzania"},"swa":{"official":"Jamhuri ya Muungano wa Tanzania","common":"Tanzania"}}},"cca3":"TZA","currencies":{"TZS":{"name":"Xelim tanzaniano","symbol":"Sh"}},"capital":["Dodoma"],"languages":{"eng":"Inglês","swa":"Suaíli"},"area":947303,"population":68153004,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/mk.png","svg":"https://flagcdn.com/mk.svg","alt":"A bandeira da Macedónia do Norte tem um sol amarelo com oito raios sobre fundo vermelho."},"name":{"common":"Macedónia do Norte","official":"República da Macedónia do Norte","nativeName":{"mkd":{"official":"Република Северна Македонија","common":"Македонија"}}},"cca3":"MKD","currencies":{"MKD":{"name":"Dinar macedónio","symbol":"den"}},"capital":["Escópia"],"languages":{"mkd":"Macedónio"},"area":25713,"population":1822612,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/sa.png","svg":"https://flagcdn.com/sa.svg","alt":"A bandeira da Arábia Saudita é verde com a Shahada em branco e uma espada horizontal."},"name":{"common":"Arábia Saudita","official":"Reino da Arábia Saudita","nativeName":{"ara":{"official":"المملكة العربية السعودية","common":"العربية السعودية"}}},"cca3":"SAU","currencies":{"SAR":{"name":"Rial saudita","symbol":"ر.س"}},"capital":["Riade"],"languages":{"ara":"Árabe"},"area":2149690,"population":35300280,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/cx.png","svg":"https://flagcdn.com/cx.svg","alt":"A bandeira da Ilha do Natal tem triângulos verde e azul com símbolos locais."},"name":{"common":"Ilha do Natal","official":"Território da Ilha do Natal","nativeName":{"eng":{"official":"Territory of Christmas Island","common":"Christmas Island"}}},"cca3":"CXR","currencies":{"AUD":{"name":"Dólar australiano","symbol":"$"}},"capital":["Flying Fish Cove"],"languages":{"eng":"Inglês"},"area":135,"population":1692,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/sk.png","svg":"https://flagcdn.com/sk.svg","alt":"A bandeira da Eslováquia tem faixas branca, azul e vermelha com o brasão nacional."},"name":{"common":"Eslováquia","official":"República Eslovaca","nativeName":{"slk":{"official":"Slovenská republika","common":"Slovensko"}}},"cca3":"SVK","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Bratislava"],"languages":{"slk":"Eslovaco"},"area":49037,"population":5413813,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/kp.png","svg":"https://flagcdn.com/kp.svg","alt":"A bandeira da Coreia do Norte tem faixas azul, branca e vermelha com uma estrela vermelha."},"name":{"common":"Coreia do Norte","official":"República Popular Democrática da Coreia","nativeName":{"kor":{"official":"조선민주주의인민공화국","common":"조선"}}},"cca3":"PRK","currencies":{"KPW":{"name":"Won norte-coreano","symbol":"₩"}},"capital":["Pyongyang"],"languages":{"kor":"Coreano"},"area":120538,"population":25950000,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/sj.png","svg":"https://flagcdn.com/sj.svg","alt":"A bandeira de Svalbard e Jan Mayen segue o padrão norueguês."},"name":{"common":"Svalbard e Jan Mayen","official":"Svalbard e Jan Mayen","nativeName":{"nor":{"official":"Svalbard og Jan Mayen","common":"Svalbard og Jan Mayen"}}},"cca3":"SJM","currencies":{"NOK":{"name":"Coroa norueguesa","symbol":"kr"}},"capital":["Longyearbyen"],"languages":{"nor":"Norueguês"},"area":61399,"population":2530,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/cf.png","svg":"https://flagcdn.com/cf.svg","alt":"A bandeira da República Centro-Africana tem faixas azul, branca, verde e amarela com uma faixa vertical vermelha."},"name":{"common":"República Centro-Africana","official":"República Centro-Africana","nativeName":{"fra":{"official":"République centrafricaine","common":"République centrafricaine"},"sag":{"official":"Ködörösêse tî Bêafrîka","common":"Bêafrîka"}}},"cca3":"CAF","currencies":{"XAF":{"name":"Franco CFA da África Central","symbol":"Fr"}},"capital":["Bangui"],"languages":{"fra":"Francês","sag":"Sango"},"area":622984,"population":6470307,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/zm.png","svg":"https://flagcdn.com/zm.svg","alt":"A bandeira da Zâmbia é verde com uma águia laranja e três faixas verticais."},"name":{"common":"Zâmbia","official":"República da Zâmbia","nativeName":{"eng":{"official":"Republic of Zambia","common":"Zambia"}}},"cca3":"ZMB","currencies":{"ZMW":{"name":"Kwacha zambiano","symbol":"ZK"}},"capital":["Lusaca"],"languages":{"eng":"Inglês"},"area":752612,"population":19693423,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/jm.png","svg":"https://flagcdn.com/jm.svg","alt":"A bandeira da Jamaica tem um X dourado separando áreas verdes e pretas."},"name":{"common":"Jamaica","official":"Jamaica","nativeName":{"eng":{"official":"Jamaica","common":"Jamaica"},"jam":{"official":"Jamaica","common":"Jamaica"}}},"cca3":"JAM","currencies":{"JMD":{"name":"Dólar jamaicano","symbol":"$"}},"capital":["Kingston"],"languages":{"eng":"Inglês","jam":"Patois jamaicano"},"area":10991,"population":2825544,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ph.png","svg":"https://flagcdn.com/ph.svg","alt":"A bandeira das Filipinas tem faixas azul e vermelha e um triângulo branco com sol e estrelas."},"name":{"common":"Filipinas","official":"República das Filipinas","nativeName":{"eng":{"official":"Republic of the Philippines","common":"Philippines"},"fil":{"official":"Republic of the Philippines","common":"Pilipinas"}}},"cca3":"PHL","currencies":{"PHP":{"name":"Peso filipino","symbol":"₱"}},"capital":["Manila"],"languages":{"eng":"Inglês","fil":"Filipino"},"area":342353,"population":114123600,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/me.png","svg":"https://flagcdn.com/me.svg","alt":"A bandeira de Montenegro tem fundo vermelho com brasão dourado ao centro."},"name":{"common":"Montenegro","official":"Montenegro","nativeName":{"cnr":{"official":"Црна Гора","common":"Црна Гора"}}},"cca3":"MNE","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Podgorica"],"languages":{"cnr":"Montenegrino"},"area":13812,"population":623327,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/cl.png","svg":"https://flagcdn.com/cl.svg","alt":"A bandeira do Chile tem faixas branca e vermelha com um quadrado azul e estrela branca."},"name":{"common":"Chile","official":"República do Chile","nativeName":{"spa":{"official":"República de Chile","common":"Chile"}}},"cca3":"CHL","currencies":{"CLP":{"name":"Peso chileno","symbol":"$"}},"capital":["Santiago"],"languages":{"spa":"Espanhol"},"area":756102,"population":20206953,"continents":["América do Sul"]},
+    {"flags":{"png":"https://flagcdn.com/w320/om.png","svg":"https://flagcdn.com/om.svg","alt":"A bandeira de Omã tem uma faixa vertical vermelha e três horizontais branca, vermelha e verde."},"name":{"common":"Omã","official":"Sultanato de Omã","nativeName":{"ara":{"official":"سلطنة عمان","common":"عمان"}}},"cca3":"OMN","currencies":{"OMR":{"name":"Rial omanense","symbol":"ر.ع."}},"capital":["Mascate"],"languages":{"ara":"Árabe"},"area":309500,"population":5343630,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/am.png","svg":"https://flagcdn.com/am.svg","alt":"A bandeira da Arménia tem três faixas horizontais vermelha, azul e laranja."},"name":{"common":"Arménia","official":"República da Arménia","nativeName":{"hye":{"official":"Հայաստանի Հանրապետություն","common":"Հայաստան"}}},"cca3":"ARM","currencies":{"AMD":{"name":"Dram arménio","symbol":"֏"}},"capital":["Erevã"],"languages":{"hye":"Arménio"},"area":29743,"population":3076200,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/pk.png","svg":"https://flagcdn.com/pk.svg","alt":"A bandeira do Paquistão tem uma faixa branca e um campo verde com lua e estrela."},"name":{"common":"Paquistão","official":"República Islâmica do Paquistão","nativeName":{"eng":{"official":"Islamic Republic of Pakistan","common":"Pakistan"},"urd":{"official":"اسلامی جمہوریۂ پاكستان","common":"پاكستان"}}},"cca3":"PAK","currencies":{"PKR":{"name":"Rupia paquistanesa","symbol":"₨"}},"capital":["Islamabad"],"languages":{"eng":"Inglês","urd":"Urdu"},"area":796095,"population":241499431,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/tk.png","svg":"https://flagcdn.com/tk.svg","alt":"A bandeira de Tokelau mostra uma canoa amarela e a constelação Cruzeiro do Sul."},"name":{"common":"Tokelau","official":"Tokelau","nativeName":{"eng":{"official":"Tokelau","common":"Tokelau"},"smo":{"official":"Tokelau","common":"Tokelau"},"tkl":{"official":"Tokelau","common":"Tokelau"}}},"cca3":"TKL","currencies":{"NZD":{"name":"Dólar neozelandês","symbol":"$"}},"capital":["Fakaofo"],"languages":{"eng":"Inglês","smo":"Samoano","tkl":"Tokelauano"},"area":12,"population":2608,"continents":["Oceânia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/bj.png","svg":"https://flagcdn.com/bj.svg","alt":"A bandeira do Benim tem uma faixa vertical verde e duas horizontais amarela e vermelha."},"name":{"common":"Benim","official":"República do Benim","nativeName":{"fra":{"official":"République du Bénin","common":"Bénin"}}},"cca3":"BEN","currencies":{"XOF":{"name":"Franco CFA da África Ocidental","symbol":"Fr"}},"capital":["Porto-Novo"],"languages":{"fra":"Francês"},"area":112622,"population":13224860,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/pm.png","svg":"https://flagcdn.com/pm.svg","alt":"A bandeira de Saint Pierre e Miquelon apresenta um navio amarelo de três mastros sobre um fundo azul com linhas onduladas brancas. À esquerda, um painel vertical exibe três brasões heráldicos."},"name":{"common":"Saint Pierre e Miquelon","official":"Saint Pierre e Miquelon","nativeName":{"fra":{"official":"Collectivité territoriale de Saint-Pierre-et-Miquelon","common":"Saint-Pierre-et-Miquelon"}}},"cca3":"SPM","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Saint-Pierre"],"languages":{"fra":"Francês"},"area":242,"population":5819,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/cr.png","svg":"https://flagcdn.com/cr.svg","alt":"A bandeira da Costa Rica tem cinco faixas horizontais azul, branco, vermelho, branco e azul, com o brasão nacional num disco branco à esquerda da faixa vermelha."},"name":{"common":"Costa Rica","official":"República da Costa Rica","nativeName":{"spa":{"official":"República de Costa Rica","common":"Costa Rica"}}},"cca3":"CRI","currencies":{"CRC":{"name":"Colón costa-riquenho","symbol":"₡"}},"capital":["São José"],"languages":{"spa":"Espanhol"},"area":51100,"population":5309625,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/gg.png","svg":"https://flagcdn.com/gg.svg","alt":"A bandeira de Guernsey é branca com uma cruz vermelha e, sobre ela, uma cruz dourada de braços iguais."},"name":{"common":"Guernsey","official":"Bailiado de Guernsey","nativeName":{"eng":{"official":"Bailiwick of Guernsey","common":"Guernsey"},"fra":{"official":"Bailliage de Guernesey","common":"Guernesey"},"nfr":{"official":"Dgèrnésiais","common":"Dgèrnésiais"}}},"cca3":"GGY","currencies":{"GBP":{"name":"Libra esterlina","symbol":"£"},"GGP":{"name":"Libra de Guernsey","symbol":"£"}},"capital":["St. Peter Port"],"languages":{"eng":"Inglês","fra":"Francês","nfr":"Guernesiano"},"area":78,"population":64781,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/vg.png","svg":"https://flagcdn.com/vg.svg","alt":"A bandeira das Ilhas Virgens Britânicas é azul com a bandeira do Reino Unido no canto e o brasão local à direita."},"name":{"common":"Ilhas Virgens Britânicas","official":"Ilhas Virgens","nativeName":{"eng":{"official":"Virgin Islands","common":"British Virgin Islands"}}},"cca3":"VGB","currencies":{"USD":{"name":"Dólar dos Estados Unidos","symbol":"$"}},"capital":["Road Town"],"languages":{"eng":"Inglês"},"area":151,"population":39471,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/sr.png","svg":"https://flagcdn.com/sr.svg","alt":"A bandeira do Suriname tem cinco faixas horizontais verde, branco, vermelho, branco e verde, com uma estrela amarela ao centro."},"name":{"common":"Suriname","official":"República do Suriname","nativeName":{"nld":{"official":"Republiek Suriname","common":"Suriname"}}},"cca3":"SUR","currencies":{"SRD":{"name":"Dólar do Suriname","symbol":"$"}},"capital":["Paramaribo"],"languages":{"nld":"Neerlandês"},"area":163820,"population":616500,"continents":["América do Sul"]},
+    {"flags":{"png":"https://flagcdn.com/w320/hu.png","svg":"https://flagcdn.com/hu.svg","alt":"A bandeira da Hungria tem três faixas horizontais iguais: vermelho, branco e verde."},"name":{"common":"Hungria","official":"Hungria","nativeName":{"hun":{"official":"Magyarország","common":"Magyarország"}}},"cca3":"HUN","currencies":{"HUF":{"name":"Forint húngaro","symbol":"Ft"}},"capital":["Budapeste"],"languages":{"hun":"Húngaro"},"area":93028,"population":9539502,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/nl.png","svg":"https://flagcdn.com/nl.svg","alt":"A bandeira dos Países Baixos tem três faixas horizontais iguais: vermelho, branco e azul."},"name":{"common":"Países Baixos","official":"Reino dos Países Baixos","nativeName":{"nld":{"official":"Koninkrijk der Nederlanden","common":"Nederland"}}},"cca3":"NLD","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Amesterdão"],"languages":{"nld":"Neerlandês"},"area":41865,"population":18100436,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/uz.png","svg":"https://flagcdn.com/uz.svg","alt":"A bandeira do Uzbequistão tem faixas azul, branca e verde com bordas vermelhas, uma lua crescente e doze estrelas."},"name":{"common":"Uzbequistão","official":"República do Uzbequistão","nativeName":{"rus":{"official":"Республика Узбекистан","common":"Узбекистан"},"uzb":{"official":"O'zbekiston Respublikasi","common":"O‘zbekiston"}}},"cca3":"UZB","currencies":{"UZS":{"name":"Som uzbeque","symbol":"so'm"}},"capital":["Tashkent"],"languages":{"rus":"Russo","uzb":"Uzbeque"},"area":447400,"population":37859698,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/er.png","svg":"https://flagcdn.com/er.svg","alt":"A bandeira da Eritreia tem três triângulos coloridos e um ramo de oliveira dourado dentro de uma coroa."},"name":{"common":"Eritreia","official":"Estado da Eritreia","nativeName":{"ara":{"official":"دولة إرتريا","common":"إرتريا‎"},"eng":{"official":"State of Eritrea","common":"Eritrea"},"tir":{"official":"ሃገረ ኤርትራ","common":"ኤርትራ"}}},"cca3":"ERI","currencies":{"ERN":{"name":"Nakfa eritreu","symbol":"Nfk"}},"capital":["Asmara"],"languages":{"ara":"Árabe","eng":"Inglês","tir":"Tigrínia"},"area":117600,"population":3607000,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/sl.png","svg":"https://flagcdn.com/sl.svg","alt":"A bandeira da Serra Leoa tem três faixas horizontais verde, branca e azul."},"name":{"common":"Serra Leoa","official":"República da Serra Leoa","nativeName":{"eng":{"official":"Republic of Sierra Leone","common":"Sierra Leone"}}},"cca3":"SLE","currencies":{"SLE":{"name":"Leone","symbol":"Le"}},"capital":["Freetown"],"languages":{"eng":"Inglês"},"area":71740,"population":9077691,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/kw.png","svg":"https://flagcdn.com/kw.svg","alt":"A bandeira do Kuwait tem faixas verde, branca e vermelha com um trapézio preto à esquerda."},"name":{"common":"Kuwait","official":"Estado do Kuwait","nativeName":{"ara":{"official":"دولة الكويت","common":"الكويت"}}},"cca3":"KWT","currencies":{"KWD":{"name":"Dinar kuwaitiano","symbol":"د.ك"}},"capital":["Cidade do Kuwait"],"languages":{"ara":"Árabe"},"area":17818,"population":4881254,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/bt.png","svg":"https://flagcdn.com/bt.svg","alt":"A bandeira do Butão tem um dragão branco sobre campos amarelo e laranja."},"name":{"common":"Butão","official":"Reino do Butão","nativeName":{"dzo":{"official":"འབྲུག་རྒྱལ་ཁབ་","common":"འབྲུག་ཡུལ་"}}},"cca3":"BTN","currencies":{"BTN":{"name":"Ngultrum butanês","symbol":"Nu."},"INR":{"name":"Rupia indiana","symbol":"₹"}},"capital":["Thimphu"],"languages":{"dzo":"Dzongkha"},"area":38394,"population":784043,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/bm.png","svg":"https://flagcdn.com/bm.svg","alt":"A bandeira das Bermudas é vermelha com a Union Jack e o brasão local."},"name":{"common":"Bermudas","official":"Bermudas","nativeName":{"eng":{"official":"Bermuda","common":"Bermuda"}}},"cca3":"BMU","currencies":{"BMD":{"name":"Dólar bermudense","symbol":"$"}},"capital":["Hamilton"],"languages":{"eng":"Inglês"},"area":54,"population":64055,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/cy.png","svg":"https://flagcdn.com/cy.svg","alt":"A bandeira de Chipre mostra o mapa da ilha em cobre sobre dois ramos de oliveira."},"name":{"common":"Chipre","official":"República de Chipre","nativeName":{"ell":{"official":"Δημοκρατία της Κύπρος","common":"Κύπρος"},"tur":{"official":"Kıbrıs Cumhuriyeti","common":"Kıbrıs"}}},"cca3":"CYP","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Nicósia"],"languages":{"ell":"Grego","tur":"Turco"},"area":9251,"population":1442614,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/fr.png","svg":"https://flagcdn.com/fr.svg","alt":"A bandeira de França tem três faixas verticais azul, branca e vermelha."},"name":{"common":"França","official":"República Francesa","nativeName":{"fra":{"official":"République française","common":"France"}}},"cca3":"FRA","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Paris"],"languages":{"fra":"Francês"},"area":543908,"population":66351959,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/pl.png","svg":"https://flagcdn.com/pl.svg","alt":"A bandeira da Polónia tem duas faixas horizontais branca e vermelha."},"name":{"common":"Polónia","official":"República da Polónia","nativeName":{"pol":{"official":"Rzeczpospolita Polska","common":"Polska"}}},"cca3":"POL","currencies":{"PLN":{"name":"Zlóti polaco","symbol":"zł"}},"capital":["Varsóvia"],"languages":{"pol":"Polaco"},"area":312679,"population":37392000,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/at.png","svg":"https://flagcdn.com/at.svg","alt":"A bandeira da Áustria tem três faixas horizontais vermelha, branca e vermelha."},"name":{"common":"Áustria","official":"República da Áustria","nativeName":{"bar":{"official":"Republik Österreich","common":"Österreich"}}},"cca3":"AUT","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Viena"],"languages":{"deu":"Alemão"},"area":83871,"population":9200931,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/li.png","svg":"https://flagcdn.com/li.svg","alt":"A bandeira do Liechtenstein tem faixas azul e vermelha com uma coroa dourada."},"name":{"common":"Liechtenstein","official":"Principado do Liechtenstein","nativeName":{"deu":{"official":"Fürstentum Liechtenstein","common":"Liechtenstein"}}},"cca3":"LIE","currencies":{"CHF":{"name":"Franco suíço","symbol":"Fr"}},"capital":["Vaduz"],"languages":{"deu":"Alemão"},"area":160,"population":40900,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/kh.png","svg":"https://flagcdn.com/kh.svg","alt":"A bandeira do Camboja tem faixas azul e vermelha com Angkor Wat ao centro."},"name":{"common":"Camboja","official":"Reino do Camboja","nativeName":{"khm":{"official":"ព្រះរាជាណាចក្រកម្ពុជា","common":"Kâmpŭchéa"}}},"cca3":"KHM","currencies":{"KHR":{"name":"Riel cambojano","symbol":"៛"},"USD":{"name":"Dólar dos Estados Unidos","symbol":"$"}},"capital":["Phnom Penh"],"languages":{"khm":"Khmer"},"area":181035,"population":17577760,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/kn.png","svg":"https://flagcdn.com/kn.svg","alt":"A bandeira de São Cristóvão e Neves tem duas estrelas brancas numa faixa diagonal preta com bordas amarelas."},"name":{"common":"São Cristóvão e Neves","official":"Federação de São Cristóvão e Neves","nativeName":{"eng":{"official":"Federation of Saint Christopher and Nevis","common":"Saint Kitts and Nevis"}}},"cca3":"KNA","currencies":{"XCD":{"name":"Dólar do Caribe Oriental","symbol":"$"}},"capital":["Basseterre"],"languages":{"eng":"Inglês"},"area":261,"population":51320,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/lc.png","svg":"https://flagcdn.com/lc.svg","alt":"A bandeira de Santa Lúcia tem fundo azul claro com dois triângulos sobrepostos."},"name":{"common":"Santa Lúcia","official":"Santa Lúcia","nativeName":{"eng":{"official":"Saint Lucia","common":"Saint Lucia"}}},"cca3":"LCA","currencies":{"XCD":{"name":"Dólar do Caribe Oriental","symbol":"$"}},"capital":["Castries"],"languages":{"eng":"Inglês"},"area":616,"population":184100,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/gd.png","svg":"https://flagcdn.com/gd.svg","alt":"A bandeira de Granada tem triângulos verdes e amarelos, estrelas vermelhas e uma noz-moscada."},"name":{"common":"Granada","official":"Granada","nativeName":{"eng":{"official":"Grenada","common":"Grenada"}}},"cca3":"GRD","currencies":{"XCD":{"name":"Dólar do Caribe Oriental","symbol":"$"}},"capital":["São Jorge"],"languages":{"eng":"Inglês"},"area":344,"population":109021,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/de.png","svg":"https://flagcdn.com/de.svg","alt":"A bandeira da Alemanha tem três faixas horizontais preta, vermelha e dourada."},"name":{"common":"Alemanha","official":"República Federal da Alemanha","nativeName":{"deu":{"official":"Bundesrepublik Deutschland","common":"Deutschland"}}},"cca3":"DEU","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Berlim"],"languages":{"deu":"Alemão"},"area":357114,"population":83491249,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/gn.png","svg":"https://flagcdn.com/gn.svg","alt":"A bandeira da Guiné tem três faixas verticais vermelha, amarela e verde."},"name":{"common":"Guiné","official":"República da Guiné","nativeName":{"fra":{"official":"République de Guinée","common":"Guinée"}}},"cca3":"GIN","currencies":{"GNF":{"name":"Franco guineense","symbol":"Fr"}},"capital":["Conacri"],"languages":{"fra":"Francês"},"area":245857,"population":14363931,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/in.png","svg":"https://flagcdn.com/in.svg","alt":"A bandeira da Índia tem faixas açafrão, branca e verde com a roda Ashoka ao centro."},"name":{"common":"Índia","official":"República da Índia","nativeName":{"eng":{"official":"Republic of India","common":"India"},"hin":{"official":"भारत गणराज्य","common":"भारत"},"tam":{"official":"இந்தியக் குடியரசு","common":"இந்தியா"}}},"cca3":"IND","currencies":{"INR":{"name":"Rupia indiana","symbol":"₹"}},"capital":["Nova Deli"],"languages":{"eng":"Inglês","hin":"Hindi","tam":"Tâmil"},"area":3287263,"population":1417492000,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/gq.png","svg":"https://flagcdn.com/gq.svg","alt":"A bandeira da Guiné Equatorial tem três faixas horizontais verde, branca e vermelha, com o brasão ao centro e um triângulo azul à esquerda."},"name":{"common":"Guiné Equatorial","official":"República da Guiné Equatorial","nativeName":{"fra":{"official":"République de la Guinée Équatoriale","common":"Guinée équatoriale"},"por":{"official":"República da Guiné Equatorial","common":"Guiné Equatorial"},"spa":{"official":"República de Guinea Ecuatorial","common":"Guinea Ecuatorial"}}},"cca3":"GNQ","currencies":{"XAF":{"name":"Franco CFA da África Central","symbol":"Fr"}},"capital":["Malabo"],"languages":{"fra":"Francês","por":"Português","spa":"Espanhol"},"area":28051,"population":1668768,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/sd.png","svg":"https://flagcdn.com/sd.svg","alt":"A bandeira do Sudão tem faixas horizontais vermelha, branca e preta, com um triângulo verde à esquerda."},"name":{"common":"Sudão","official":"República do Sudão","nativeName":{"ara":{"official":"جمهورية السودان","common":"السودان"},"eng":{"official":"Republic of the Sudan","common":"Sudan"}}},"cca3":"SDN","currencies":{"SDG":{"name":"Libra sudanesa","symbol":"ج.س"}},"capital":["Cartum"],"languages":{"ara":"Árabe","eng":"Inglês"},"area":1886068,"population":51662000,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/dj.png","svg":"https://flagcdn.com/dj.svg","alt":"A bandeira do Djibuti tem faixas azul e verde com um triângulo branco contendo uma estrela vermelha."},"name":{"common":"Djibuti","official":"República do Djibuti","nativeName":{"ara":{"official":"جمهورية جيبوتي","common":"جيبوتي‎"},"fra":{"official":"République de Djibouti","common":"Djibouti"}}},"cca3":"DJI","currencies":{"DJF":{"name":"Franco djibutiano","symbol":"Fr"}},"capital":["Djibuti"],"languages":{"ara":"Árabe","fra":"Francês"},"area":23200,"population":1066809,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/dk.png","svg":"https://flagcdn.com/dk.svg","alt":"A bandeira da Dinamarca é vermelha com uma cruz branca deslocada para a esquerda."},"name":{"common":"Dinamarca","official":"Reino da Dinamarca","nativeName":{"dan":{"official":"Kongeriget Danmark","common":"Danmark"}}},"cca3":"DNK","currencies":{"DKK":{"name":"Coroa dinamarquesa","symbol":"kr"}},"capital":["Copenhaga"],"languages":{"dan":"Dinamarquês"},"area":43094,"population":6011488,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/se.png","svg":"https://flagcdn.com/se.svg","alt":"A bandeira da Suécia é azul com uma cruz amarela deslocada para a esquerda."},"name":{"common":"Suécia","official":"Reino da Suécia","nativeName":{"swe":{"official":"Konungariket Sverige","common":"Sverige"}}},"cca3":"SWE","currencies":{"SEK":{"name":"Coroa sueca","symbol":"kr"}},"capital":["Estocolmo"],"languages":{"swe":"Sueco"},"area":450295,"population":10605098,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ve.png","svg":"https://flagcdn.com/ve.svg","alt":"A bandeira da Venezuela tem faixas amarela, azul e vermelha com oito estrelas brancas em arco."},"name":{"common":"Venezuela","official":"República Bolivariana da Venezuela","nativeName":{"spa":{"official":"República Bolivariana de Venezuela","common":"Venezuela"}}},"cca3":"VEN","currencies":{"VES":{"name":"Bolívar venezuelano","symbol":"Bs.S."}},"capital":["Caracas"],"languages":{"spa":"Espanhol"},"area":916445,"population":28517000,"continents":["América do Sul"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ly.png","svg":"https://flagcdn.com/ly.svg","alt":"A bandeira da Líbia tem faixas vermelha, preta e verde com uma lua crescente e estrela brancas."},"name":{"common":"Líbia","official":"Estado da Líbia","nativeName":{"ara":{"official":"الدولة ليبيا","common":"‏ليبيا"}}},"cca3":"LBY","currencies":{"LYD":{"name":"Dinar líbio","symbol":"ل.د"}},"capital":["Trípoli"],"languages":{"ara":"Árabe"},"area":1759540,"population":7459000,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/bq.png","svg":"https://flagcdn.com/bq.svg","alt":"A bandeira dos Países Baixos Caribenhos tem triângulos azul e amarelo separados por uma faixa branca com uma estrela vermelha dentro de uma rosa-dos-ventos."},"name":{"common":"Países Baixos Caribenhos","official":"Bonaire, Santo Eustáquio e Saba","nativeName":{"nld":{"official":"Bonaire, Sint Eustatius en Saba","common":"Caribisch Nederland"},"pap":{"official":"Boneiru, Sint Eustatius y Saba","common":"Boneiru, Sint Eustatius y Saba"}}},"cca3":"BES","currencies":{"USD":{"name":"Dólar dos Estados Unidos","symbol":"$"}},"capital":["Kralendijk"],"languages":{"eng":"Inglês","nld":"Neerlandês","pap":"Papiamento"},"area":328,"population":31980,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/gt.png","svg":"https://flagcdn.com/gt.svg","alt":"A bandeira da Guatemala tem faixas azul-claro e branca com o brasão ao centro."},"name":{"common":"Guatemala","official":"República da Guatemala","nativeName":{"spa":{"official":"República de Guatemala","common":"Guatemala"}}},"cca3":"GTM","currencies":{"GTQ":{"name":"Quetzal guatemalteco","symbol":"Q"}},"capital":["Cidade da Guatemala"],"languages":{"spa":"Espanhol"},"area":108889,"population":18079810,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ae.png","svg":"https://flagcdn.com/ae.svg","alt":"A bandeira dos Emirados Árabes Unidos tem uma faixa vertical vermelha e três horizontais verde, branca e preta."},"name":{"common":"Emirados Árabes Unidos","official":"Emirados Árabes Unidos","nativeName":{"ara":{"official":"الإمارات العربية المتحدة","common":"دولة الإمارات العربية المتحدة"}}},"cca3":"ARE","currencies":{"AED":{"name":"Dirham dos Emirados","symbol":"د.إ"}},"capital":["Abu Dhabi"],"languages":{"ara":"Árabe"},"area":83600,"population":11294243,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/la.png","svg":"https://flagcdn.com/la.svg","alt":"A bandeira do Laos tem faixas vermelha, azul e vermelha com um círculo branco ao centro."},"name":{"common":"Laos","official":"República Democrática Popular do Laos","nativeName":{"lao":{"official":"ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ","common":"ສປປລາວ"}}},"cca3":"LAO","currencies":{"LAK":{"name":"Kip laosiano","symbol":"₭"}},"capital":["Vientiane"],"languages":{"lao":"Lao"},"area":236800,"population":7647000,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/bd.png","svg":"https://flagcdn.com/bd.svg","alt":"A bandeira do Bangladesh é verde com um círculo vermelho ligeiramente deslocado para a esquerda."},"name":{"common":"Bangladesh","official":"República Popular do Bangladesh","nativeName":{"ben":{"official":"বাংলাদেশ গণপ্রজাতন্ত্রী","common":"বাংলাদেশ"}}},"cca3":"BGD","currencies":{"BDT":{"name":"Taka bengali","symbol":"৳"}},"capital":["Daca"],"languages":{"ben":"Bengali"},"area":147570,"population":169828911,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/tv.png","svg":"https://flagcdn.com/tv.svg","alt":"A bandeira de Tuvalu é azul-clara com a Union Jack e nove estrelas amarelas representando as ilhas."},"name":{"common":"Tuvalu","official":"Tuvalu","nativeName":{"eng":{"official":"Tuvalu","common":"Tuvalu"},"tvl":{"official":"Tuvalu","common":"Tuvalu"}}},"cca3":"TUV","currencies":{"AUD":{"name":"Dólar australiano","symbol":"$"},"TVD":{"name":"Dólar tuvaluano","symbol":"$"}},"capital":["Funafuti"],"languages":{"eng":"Inglês","tvl":"Tuvaluano"},"area":26,"population":10643,"continents":["Oceânia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/al.png","svg":"https://flagcdn.com/al.svg","alt":"A bandeira da Albânia é vermelha com uma águia negra de duas cabeças ao centro."},"name":{"common":"Albânia","official":"República da Albânia","nativeName":{"sqi":{"official":"Republika e Shqipërisë","common":"Shqipëria"}}},"cca3":"ALB","currencies":{"ALL":{"name":"Lek albanês","symbol":"L"}},"capital":["Tirana"],"languages":{"sqi":"Albanês"},"area":28748,"population":2363314,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/sz.png","svg":"https://flagcdn.com/sz.svg","alt":"A bandeira de Essuatíni tem faixas azul e vermelha com um escudo Nguni e lanças ao centro."},"name":{"common":"Essuatíni","official":"Reino de Essuatíni","nativeName":{"eng":{"official":"Kingdom of Eswatini","common":"Eswatini"},"ssw":{"official":"Umbuso weSwatini","common":"eSwatini"}}},"cca3":"SWZ","currencies":{"SZL":{"name":"Lilangeni suazi","symbol":"L"},"ZAR":{"name":"Rand sul-africano","symbol":"R"}},"capital":["Mbabane"],"languages":{"eng":"Inglês","ssw":"Swazi"},"area":17364,"population":1235549,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ye.png","svg":"https://flagcdn.com/ye.svg","alt":"A bandeira do Iémen tem faixas horizontais vermelha, branca e preta."},"name":{"common":"Iémen","official":"República do Iémen","nativeName":{"ara":{"official":"الجمهورية اليمنية","common":"اليَمَن"}}},"cca3":"YEM","currencies":{"YER":{"name":"Rial iemenita","symbol":"﷼"}},"capital":["Sanaá"],"languages":{"ara":"Árabe"},"area":527968,"population":32684503,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/cc.png","svg":"https://flagcdn.com/cc.svg","alt":"A bandeira das Ilhas Cocos (Keeling) é verde com uma palmeira, uma lua crescente e a constelação Cruzeiro do Sul."},"name":{"common":"Ilhas Cocos (Keeling)","official":"Território das Ilhas Cocos (Keeling)","nativeName":{"eng":{"official":"Territory of the Cocos (Keeling) Islands","common":"Cocos (Keeling) Islands"}}},"cca3":"CCK","currencies":{"AUD":{"name":"Dólar australiano","symbol":"$"}},"capital":["West Island"],"languages":{"eng":"Inglês"},"area":14,"population":593,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ms.png","svg":"https://flagcdn.com/ms.svg","alt":"A bandeira de Montserrat é azul com a Union Jack e o brasão local mostrando uma mulher com uma harpa e uma cruz."},"name":{"common":"Montserrat","official":"Montserrat","nativeName":{"eng":{"official":"Montserrat","common":"Montserrat"}}},"cca3":"MSR","currencies":{"XCD":{"name":"Dólar do Caribe Oriental","symbol":"$"}},"capital":["Plymouth"],"languages":{"eng":"Inglês"},"area":102,"population":4386,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ao.png","svg":"https://flagcdn.com/ao.svg","alt":"A bandeira de Angola tem faixas vermelha e preta com uma estrela, uma catana e uma roda dentada amarelas."},"name":{"common":"Angola","official":"República de Angola","nativeName":{"por":{"official":"República de Angola","common":"Angola"}}},"cca3":"AGO","currencies":{"AOA":{"name":"Kwanza angolano","symbol":"Kz"}},"capital":["Luanda"],"languages":{"por":"Português"},"area":1246700,"population":36170961,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/rw.png","svg":"https://flagcdn.com/rw.svg","alt":"A bandeira do Ruanda tem faixas azul, amarela e verde com um sol amarelo no canto superior direito."},"name":{"common":"Ruanda","official":"República do Ruanda","nativeName":{"eng":{"official":"Republic of Rwanda","common":"Rwanda"},"fra":{"official":"République rwandaise","common":"Rwanda"},"kin":{"official":"Repubulika y'u Rwanda","common":"Rwanda"}}},"cca3":"RWA","currencies":{"RWF":{"name":"Franco ruandês","symbol":"Fr"}},"capital":["Kigali"],"languages":{"eng":"Inglês","fra":"Francês","kin":"Kinyarwanda"},"area":26338,"population":14104969,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/cd.png","svg":"https://flagcdn.com/cd.svg","alt":"A bandeira da República Democrática do Congo é azul com uma faixa diagonal vermelha e uma estrela amarela."},"name":{"common":"RD Congo","official":"República Democrática do Congo","nativeName":{"fra":{"official":"République démocratique du Congo","common":"RD Congo"},"kon":{"official":"Repubilika ya Kongo Demokratiki","common":"Repubilika ya Kongo Demokratiki"},"lin":{"official":"Republiki ya Kongó Demokratiki","common":"Republiki ya Kongó Demokratiki"},"lua":{"official":"Ditunga dia Kongu wa Mungalaata","common":"Ditunga dia Kongu wa Mungalaata"},"swa":{"official":"Jamhuri ya Kidemokrasia ya Kongo","common":"Jamhuri ya Kidemokrasia ya Kongo"}}},"cca3":"COD","currencies":{"CDF":{"name":"Franco congolês","symbol":"FC"}},"capital":["Quinxassa"],"languages":{"fra":"Francês","kon":"Kicongo","lin":"Lingala","lua":"Tchiluba","swa":"Suaíli"},"area":2344858,"population":112832000,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/tt.png","svg":"https://flagcdn.com/tt.svg","alt":"A bandeira de Trindade e Tobago é vermelha com uma faixa diagonal preta com bordas brancas."},"name":{"common":"Trindade e Tobago","official":"República de Trindade e Tobago","nativeName":{"eng":{"official":"Republic of Trinidad and Tobago","common":"Trinidad and Tobago"}}},"cca3":"TTO","currencies":{"TTD":{"name":"Dólar de Trindade e Tobago","symbol":"$"}},"capital":["Porto de Espanha"],"languages":{"eng":"Inglês"},"area":5130,"population":1367764,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ua.png","svg":"https://flagcdn.com/ua.svg","alt":"A bandeira da Ucrânia tem duas faixas horizontais azul e amarela."},"name":{"common":"Ucrânia","official":"Ucrânia","nativeName":{"ukr":{"official":"Україна","common":"Україна"}}},"cca3":"UKR","currencies":{"UAH":{"name":"Hryvnia ucraniana","symbol":"₴"}},"capital":["Kiev"],"languages":{"ukr":"Ucraniano"},"area":603550,"population":32862000,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/tg.png","svg":"https://flagcdn.com/tg.svg","alt":"A bandeira do Togo tem cinco faixas horizontais verdes e amarelas, com um quadrado vermelho contendo uma estrela branca no canto superior esquerdo."},"name":{"common":"Togo","official":"República Togolesa","nativeName":{"fra":{"official":"République togolaise","common":"Togo"}}},"cca3":"TGO","currencies":{"XOF":{"name":"Franco CFA da África Ocidental","symbol":"Fr"}},"capital":["Lomé"],"languages":{"fra":"Francês"},"area":56785,"population":8095498,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/lt.png","svg":"https://flagcdn.com/lt.svg","alt":"A bandeira da Lituânia tem três faixas horizontais iguais: amarelo, verde e vermelho."},"name":{"common":"Lituânia","official":"República da Lituânia","nativeName":{"lit":{"official":"Lietuvos Respublikos","common":"Lietuva"}}},"cca3":"LTU","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Vilnius"],"languages":{"lit":"Lituano"},"area":65300,"population":2894886,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/bh.png","svg":"https://flagcdn.com/bh.svg","alt":"A bandeira do Bahrein é vermelha com uma faixa branca serrilhada à esquerda formada por cinco triângulos."},"name":{"common":"Bahrein","official":"Reino do Bahrein","nativeName":{"ara":{"official":"مملكة البحرين","common":"‏البحرين"}}},"cca3":"BHR","currencies":{"BHD":{"name":"Dinar baremita","symbol":".د.ب"}},"capital":["Manama"],"languages":{"ara":"Árabe"},"area":765,"population":1594654,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/hk.png","svg":"https://flagcdn.com/hk.svg","alt":"A bandeira de Hong Kong é vermelha com uma flor branca de Bauhinia de cinco pétalas ao centro, cada uma com uma pequena estrela vermelha."},"name":{"common":"Hong Kong","official":"Região Administrativa Especial de Hong Kong da República Popular da China","nativeName":{"eng":{"official":"Hong Kong Special Administrative Region of the People's Republic of China","common":"Hong Kong"},"zho":{"official":"中华人民共和国香港特别行政区","common":"香港"}}},"cca3":"HKG","currencies":{"HKD":{"name":"Dólar de Hong Kong","symbol":"$"}},"capital":["Cidade de Vitória"],"languages":{"eng":"Inglês","zho":"Chinês"},"area":1104,"population":7527500,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/bb.png","svg":"https://flagcdn.com/bb.svg","alt":"A bandeira de Barbados tem três faixas verticais azul, dourado e azul, com um tridente preto ao centro."},"name":{"common":"Barbados","official":"Barbados","nativeName":{"eng":{"official":"Barbados","common":"Barbados"}}},"cca3":"BRB","currencies":{"BBD":{"name":"Dólar barbadense","symbol":"$"}},"capital":["Bridgetown"],"languages":{"eng":"Inglês"},"area":430,"population":267800,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/pt.png","svg":"https://flagcdn.com/pt.svg","alt":"A bandeira de Portugal tem duas faixas verticais verde e vermelha, com o brasão nacional ao centro."},"name":{"common":"Portugal","official":"República Portuguesa","nativeName":{"por":{"official":"República Portuguesa","common":"Portugal"}}},"cca3":"PRT","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Lisboa"],"languages":{"por":"Português"},"area":92090,"population":10749635,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/il.png","svg":"https://flagcdn.com/il.svg","alt":"A bandeira de Israel é branca com duas faixas azuis e a Estrela de David azul ao centro."},"name":{"common":"Israel","official":"Estado de Israel","nativeName":{"ara":{"official":"دولة إسرائيل","common":"إسرائيل"},"heb":{"official":"מדינת ישראל","common":"ישראל"}}},"cca3":"ISR","currencies":{"ILS":{"name":"Novo shekel israelita","symbol":"₪"}},"capital":["Jerusalém"],"languages":{"ara":"Árabe","heb":"Hebraico"},"area":21937,"population":10134800,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/st.png","svg":"https://flagcdn.com/st.svg","alt":"A bandeira de São Tomé e Príncipe tem faixas verdes e amarelas, duas estrelas pretas e um triângulo vermelho à esquerda."},"name":{"common":"São Tomé e Príncipe","official":"República Democrática de São Tomé e Príncipe","nativeName":{"por":{"official":"República Democrática do São Tomé e Príncipe","common":"São Tomé e Príncipe"}}},"cca3":"STP","currencies":{"STN":{"name":"Dobra são-tomense","symbol":"Db"}},"capital":["São Tomé"],"languages":{"por":"Português"},"area":964,"population":209607,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ro.png","svg":"https://flagcdn.com/ro.svg","alt":"A bandeira da Roménia tem três faixas verticais azul, amarela e vermelha."},"name":{"common":"Roménia","official":"Roménia","nativeName":{"ron":{"official":"România","common":"România"}}},"cca3":"ROU","currencies":{"RON":{"name":"Leu romeno","symbol":"lei"}},"capital":["Bucareste"],"languages":{"ron":"Romeno"},"area":238391,"population":19036031,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/gu.png","svg":"https://flagcdn.com/gu.svg","alt":"A bandeira de Guam é azul com uma borda vermelha e um emblema oval com uma cena de praia."},"name":{"common":"Guam","official":"Guam","nativeName":{"cha":{"official":"Guåhån","common":"Guåhån"},"eng":{"official":"Guam","common":"Guam"},"spa":{"official":"Guam","common":"Guam"}}},"cca3":"GUM","currencies":{"USD":{"name":"Dólar dos Estados Unidos","symbol":"$"}},"capital":["Hagåtña"],"languages":{"cha":"Chamorro","eng":"Inglês","spa":"Espanhol"},"area":549,"population":153836,"continents":["Oceânia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/to.png","svg":"https://flagcdn.com/to.svg","alt":"A bandeira de Tonga é vermelha com um retângulo branco contendo uma cruz vermelha no canto superior esquerdo."},"name":{"common":"Tonga","official":"Reino de Tonga","nativeName":{"eng":{"official":"Kingdom of Tonga","common":"Tonga"},"ton":{"official":"Kingdom of Tonga","common":"Tonga"}}},"cca3":"TON","currencies":{"TOP":{"name":"Paʻanga tonganesa","symbol":"T$"}},"capital":["Nuku'alofa"],"languages":{"eng":"Inglês","ton":"Tonganês"},"area":747,"population":100179,"continents":["Oceânia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/gm.png","svg":"https://flagcdn.com/gm.svg","alt":"A bandeira da Gâmbia tem faixas vermelha, azul e verde separadas por linhas brancas."},"name":{"common":"Gâmbia","official":"República da Gâmbia","nativeName":{"eng":{"official":"Republic of the Gambia","common":"Gambia"}}},"cca3":"GMB","currencies":{"GMD":{"name":"Dalasi gambiano","symbol":"D"}},"capital":["Banjul"],"languages":{"eng":"Inglês"},"area":10689,"population":2422712,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ne.png","svg":"https://flagcdn.com/ne.svg","alt":"A bandeira do Níger tem faixas laranja, branca e verde com um círculo laranja ao centro."},"name":{"common":"Níger","official":"República do Níger","nativeName":{"fra":{"official":"République du Niger","common":"Niger"}}},"cca3":"NER","currencies":{"XOF":{"name":"Franco CFA da África Ocidental","symbol":"Fr"}},"capital":["Niamey"],"languages":{"fra":"Francês"},"area":1267000,"population":26312034,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/tw.png","svg":"https://flagcdn.com/tw.svg","alt":"A bandeira de Taiwan é vermelha com um retângulo azul contendo um sol branco de 12 raios."},"name":{"common":"Taiwan","official":"República da China (Taiwan)","nativeName":{"zho":{"official":"中華民國","common":"台灣"}}},"cca3":"TWN","currencies":{"TWD":{"name":"Novo dólar taiwanês","symbol":"$"}},"capital":["Taipé"],"languages":{"zho":"Chinês"},"area":36197,"population":23317031,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/nf.png","svg":"https://flagcdn.com/nf.svg","alt":"A bandeira da Ilha Norfolk tem faixas verdes e brancas com um pinheiro nativo ao centro."},"name":{"common":"Ilha Norfolk","official":"Território da Ilha Norfolk","nativeName":{"eng":{"official":"Territory of Norfolk Island","common":"Norfolk Island"},"pih":{"official":"Teratri of Norf'k Ailen","common":"Norf'k Ailen"}}},"cca3":"NFK","currencies":{"AUD":{"name":"Dólar australiano","symbol":"$"}},"capital":["Kingston"],"languages":{"eng":"Inglês","pih":"Norfuk"},"area":36,"population":2188,"continents":["Oceânia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/iq.png","svg":"https://flagcdn.com/iq.svg","alt":"A bandeira do Iraque tem faixas vermelha, branca e preta com inscrições árabes verdes ao centro."},"name":{"common":"Iraque","official":"República do Iraque","nativeName":{"ara":{"official":"جمهورية العراق","common":"العراق"},"arc":{"official":"ܩܘܼܛܢܵܐ ܐܝܼܪܲܩ","common":"ܩܘܼܛܢܵܐ"},"ckb":{"official":"کۆماری عێراق","common":"کۆماری"}}},"cca3":"IRQ","currencies":{"IQD":{"name":"Dinar iraquiano","symbol":"ع.د"}},"capital":["Bagdade"],"languages":{"ara":"Árabe","arc":"Aramaico","ckb":"Sorani"},"area":438317,"population":46118793,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/nz.png","svg":"https://flagcdn.com/nz.svg","alt":"A bandeira da Nova Zelândia é azul com a Union Jack e quatro estrelas vermelhas com bordas brancas representando o Cruzeiro do Sul."},"name":{"common":"Nova Zelândia","official":"Nova Zelândia","nativeName":{"eng":{"official":"New Zealand","common":"New Zealand"},"mri":{"official":"Aotearoa","common":"Aotearoa"},"nzs":{"official":"New Zealand","common":"New Zealand"}}},"cca3":"NZL","currencies":{"NZD":{"name":"Dólar neozelandês","symbol":"$"}},"capital":["Wellington"],"languages":{"eng":"Inglês","mri":"Maori","nzs":"Língua gestual neozelandesa"},"area":268838,"population":5324700,"continents":["Oceânia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/cu.png","svg":"https://flagcdn.com/cu.svg","alt":"A bandeira de Cuba tem faixas azuis e brancas com um triângulo vermelho contendo uma estrela branca."},"name":{"common":"Cuba","official":"República de Cuba","nativeName":{"spa":{"official":"República de Cuba","common":"Cuba"}}},"cca3":"CUB","currencies":{"CUC":{"name":"Peso conversível cubano","symbol":"$"},"CUP":{"name":"Peso cubano","symbol":"$"}},"capital":["Havana"],"languages":{"spa":"Espanhol"},"area":109884,"population":9748007,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/et.png","svg":"https://flagcdn.com/et.svg","alt":"A bandeira da Etiópia tem faixas verde, amarela e vermelha com o emblema nacional azul e amarelo ao centro."},"name":{"common":"Etiópia","official":"República Democrática Federal da Etiópia","nativeName":{"amh":{"official":"የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ","common":"ኢትዮጵያ"}}},"cca3":"ETH","currencies":{"ETB":{"name":"Birr etíope","symbol":"Br"}},"capital":["Adis Abeba"],"languages":{"amh":"Amárico"},"area":1104300,"population":111652998,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/mt.png","svg":"https://flagcdn.com/mt.svg","alt":"A bandeira de Malta tem faixas verticais branca e vermelha com a Cruz de Jorge no canto superior esquerdo."},"name":{"common":"Malta","official":"República de Malta","nativeName":{"eng":{"official":"Republic of Malta","common":"Malta"},"mlt":{"official":"Repubblika ta ' Malta","common":"Malta"}}},"cca3":"MLT","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Valeta"],"languages":{"eng":"Inglês","mlt":"Maltês"},"area":316,"population":574250,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/mg.png","svg":"https://flagcdn.com/mg.svg","alt":"A bandeira de Madagáscar tem uma faixa vertical branca e duas horizontais vermelha e verde."},"name":{"common":"Madagáscar","official":"República de Madagáscar","nativeName":{"fra":{"official":"République de Madagascar","common":"Madagascar"},"mlg":{"official":"Repoblikan'i Madagasikara","common":"Madagasikara"}}},"cca3":"MDG","currencies":{"MGA":{"name":"Ariary malgaxe","symbol":"Ar"}},"capital":["Antananarivo"],"languages":{"fra":"Francês","mlg":"Malgaxe"},"area":587041,"population":31727042,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ba.png","svg":"https://flagcdn.com/ba.svg","alt":"A bandeira da Bósnia e Herzegovina é azul com um triângulo amarelo e uma fileira de estrelas brancas."},"name":{"common":"Bósnia e Herzegovina","official":"Bósnia e Herzegovina","nativeName":{"bos":{"official":"Bosna i Hercegovina","common":"Bosna i Hercegovina"},"hrv":{"official":"Bosna i Hercegovina","common":"Bosna i Hercegovina"},"srp":{"official":"Босна и Херцеговина","common":"Босна и Херцеговина"}}},"cca3":"BIH","currencies":{"BAM":{"name":"Marco conversível bósnio","symbol":"KM"}},"capital":["Sarajevo"],"languages":{"bos":"Bósnio","hrv":"Croata","srp":"Sérvio"},"area":51209,"population":3422000,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ge.png","svg":"https://flagcdn.com/ge.svg","alt":"A bandeira da Geórgia é branca com uma cruz vermelha e quatro cruzes menores nos cantos."},"name":{"common":"Geórgia","official":"Geórgia","nativeName":{"kat":{"official":"საქართველო","common":"საქართველო"}}},"cca3":"GEO","currencies":{"GEL":{"name":"Lari georgiano","symbol":"₾"}},"capital":["Tbilisi"],"languages":{"kat":"Georgiano"},"area":69700,"population":4000921,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/nc.png","svg":"https://flagcdn.com/nc.svg","alt":"A bandeira da Nova Caledónia tem três faixas horizontais azul, vermelha e verde, com um disco amarelo contendo um símbolo tradicional."},"name":{"common":"Nova Caledónia","official":"Nova Caledónia","nativeName":{"fra":{"official":"Nouvelle-Calédonie","common":"Nouvelle-Calédonie"}}},"cca3":"NCL","currencies":{"XPF":{"name":"Franco CFP","symbol":"₣"}},"capital":["Nouméa"],"languages":{"fra":"Francês"},"area":18575,"population":264596,"continents":["Oceânia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ee.png","svg":"https://flagcdn.com/ee.svg","alt":"A bandeira da Estónia tem três faixas horizontais iguais: azul, preto e branco."},"name":{"common":"Estónia","official":"República da Estónia","nativeName":{"est":{"official":"Eesti Vabariik","common":"Eesti"}}},"cca3":"EST","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Tallinn"],"languages":{"est":"Estónio"},"area":45227,"population":1369995,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/hn.png","svg":"https://flagcdn.com/hn.svg","alt":"A bandeira das Honduras tem faixas turquesa e branca com cinco estrelas turquesa ao centro."},"name":{"common":"Honduras","official":"República das Honduras","nativeName":{"spa":{"official":"República de Honduras","common":"Honduras"}}},"cca3":"HND","currencies":{"HNL":{"name":"Lempira hondurenha","symbol":"L"}},"capital":["Tegucigalpa"],"languages":{"spa":"Espanhol"},"area":112492,"population":9892632,"continents":["América do Norte"]},
+    {"flags":{"png":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png","svg":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg","alt":"A bandeira do Emirado Islâmico do Afeganistão é branca com a Shahada em preto ao centro."},"name":{"common":"Afeganistão","official":"República Islâmica do Afeganistão","nativeName":{"prs":{"official":"جمهوری اسلامی افغانستان","common":"افغانستان"},"pus":{"official":"د افغانستان اسلامي جمهوریت","common":"افغانستان"},"tuk":{"official":"Owganystan Yslam Respublikasy","common":"Owganystan"}}},"cca3":"AFG","currencies":{"AFN":{"name":"Afegane afegão","symbol":"؋"}},"capital":["Cabul"],"languages":{"prs":"Dari","pus":"Pachto","tuk":"Turcomeno"},"area":652230,"population":43844000,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/cw.png","svg":"https://flagcdn.com/cw.svg","alt":"A bandeira de Curaçau é azul com uma faixa amarela e duas estrelas brancas no canto superior esquerdo."},"name":{"common":"Curaçau","official":"País de Curaçau","nativeName":{"eng":{"official":"Country of Curaçao","common":"Curaçao"},"nld":{"official":"Land Curaçao","common":"Curaçao"},"pap":{"official":"Pais Kòrsou","common":"Pais Kòrsou"}}},"cca3":"CUW","currencies":{"ANG":{"name":"Florim das Antilhas Neerlandesas","symbol":"ƒ"}},"capital":["Willemstad"],"languages":{"eng":"Inglês","nld":"Neerlandês","pap":"Papiamento"},"area":444,"population":156115,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ht.png","svg":"https://flagcdn.com/ht.svg","alt":"A bandeira do Haiti tem faixas azul e vermelha com o brasão ao centro."},"name":{"common":"Haiti","official":"República do Haiti","nativeName":{"fra":{"official":"République d'Haïti","common":"Haïti"},"hat":{"official":"Repiblik Ayiti","common":"Ayiti"}}},"cca3":"HTI","currencies":{"HTG":{"name":"Gourde haitiana","symbol":"G"}},"capital":["Port-au-Prince"],"languages":{"fra":"Francês","hat":"Crioulo haitiano"},"area":27750,"population":11867032,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/na.png","svg":"https://flagcdn.com/na.svg","alt":"A bandeira da Namíbia tem uma faixa diagonal vermelha com bordas brancas separando áreas azul e verde, e um sol dourado no canto superior esquerdo."},"name":{"common":"Namíbia","official":"República da Namíbia","nativeName":{"afr":{"official":"Republiek van Namibië","common":"Namibië"},"deu":{"official":"Republik Namibia","common":"Namibia"},"eng":{"official":"Republic of Namibia","common":"Namibia"},"her":{"official":"Republic of Namibia","common":"Namibia"},"hgm":{"official":"Republic of Namibia","common":"Namibia"},"kwn":{"official":"Republic of Namibia","common":"Namibia"},"loz":{"official":"Republic of Namibia","common":"Namibia"},"ndo":{"official":"Republic of Namibia","common":"Namibia"},"tsn":{"official":"Lefatshe la Namibia","common":"Namibia"}}},"cca3":"NAM","currencies":{"NAD":{"name":"Dólar namibiano","symbol":"$"},"ZAR":{"name":"Rand sul-africano","symbol":"R"}},"capital":["Windhoek"],"languages":{"afr":"Africâner","deu":"Alemão","eng":"Inglês","her":"Herero","hgm":"Khoekhoe","kwn":"Kwangali","loz":"Lozi","ndo":"Ndonga","tsn":"Tswana"},"area":825615,"population":3022401,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/pn.png","svg":"https://flagcdn.com/pn.svg","alt":"A bandeira das Ilhas Pitcairn é azul com a Union Jack e o brasão local ao centro."},"name":{"common":"Ilhas Pitcairn","official":"Grupo de Ilhas Pitcairn","nativeName":{"eng":{"official":"Pitcairn Group of Islands","common":"Pitcairn Islands"}}},"cca3":"PCN","currencies":{"NZD":{"name":"Dólar neozelandês","symbol":"$"}},"capital":["Adamstown"],"languages":{"eng":"Inglês"},"area":47,"population":35,"continents":["Oceânia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/vc.png","svg":"https://flagcdn.com/vc.svg","alt":"A bandeira de São Vicente e Granadinas tem faixas azul, dourada e verde com três losangos verdes formando um V."},"name":{"common":"São Vicente e Granadinas","official":"São Vicente e Granadinas","nativeName":{"eng":{"official":"Saint Vincent and the Grenadines","common":"Saint Vincent and the Grenadines"}}},"cca3":"VCT","currencies":{"XCD":{"name":"Dólar do Caribe Oriental","symbol":"$"}},"capital":["Kingstown"],"languages":{"eng":"Inglês"},"area":389,"population":110872,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/gw.png","svg":"https://flagcdn.com/gw.svg","alt":"A bandeira da Guiné-Bissau tem uma faixa vertical vermelha com uma estrela preta e duas faixas horizontais amarela e verde."},"name":{"common":"Guiné-Bissau","official":"República da Guiné-Bissau","nativeName":{"por":{"official":"República da Guiné-Bissau","common":"Guiné-Bissau"},"pov":{"official":"República da Guiné-Bissau","common":"Guiné-Bissau"}}},"cca3":"GNB","currencies":{"XOF":{"name":"Franco CFA da África Ocidental","symbol":"Fr"}},"capital":["Bissau"],"languages":{"por":"Português","pov":"Crioulo da Guiné Superior"},"area":36125,"population":1781308,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/th.png","svg":"https://flagcdn.com/th.svg","alt":"A bandeira da Tailândia tem cinco faixas horizontais vermelha, branca, azul, branca e vermelha, sendo a azul dupla em altura."},"name":{"common":"Tailândia","official":"Reino da Tailândia","nativeName":{"tha":{"official":"ราชอาณาจักรไทย","common":"ประเทศไทย"}}},"cca3":"THA","currencies":{"THB":{"name":"Baht tailandês","symbol":"฿"}},"capital":["Banguecoque"],"languages":{"tha":"Tailandês"},"area":513120,"population":65859640,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/kz.png","svg":"https://flagcdn.com/kz.svg","alt":"A bandeira do Cazaquistão é turquesa com um sol dourado e uma águia, além de um padrão ornamental dourado à esquerda."},"name":{"common":"Cazaquistão","official":"República do Cazaquistão","nativeName":{"kaz":{"official":"Қазақстан Республикасы","common":"Қазақстан"},"rus":{"official":"Республика Казахстан","common":"Казахстан"}}},"cca3":"KAZ","currencies":{"KZT":{"name":"Tenge cazaque","symbol":"₸"}},"capital":["Astana"],"languages":{"kaz":"Cazaque","rus":"Russo"},"area":2724900,"population":20426568,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/bl.png","svg":"https://flagcdn.com/bl.svg","alt":"A bandeira de São Bartolomeu mostra o brasão local sobre fundo branco, com elementos heráldicos e a palavra OUANALAO."},"name":{"common":"São Bartolomeu","official":"Coletividade de São Bartolomeu","nativeName":{"fra":{"official":"Collectivité de Saint-Barthélemy","common":"Saint-Barthélemy"}}},"cca3":"BLM","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Gustavia"],"languages":{"fra":"Francês"},"area":21,"population":10562,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/uy.png","svg":"https://flagcdn.com/uy.svg","alt":"A bandeira do Uruguai tem faixas brancas e azuis e um sol amarelo com rosto humano."},"name":{"common":"Uruguai","official":"República Oriental do Uruguai","nativeName":{"spa":{"official":"República Oriental del Uruguay","common":"Uruguay"}}},"cca3":"URY","currencies":{"UYU":{"name":"Peso uruguaio","symbol":"$"}},"capital":["Montevidéu"],"languages":{"spa":"Espanhol"},"area":181034,"population":3499451,"continents":["América do Sul"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ci.png","svg":"https://flagcdn.com/ci.svg","alt":"A bandeira da Costa do Marfim tem três faixas verticais laranja, branca e verde."},"name":{"common":"Costa do Marfim","official":"República da Côte d'Ivoire","nativeName":{"fra":{"official":"République de Côte d'Ivoire","common":"Côte d'Ivoire"}}},"cca3":"CIV","currencies":{"XOF":{"name":"Franco CFA da África Ocidental","symbol":"Fr"}},"capital":["Yamoussoukro"],"languages":{"fra":"Francês"},"area":322463,"population":31719275,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/br.png","svg":"https://flagcdn.com/br.svg","alt":"A bandeira do Brasil é verde com um losango amarelo e um globo azul com estrelas e a faixa 'Ordem e Progresso'."},"name":{"common":"Brasil","official":"República Federativa do Brasil","nativeName":{"por":{"official":"República Federativa do Brasil","common":"Brasil"}}},"cca3":"BRA","currencies":{"BRL":{"name":"Real brasileiro","symbol":"R$"}},"capital":["Brasília"],"languages":{"por":"Português"},"area":8515767,"population":213421037,"continents":["América do Sul"]},
+    {"flags":{"png":"https://flagcdn.com/w320/mn.png","svg":"https://flagcdn.com/mn.svg","alt":"A bandeira da Mongólia tem faixas verticais vermelha, azul e vermelha, com o símbolo Soyombo em dourado."},"name":{"common":"Mongólia","official":"Mongólia","nativeName":{"mon":{"official":"Монгол улс","common":"Монгол улс"}}},"cca3":"MNG","currencies":{"MNT":{"name":"Tögrög mongol","symbol":"₮"}},"capital":["Ulã Bator"],"languages":{"mon":"Mongol"},"area":1564110,"population":3544835,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/io.png","svg":"https://flagcdn.com/io.svg","alt":"A bandeira do Território Britânico do Oceano Índico é branca com listras azuis onduladas, a Union Jack e um coqueiro com coroa."},"name":{"common":"Território Britânico do Oceano Índico","official":"Território Britânico do Oceano Índico","nativeName":{"eng":{"official":"British Indian Ocean Territory","common":"British Indian Ocean Territory"}}},"cca3":"IOT","currencies":{"USD":{"name":"Dólar dos Estados Unidos","symbol":"$"}},"capital":["Diego Garcia"],"languages":{"eng":"Inglês"},"area":60,"population":0,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/lv.png","svg":"https://flagcdn.com/lv.svg","alt":"A bandeira da Letónia é vermelha com uma faixa horizontal branca ao centro."},"name":{"common":"Letónia","official":"República da Letónia","nativeName":{"lav":{"official":"Latvijas Republikas","common":"Latvija"}}},"cca3":"LVA","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Riga"],"languages":{"lav":"Letão"},"area":64559,"population":1829000,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/gy.png","svg":"https://flagcdn.com/gy.svg","alt":"A bandeira da Guiana tem triângulos vermelho e amarelo sobre um fundo verde com bordas pretas e brancas."},"name":{"common":"Guiana","official":"República Cooperativa da Guiana","nativeName":{"eng":{"official":"Co-operative Republic of Guyana","common":"Guyana"}}},"cca3":"GUY","currencies":{"GYD":{"name":"Dólar guianense","symbol":"$"}},"capital":["Georgetown"],"languages":{"eng":"Inglês"},"area":214969,"population":772975,"continents":["América do Sul"]},
+    {"flags":{"png":"https://flagcdn.com/w320/pf.png","svg":"https://flagcdn.com/pf.svg","alt":"A bandeira da Polinésia Francesa tem faixas vermelhas e brancas com um disco central mostrando ondas, sol e uma canoa com cinco tripulantes."},"name":{"common":"Polinésia Francesa","official":"Polinésia Francesa","nativeName":{"fra":{"official":"Polynésie française","common":"Polynésie française"}}},"cca3":"PYF","currencies":{"XPF":{"name":"Franco CFP","symbol":"₣"}},"capital":["Papeetē"],"languages":{"fra":"Francês"},"area":4167,"population":279500,"continents":["Oceânia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/pa.png","svg":"https://flagcdn.com/pa.svg","alt":"A bandeira do Panamá tem quatro quadrantes com estrelas azul e vermelha e áreas vermelhas e azuis."},"name":{"common":"Panamá","official":"República do Panamá","nativeName":{"spa":{"official":"República de Panamá","common":"Panamá"}}},"cca3":"PAN","currencies":{"PAB":{"name":"Balboa panamenho","symbol":"B/."},"USD":{"name":"Dólar dos Estados Unidos","symbol":"$"}},"capital":["Cidade do Panamá"],"languages":{"spa":"Espanhol"},"area":75417,"population":4064780,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/je.png","svg":"https://flagcdn.com/je.svg","alt":"A bandeira de Jersey é branca com uma cruz diagonal vermelha e um escudo vermelho com três leões dourados e uma coroa amarela."},"name":{"common":"Jersey","official":"Bailiado de Jersey","nativeName":{"eng":{"official":"Bailiwick of Jersey","common":"Jersey"},"fra":{"official":"Bailliage de Jersey","common":"Jersey"},"nrf":{"official":"Bailliage dé Jèrri","common":"Jèrri"}}},"cca3":"JEY","currencies":{"GBP":{"name":"Libra esterlina","symbol":"£"},"JEP":{"name":"Libra de Jersey","symbol":"£"}},"capital":["Saint Helier"],"languages":{"eng":"Inglês","fra":"Francês","nrf":"Jèrriais"},"area":116,"population":103267,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ml.png","svg":"https://flagcdn.com/ml.svg","alt":"A bandeira do Mali tem três faixas verticais iguais: verde, amarela e vermelha."},"name":{"common":"Mali","official":"República do Mali","nativeName":{"fra":{"official":"République du Mali","common":"Mali"}}},"cca3":"MLI","currencies":{"XOF":{"name":"Franco CFA da África Ocidental","symbol":"Fr"}},"capital":["Bamaco"],"languages":{"fra":"Francês"},"area":1240192,"population":22395489,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/pe.png","svg":"https://flagcdn.com/pe.svg","alt":"A bandeira do Peru tem três faixas verticais vermelha, branca e vermelha, com o brasão ao centro."},"name":{"common":"Peru","official":"República do Peru","nativeName":{"aym":{"official":"Piruw Suyu","common":"Piruw"},"que":{"official":"Piruw Ripuwlika","common":"Piruw"},"spa":{"official":"República del Perú","common":"Perú"}}},"cca3":"PER","currencies":{"PEN":{"name":"Sol peruano","symbol":"S/"}},"capital":["Lima"],"languages":{"aym":"Aimará","que":"Quechua","spa":"Espanhol"},"area":1285216,"population":34350244,"continents":["América do Sul"]},
+    {"flags":{"png":"https://flagcdn.com/w320/id.png","svg":"https://flagcdn.com/id.svg","alt":"A bandeira da Indonésia tem duas faixas horizontais iguais: vermelha e branca."},"name":{"common":"Indonésia","official":"República da Indonésia","nativeName":{"ind":{"official":"Republik Indonesia","common":"Indonesia"}}},"cca3":"IDN","currencies":{"IDR":{"name":"Rupia indonésia","symbol":"Rp"}},"capital":["Jacarta"],"languages":{"ind":"Indonésio"},"area":1904569,"population":284438782,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/yt.png","svg":"https://flagcdn.com/yt.svg","alt":"A bandeira de Mayotte tem fundo branco com o brasão ao centro, dois cavalos-marinhos e o nome do território em vermelho."},"name":{"common":"Mayotte","official":"Departamento de Mayotte","nativeName":{"fra":{"official":"Département de Mayotte","common":"Mayotte"}}},"cca3":"MYT","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Mamoudzou"],"languages":{"fra":"Francês"},"area":374,"population":320901,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/md.png","svg":"https://flagcdn.com/md.svg","alt":"A bandeira da Moldávia tem três faixas verticais azul, amarela e vermelha com o brasão ao centro."},"name":{"common":"Moldávia","official":"República da Moldávia","nativeName":{"ron":{"official":"Republica Moldova","common":"Moldova"}}},"cca3":"MDA","currencies":{"MDL":{"name":"Leu moldavo","symbol":"L"}},"capital":["Quixinau"],"languages":{"ron":"Romeno"},"area":33847,"population":2749076,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/sy.png","svg":"https://flagcdn.com/sy.svg","alt":"A bandeira da Síria tem faixas horizontais vermelha, branca e preta com duas estrelas verdes ao centro."},"name":{"common":"Síria","official":"República Árabe da Síria","nativeName":{"ara":{"official":"الجمهورية العربية السورية","common":"سوريا"}}},"cca3":"SYR","currencies":{"SYP":{"name":"Libra síria","symbol":"£"}},"capital":["Damasco"],"languages":{"ara":"Árabe"},"area":185180,"population":25620000,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/sg.png","svg":"https://flagcdn.com/sg.svg","alt":"A bandeira de Singapura tem faixas vermelha e branca com uma lua crescente e cinco estrelas."},"name":{"common":"Singapura","official":"República de Singapura","nativeName":{"eng":{"official":"Republic of Singapore","common":"Singapore"},"zho":{"official":"新加坡共和国","common":"新加坡"},"msa":{"official":"Republik Singapura","common":"Singapura"},"tam":{"official":"சிங்கப்பூர் குடியரசு","common":"சிங்கப்பூர்"}}},"cca3":"SGP","currencies":{"SGD":{"name":"Dólar de Singapura","symbol":"$"}},"capital":["Singapura"],"languages":{"eng":"Inglês","zho":"Chinês","msa":"Malaio","tam":"Tâmil"},"area":710,"population":6110200,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ky.png","svg":"https://flagcdn.com/ky.svg","alt":"A bandeira das Ilhas Caimão é azul com a Union Jack e o brasão local ao centro."},"name":{"common":"Ilhas Caimão","official":"Ilhas Caimão","nativeName":{"eng":{"official":"Cayman Islands","common":"Cayman Islands"}}},"cca3":"CYM","currencies":{"KYD":{"name":"Dólar das Ilhas Caimão","symbol":"$"}},"capital":["George Town"],"languages":{"eng":"Inglês"},"area":264,"population":84738,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/eg.png","svg":"https://flagcdn.com/eg.svg","alt":"A bandeira do Egito tem faixas vermelha, branca e preta com a águia dourada de Saladino ao centro."},"name":{"common":"Egito","official":"República Árabe do Egito","nativeName":{"ara":{"official":"جمهورية مصر العربية","common":"مصر"}}},"cca3":"EGY","currencies":{"EGP":{"name":"Libra egípcia","symbol":"£"}},"capital":["Cairo"],"languages":{"ara":"Árabe"},"area":1002450,"population":107271260,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/hm.png","svg":"https://flagcdn.com/hm.svg","alt":"A bandeira da Ilha Heard e Ilhas McDonald é azul com a Union Jack e estrelas brancas representando o Cruzeiro do Sul."},"name":{"common":"Ilha Heard e Ilhas McDonald","official":"Ilha Heard e Ilhas McDonald","nativeName":{"eng":{"official":"Heard Island and McDonald Islands","common":"Heard Island and McDonald Islands"}}},"cca3":"HMD","currencies":{},"capital":[],"languages":{"eng":"Inglês"},"area":412,"population":0,"continents":["Antártida"]},
+    {"flags":{"png":"https://flagcdn.com/w320/mv.png","svg":"https://flagcdn.com/mv.svg","alt":"A bandeira das Maldivas é vermelha com um retângulo verde e uma lua crescente branca."},"name":{"common":"Maldivas","official":"República das Maldivas","nativeName":{"div":{"official":"ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ","common":"ދިވެހިރާއްޖޭގެ"}}},"cca3":"MDV","currencies":{"MVR":{"name":"Rupia maldiva","symbol":".ރ"}},"capital":["Malé"],"languages":{"div":"Maldivo"},"area":300,"population":515132,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/tl.png","svg":"https://flagcdn.com/tl.svg","alt":"A bandeira de Timor-Leste é vermelha com triângulos preto e amarelo e uma estrela branca."},"name":{"common":"Timor-Leste","official":"República Democrática de Timor-Leste","nativeName":{"por":{"official":"República Democrática de Timor-Leste","common":"Timor-Leste"},"tet":{"official":"Repúblika Demokrátika Timór-Leste","common":"Timór-Leste"}}},"cca3":"TLS","currencies":{"USD":{"name":"Dólar dos Estados Unidos","symbol":"$"}},"capital":["Díli"],"languages":{"por":"Português","tet":"Tétum"},"area":14874,"population":1391221,"continents":["Oceânia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/jo.png","svg":"https://flagcdn.com/jo.svg","alt":"A bandeira da Jordânia tem faixas preta, branca e verde com um triângulo vermelho e uma estrela branca de sete pontas."},"name":{"common":"Jordânia","official":"Reino Haxemita da Jordânia","nativeName":{"ara":{"official":"المملكة الأردنية الهاشمية","common":"الأردن"}}},"cca3":"JOR","currencies":{"JOD":{"name":"Dinar jordaniano","symbol":"د.ا"}},"capital":["Amã"],"languages":{"ara":"Árabe"},"area":89342,"population":11734000,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/so.png","svg":"https://flagcdn.com/so.svg","alt":"A bandeira da Somália é azul-clara com uma estrela branca de cinco pontas ao centro."},"name":{"common":"Somália","official":"República Federal da Somália","nativeName":{"ara":{"official":"جمهورية الصومال‎‎","common":"الصومال‎‎"},"som":{"official":"Jamhuuriyadda Federaalka Soomaaliya","common":"Soomaaliya"}}},"cca3":"SOM","currencies":{"SOS":{"name":"Xelim somali","symbol":"Sh"}},"capital":["Mogadíscio"],"languages":{"ara":"Árabe","som":"Somali"},"area":637657,"population":19655000,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/az.png","svg":"https://flagcdn.com/az.svg","alt":"A bandeira do Azerbaijão tem faixas azul, vermelha e verde com uma lua crescente e uma estrela branca."},"name":{"common":"Azerbaijão","official":"República do Azerbaijão","nativeName":{"aze":{"official":"Azərbaycan Respublikası","common":"Azərbaycan"}}},"cca3":"AZE","currencies":{"AZN":{"name":"Manat azeri","symbol":"₼"}},"capital":["Bacu"],"languages":{"aze":"Azeri"},"area":86600,"population":10241722,"continents":["Europa","Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/mz.png","svg":"https://flagcdn.com/mz.svg","alt":"A bandeira de Moçambique tem faixas verde, preta e amarela com um triângulo vermelho contendo um livro, uma enxada e uma arma."},"name":{"common":"Moçambique","official":"República de Moçambique","nativeName":{"por":{"official":"República de Moçambique","common":"Moçambique"}}},"cca3":"MOZ","currencies":{"MZN":{"name":"Metical moçambicano","symbol":"MT"}},"capital":["Maputo"],"languages":{"por":"Português"},"area":801590,"population":34090466,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/cv.png","svg":"https://flagcdn.com/cv.svg","alt":"A bandeira de Cabo Verde tem faixas azuis, brancas e vermelhas com um círculo de dez estrelas amarelas."},"name":{"common":"Cabo Verde","official":"República de Cabo Verde","nativeName":{"por":{"official":"República de Cabo Verde","common":"Cabo Verde"}}},"cca3":"CPV","currencies":{"CVE":{"name":"Escudo cabo-verdiano","symbol":"Esc"}},"capital":["Praia"],"languages":{"por":"Português"},"area":4033,"population":491233,"continents":["África"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ca.png","svg":"https://flagcdn.com/ca.svg","alt":"A bandeira do Canadá tem faixas vermelhas e um quadrado branco com uma folha de ácer vermelha ao centro."},"name":{"common":"Canadá","official":"Canadá","nativeName":{"eng":{"official":"Canada","common":"Canada"},"fra":{"official":"Canada","common":"Canada"}}},"cca3":"CAN","currencies":{"CAD":{"name":"Dólar canadiano","symbol":"$"}},"capital":["Ottawa"],"languages":{"eng":"Inglês","fra":"Francês"},"area":9984670,"population":41651653,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/im.png","svg":"https://flagcdn.com/im.svg","alt":"A bandeira da Ilha de Man é vermelha com um tríscele de três pernas ao centro."},"name":{"common":"Ilha de Man","official":"Ilha de Man","nativeName":{"eng":{"official":"Isle of Man","common":"Isle of Man"},"glv":{"official":"Ellan Vannin or Mannin","common":"Mannin"}}},"cca3":"IMN","currencies":{"GBP":{"name":"Libra esterlina","symbol":"£"},"IMP":{"name":"Libra manesa","symbol":"£"}},"capital":["Douglas"],"languages":{"eng":"Inglês","glv":"Manês"},"area":572,"population":84530,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/gi.png","svg":"https://flagcdn.com/gi.svg","alt":"A bandeira de Gibraltar tem faixas branca e vermelha com um castelo vermelho e uma chave dourada."},"name":{"common":"Gibraltar","official":"Gibraltar","nativeName":{"eng":{"official":"Gibraltar","common":"Gibraltar"}}},"cca3":"GIB","currencies":{"GIP":{"name":"Libra de Gibraltar","symbol":"£"}},"capital":["Gibraltar"],"languages":{"eng":"Inglês"},"area":6,"population":38000,"continents":["Europa"]},
+    {"flags":{"png":"https://flagcdn.com/w320/kr.png","svg":"https://flagcdn.com/kr.svg","alt":"A bandeira da Coreia do Sul é branca com o símbolo Taegeuk ao centro e quatro trigramas pretos."},"name":{"common":"Coreia do Sul","official":"República da Coreia","nativeName":{"kor":{"official":"대한민국","common":"한국"}}},"cca3":"KOR","currencies":{"KRW":{"name":"Won sul-coreano","symbol":"₩"}},"capital":["Seul"],"languages":{"kor":"Coreano"},"area":100210,"population":51159889,"continents":["Ásia"]},
+    {"flags":{"png":"https://flagcdn.com/w320/ni.png","svg":"https://flagcdn.com/ni.svg","alt":"A bandeira da Nicarágua tem faixas azuis e branca com o brasão ao centro."},"name":{"common":"Nicarágua","official":"República da Nicarágua","nativeName":{"spa":{"official":"República de Nicaragua","common":"Nicaragua"}}},"cca3":"NIC","currencies":{"NIO":{"name":"Córdoba nicaraguense","symbol":"C$"}},"capital":["Manágua"],"languages":{"spa":"Espanhol"},"area":130373,"population":6803886,"continents":["América do Norte"]},
+    {"flags":{"png":"https://flagcdn.com/w320/bg.png","svg":"https://flagcdn.com/bg.svg","alt":"A bandeira da Bulgária tem faixas horizontais branca, verde e vermelha."},"name":{"common":"Bulgária","official":"República da Bulgária","nativeName":{"bul":{"official":"Република България","common":"България"}}},"cca3":"BGR","currencies":{"BGN":{"name":"Lev búlgaro","symbol":"лв"}},"capital":["Sófia"],"languages":{"bul":"Búlgaro"},"area":110879,"population":6437360,"continents":["Europa"]},
+
+  
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/sv.png",
+      "svg": "https://flagcdn.com/sv.svg",
+      "alt": "The flag of El Salvador is composed of three equal horizontal bands of cobalt blue, white and cobalt blue, with the national coat of arms centered in the white band."
+    },
+    "name": {
+      "common": "El Salvador",
+      "official": "Republic of El Salvador",
+      "nativeName": {
+        "spa": {
+          "official": "República de El Salvador",
+          "common": "El Salvador"
+        }
+      }
+    },
+    "cca3": "SLV",
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "San Salvador"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "area": 21041,
+    "population": 6029976,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/lu.png",
+      "svg": "https://flagcdn.com/lu.svg",
+      "alt": "The flag of Luxembourg is composed of three equal horizontal bands of red, white and light blue."
+    },
+    "name": {
+      "common": "Luxembourg",
+      "official": "Grand Duchy of Luxembourg",
+      "nativeName": {
+        "deu": {
+          "official": "Großherzogtum Luxemburg",
+          "common": "Luxemburg"
+        },
+        "fra": {
+          "official": "Grand-Duché de Luxembourg",
+          "common": "Luxembourg"
+        },
+        "ltz": {
+          "official": "Groussherzogtum Lëtzebuerg",
+          "common": "Lëtzebuerg"
+        }
+      }
+    },
+    "cca3": "LUX",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Luxembourg"
+    ],
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "ltz": "Luxembourgish"
+    },
+    "area": 2586,
+    "population": 681973,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/us.png",
+      "svg": "https://flagcdn.com/us.svg",
+      "alt": "The flag of the United States of America is composed of thirteen equal horizontal bands of red alternating with white. A blue rectangle, bearing fifty small five-pointed white stars arranged in nine rows where rows of six stars alternate with rows of five stars, is superimposed in the canton."
+    },
+    "name": {
+      "common": "United States",
+      "official": "United States of America",
+      "nativeName": {
+        "eng": {
+          "official": "United States of America",
+          "common": "United States"
+        }
+      }
+    },
+    "cca3": "USA",
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Washington, D.C."
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 9525067,
+    "population": 340110988,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/co.png",
+      "svg": "https://flagcdn.com/co.svg",
+      "alt": "The flag of Colombia is composed of three horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands."
+    },
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia",
+      "nativeName": {
+        "spa": {
+          "official": "República de Colombia",
+          "common": "Colombia"
+        }
+      }
+    },
+    "cca3": "COL",
+    "currencies": {
+      "COP": {
+        "name": "Colombian peso",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Bogotá"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "area": 1141748,
+    "population": 53057212,
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/eh.png",
+      "svg": "https://flagcdn.com/eh.svg",
+      "alt": "The flag of Western Sahara has three equal horizontal stripes of black, white, and green overlaid by a red triangle issuing from the hoist. Centered in the white band is a red fly-facing crescent surrounding a red five-pointed star."
+    },
+    "name": {
+      "common": "Western Sahara",
+      "official": "Sahrawi Arab Democratic Republic",
+      "nativeName": {
+        "ber": {
+          "official": "Sahrawi Arab Democratic Republic",
+          "common": "Western Sahara"
+        },
+        "mey": {
+          "official": "الجمهورية العربية الصحراوية الديمقراطية",
+          "common": "الصحراء الغربية"
+        },
+        "spa": {
+          "official": "República Árabe Saharaui Democrática",
+          "common": "Sahara Occidental"
+        }
+      }
+    },
+    "cca3": "ESH",
+    "currencies": {
+      "DZD": {
+        "name": "Algerian dinar",
+        "symbol": "دج"
+      },
+      "MAD": {
+        "name": "Moroccan dirham",
+        "symbol": "DH"
+      },
+      "MRU": {
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    },
+    "capital": [
+      "El Aaiún"
+    ],
+    "languages": {
+      "ber": "Berber",
+      "mey": "Hassaniya",
+      "spa": "Spanish"
+    },
+    "area": 266000,
+    "population": 600904,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/au.png",
+      "svg": "https://flagcdn.com/au.svg",
+      "alt": "The flag of Australia has a dark blue field. It features the flag of the United Kingdom — the Union Jack — in the canton, beneath which is a large white seven-pointed star. A representation of the Southern Cross constellation, made up of one small five-pointed and four larger seven-pointed white stars, is situated on the fly side of the field."
+    },
+    "name": {
+      "common": "Australia",
+      "official": "Commonwealth of Australia",
+      "nativeName": {
+        "eng": {
+          "official": "Commonwealth of Australia",
+          "common": "Australia"
+        }
+      }
+    },
+    "cca3": "AUS",
+    "currencies": {
+      "AUD": {
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Canberra"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 7692024,
+    "population": 27536874,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/td.png",
+      "svg": "https://flagcdn.com/td.svg",
+      "alt": "The flag of Chad is composed of three equal vertical bands of blue, gold and red."
+    },
+    "name": {
+      "common": "Chad",
+      "official": "Republic of Chad",
+      "nativeName": {
+        "ara": {
+          "official": "جمهورية تشاد",
+          "common": "تشاد‎"
+        },
+        "fra": {
+          "official": "République du Tchad",
+          "common": "Tchad"
+        }
+      }
+    },
+    "cca3": "TCD",
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "capital": [
+      "N'Djamena"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "area": 1284000,
+    "population": 19340757,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/sh.png",
+      "svg": "https://flagcdn.com/sh.svg",
+      "alt": "The flag of Saint Helena, Ascension and Tristan da Cunha is blue with the UK flag in the canton and the national coat of arms shield centered on the fly half. The upper third of the shield depicts a white plover, a native bird, on a yellow field. The rest of the shield depicts a rocky coastline and a three-masted sailing ship with sails furled and flying an English flag."
+    },
+    "name": {
+      "common": "Saint Helena, Ascension and Tristan da Cunha",
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "nativeName": {
+        "eng": {
+          "official": "Saint Helena, Ascension and Tristan da Cunha",
+          "common": "Saint Helena, Ascension and Tristan da Cunha"
+        }
+      }
+    },
+    "cca3": "SHN",
+    "currencies": {
+      "GBP": {
+        "name": "Pound sterling",
+        "symbol": "£"
+      },
+      "SHP": {
+        "name": "Saint Helena pound",
+        "symbol": "£"
+      }
+    },
+    "capital": [
+      "Jamestown"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 394,
+    "population": 5651,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/tr.png",
+      "svg": "https://flagcdn.com/tr.svg",
+      "alt": "The flag of Turkey has a red field bearing a large fly-side facing white crescent and a smaller five-pointed white star placed just outside the crescent opening. The white crescent and star are offset slightly towards the hoist side of center."
+    },
+    "name": {
+      "common": "Turkey",
+      "official": "Republic of Turkey",
+      "nativeName": {
+        "tur": {
+          "official": "Türkiye Cumhuriyeti",
+          "common": "Türkiye"
+        }
+      }
+    },
+    "cca3": "TUR",
+    "currencies": {
+      "TRY": {
+        "name": "Turkish lira",
+        "symbol": "₺"
+      }
+    },
+    "capital": [
+      "Ankara"
+    ],
+    "languages": {
+      "tur": "Turkish"
+    },
+    "area": 783562,
+    "population": 85664944,
+    "continents": [
+      "Europe",
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/bz.png",
+      "svg": "https://flagcdn.com/bz.svg",
+      "alt": "The flag of Belize has a royal blue field with a thin red horizontal band at the top and bottom of the field and the national coat of arms in the center."
+    },
+    "name": {
+      "common": "Belize",
+      "official": "Belize",
+      "nativeName": {
+        "bjz": {
+          "official": "Belize",
+          "common": "Belize"
+        },
+        "eng": {
+          "official": "Belize",
+          "common": "Belize"
+        },
+        "spa": {
+          "official": "Belice",
+          "common": "Belice"
+        }
+      }
+    },
+    "cca3": "BLZ",
+    "currencies": {
+      "BZD": {
+        "name": "Belize dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Belmopan"
+    ],
+    "languages": {
+      "bjz": "Belizean Creole",
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "area": 22966,
+    "population": 417634,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/gh.png",
+      "svg": "https://flagcdn.com/gh.svg",
+      "alt": "The flag of Ghana is composed of three equal horizontal bands of red, gold and green, with a five-pointed black star centered in the gold band."
+    },
+    "name": {
+      "common": "Ghana",
+      "official": "Republic of Ghana",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Ghana",
+          "common": "Ghana"
+        }
+      }
+    },
+    "cca3": "GHA",
+    "currencies": {
+      "GHS": {
+        "name": "Ghanaian cedi",
+        "symbol": "₵"
+      }
+    },
+    "capital": [
+      "Accra"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 238533,
+    "population": 33742380,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/mf.png",
+      "svg": "https://flagcdn.com/mf.svg",
+      "alt": "The flag of Saint Martin is composed of three equal vertical bands of blue, white and red."
+    },
+    "name": {
+      "common": "Saint Martin",
+      "official": "Saint Martin",
+      "nativeName": {
+        "fra": {
+          "official": "Saint-Martin",
+          "common": "Saint-Martin"
+        }
+      }
+    },
+    "cca3": "MAF",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Marigot"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "area": 53,
+    "population": 31496,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ug.png",
+      "svg": "https://flagcdn.com/ug.svg",
+      "alt": "The flag of Uganda is composed of six equal horizontal bands of black, yellow, red, black, yellow and red. A white circle bearing a hoist-side facing grey red-crested crane is superimposed in the center of the field."
+    },
+    "name": {
+      "common": "Uganda",
+      "official": "Republic of Uganda",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Uganda",
+          "common": "Uganda"
+        },
+        "swa": {
+          "official": "Republic of Uganda",
+          "common": "Uganda"
+        }
+      }
+    },
+    "cca3": "UGA",
+    "currencies": {
+      "UGX": {
+        "name": "Ugandan shilling",
+        "symbol": "Sh"
+      }
+    },
+    "capital": [
+      "Kampala"
+    ],
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "area": 241550,
+    "population": 45905417,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/mq.png",
+      "svg": "https://flagcdn.com/mq.svg",
+      "alt": "The flag of Martinique consists of a red triangle at the hoist, with two horizontal bands, the upper green and the lower black."
+    },
+    "name": {
+      "common": "Martinique",
+      "official": "Martinique",
+      "nativeName": {
+        "fra": {
+          "official": "Martinique",
+          "common": "Martinique"
+        }
+      }
+    },
+    "cca3": "MTQ",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Fort-de-France"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "area": 1128,
+    "population": 349925,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/rs.png",
+      "svg": "https://flagcdn.com/rs.svg",
+      "alt": "The flag of Serbia is composed of three equal horizontal bands of red, blue and white. The coat of arms of Serbia is superimposed at the center of the field slightly towards the hoist side."
+    },
+    "name": {
+      "common": "Serbia",
+      "official": "Republic of Serbia",
+      "nativeName": {
+        "srp": {
+          "official": "Република Србија",
+          "common": "Србија"
+        }
+      }
+    },
+    "cca3": "SRB",
+    "currencies": {
+      "RSD": {
+        "name": "Serbian dinar",
+        "symbol": "дин."
+      }
+    },
+    "capital": [
+      "Belgrade"
+    ],
+    "languages": {
+      "srp": "Serbian"
+    },
+    "area": 77589,
+    "population": 6567783,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/my.png",
+      "svg": "https://flagcdn.com/my.svg",
+      "alt": "The flag of Malaysia is composed of fourteen equal horizontal bands of red alternating with white. A blue rectangle, bearing a fly-side facing yellow crescent and a fourteen-pointed yellow star placed just outside the crescent opening, is superimposed in the canton."
+    },
+    "name": {
+      "common": "Malaysia",
+      "official": "Malaysia",
+      "nativeName": {
+        "eng": {
+          "official": "Malaysia",
+          "common": "Malaysia"
+        },
+        "msa": {
+          "official": "مليسيا",
+          "common": "مليسيا"
+        }
+      }
+    },
+    "cca3": "MYS",
+    "currencies": {
+      "MYR": {
+        "name": "Malaysian ringgit",
+        "symbol": "RM"
+      }
+    },
+    "capital": [
+      "Kuala Lumpur"
+    ],
+    "languages": {
+      "eng": "English",
+      "msa": "Malay"
+    },
+    "area": 330803,
+    "population": 34231700,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ax.png",
+      "svg": "https://flagcdn.com/ax.svg",
+      "alt": "The flag of the Åland Islands has a blue field with a large golden-yellow-edged red cross that extends to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+    },
+    "name": {
+      "common": "Åland Islands",
+      "official": "Åland Islands",
+      "nativeName": {
+        "swe": {
+          "official": "Landskapet Åland",
+          "common": "Åland"
+        }
+      }
+    },
+    "cca3": "ALA",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Mariehamn"
+    ],
+    "languages": {
+      "swe": "Swedish"
+    },
+    "area": 1580,
+    "population": 30654,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/nu.png",
+      "svg": "https://flagcdn.com/nu.svg",
+      "alt": "The flag of Niue is yellow with the UK flag in the canton. The UK flag has five yellow five-pointed stars, with a large star on a blue disk in the center and smaller stars on each arm of the red cross."
+    },
+    "name": {
+      "common": "Niue",
+      "official": "Niue",
+      "nativeName": {
+        "eng": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "niu": {
+          "official": "Niuē",
+          "common": "Niuē"
+        }
+      }
+    },
+    "cca3": "NIU",
+    "currencies": {
+      "NZD": {
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Alofi"
+    ],
+    "languages": {
+      "eng": "English",
+      "niu": "Niuean"
+    },
+    "area": 260,
+    "population": 1681,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/dm.png",
+      "svg": "https://flagcdn.com/dm.svg",
+      "alt": "The flag of Dominica has a green field with a large centered tricolor cross. The vertical and horizontal parts of the cross each comprise three bands of yellow, black and white. A red circle, bearing a hoist-side facing purple Sisserou parrot standing on a twig and encircled by ten five-pointed yellow-edged green stars, is superimposed at the center of the cross."
+    },
+    "name": {
+      "common": "Dominica",
+      "official": "Commonwealth of Dominica",
+      "nativeName": {
+        "eng": {
+          "official": "Commonwealth of Dominica",
+          "common": "Dominica"
+        }
+      }
+    },
+    "cca3": "DMA",
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Roseau"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 751,
+    "population": 67408,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ie.png",
+      "svg": "https://flagcdn.com/ie.svg",
+      "alt": "The flag of Ireland is composed of three equal vertical bands of green, white and orange."
+    },
+    "name": {
+      "common": "Ireland",
+      "official": "Republic of Ireland",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Ireland",
+          "common": "Ireland"
+        },
+        "gle": {
+          "official": "Poblacht na hÉireann",
+          "common": "Éire"
+        }
+      }
+    },
+    "cca3": "IRL",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Dublin"
+    ],
+    "languages": {
+      "eng": "English",
+      "gle": "Irish"
+    },
+    "area": 70273,
+    "population": 5458600,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/fk.png",
+      "svg": "https://flagcdn.com/fk.svg",
+      "alt": "The flag of the Falkland Islands is blue with the UK flag in the canton and the national coat of arms centered in the fly half. The coat of arms has a white ram above a ship, with a scroll at the bottom bearing the motto \"DESIRE THE RIGHT.\""
+    },
+    "name": {
+      "common": "Falkland Islands",
+      "official": "Falkland Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Falkland Islands",
+          "common": "Falkland Islands"
+        }
+      }
+    },
+    "cca3": "FLK",
+    "currencies": {
+      "FKP": {
+        "name": "Falkland Islands pound",
+        "symbol": "£"
+      }
+    },
+    "capital": [
+      "Stanley"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 12173,
+    "population": 3662,
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/gb.png",
+      "svg": "https://flagcdn.com/gb.svg",
+      "alt": "The flag of the United Kingdom — the Union Jack — has a blue field. It features the white-edged red cross of Saint George superimposed on the diagonal red cross of Saint Patrick which is superimposed on the diagonal white cross of Saint Andrew."
+    },
+    "name": {
+      "common": "United Kingdom",
+      "official": "United Kingdom of Great Britain and Northern Ireland",
+      "nativeName": {
+        "eng": {
+          "official": "United Kingdom of Great Britain and Northern Ireland",
+          "common": "United Kingdom"
+        }
+      }
+    },
+    "cca3": "GBR",
+    "currencies": {
+      "GBP": {
+        "name": "British pound",
+        "symbol": "£"
+      }
+    },
+    "capital": [
+      "London"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 244376,
+    "population": 69281437,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/do.png",
+      "svg": "https://flagcdn.com/do.svg",
+      "alt": "The flag of the Dominican Republic is divided into four rectangles by a centered white cross that extends to the edges of the field and bears the national coat of arms in its center. The upper hoist-side and lower fly-side rectangles are blue and the lower hoist-side and upper fly-side rectangles are red."
+    },
+    "name": {
+      "common": "Dominican Republic",
+      "official": "Dominican Republic",
+      "nativeName": {
+        "spa": {
+          "official": "República Dominicana",
+          "common": "República Dominicana"
+        }
+      }
+    },
+    "cca3": "DOM",
+    "currencies": {
+      "DOP": {
+        "name": "Dominican peso",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Santo Domingo"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "area": 48671,
+    "population": 10771504,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ar.png",
+      "svg": "https://flagcdn.com/ar.svg",
+      "alt": "The flag of Argentina features three equal horizontal bands of light blue, white and light blue. A brown-edged golden sun is centered in the white band."
+    },
+    "name": {
+      "common": "Argentina",
+      "official": "Argentine Republic",
+      "nativeName": {
+        "grn": {
+          "official": "Argentine Republic",
+          "common": "Argentina"
+        },
+        "spa": {
+          "official": "República Argentina",
+          "common": "Argentina"
+        }
+      }
+    },
+    "cca3": "ARG",
+    "currencies": {
+      "ARS": {
+        "name": "Argentine peso",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Buenos Aires"
+    ],
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    },
+    "area": 2780400,
+    "population": 46735004,
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/tc.png",
+      "svg": "https://flagcdn.com/tc.svg",
+      "alt": "The flag of the Turks and Caicos Islands is blue with the UK flag in the canton and the colonial shield centered on the fly half. The shield is yellow and displays a conch shell, a spiny lobster, and a cactus."
+    },
+    "name": {
+      "common": "Turks and Caicos Islands",
+      "official": "Turks and Caicos Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Turks and Caicos Islands",
+          "common": "Turks and Caicos Islands"
+        }
+      }
+    },
+    "cca3": "TCA",
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Cockburn Town"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 948,
+    "population": 50828,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ru.png",
+      "svg": "https://flagcdn.com/ru.svg",
+      "alt": "The flag of Russia is composed of three equal horizontal bands of white, blue and red."
+    },
+    "name": {
+      "common": "Russia",
+      "official": "Russian Federation",
+      "nativeName": {
+        "rus": {
+          "official": "Российская Федерация",
+          "common": "Россия"
+        }
+      }
+    },
+    "cca3": "RUS",
+    "currencies": {
+      "RUB": {
+        "name": "Russian ruble",
+        "symbol": "₽"
+      }
+    },
+    "capital": [
+      "Moscow"
+    ],
+    "languages": {
+      "rus": "Russian"
+    },
+    "area": 17098246,
+    "population": 146028325,
+    "continents": [
+      "Europe",
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/vu.png",
+      "svg": "https://flagcdn.com/vu.svg",
+      "alt": "The flag of Vanuatu is composed of two equal horizontal bands of red and green, with a black isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and is enclosed on its sides by the arms of a thin black-edged yellow horizontally oriented Y-shaped band which extends along the boundary of the red and green bands to the fly end of the field. A yellow boar's tusk encircling two yellow crossed namele leaves is centered in the triangle."
+    },
+    "name": {
+      "common": "Vanuatu",
+      "official": "Republic of Vanuatu",
+      "nativeName": {
+        "bis": {
+          "official": "Ripablik blong Vanuatu",
+          "common": "Vanuatu"
+        },
+        "eng": {
+          "official": "Republic of Vanuatu",
+          "common": "Vanuatu"
+        },
+        "fra": {
+          "official": "République de Vanuatu",
+          "common": "Vanuatu"
+        }
+      }
+    },
+    "cca3": "VUT",
+    "currencies": {
+      "VUV": {
+        "name": "Vanuatu vatu",
+        "symbol": "Vt"
+      }
+    },
+    "capital": [
+      "Port Vila"
+    ],
+    "languages": {
+      "bis": "Bislama",
+      "eng": "English",
+      "fra": "French"
+    },
+    "area": 12189,
+    "population": 321409,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/mx.png",
+      "svg": "https://flagcdn.com/mx.svg",
+      "alt": "The flag of Mexico is composed of three equal vertical bands of green, white and red, with the national coat of arms centered in the white band."
+    },
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States",
+      "nativeName": {
+        "spa": {
+          "official": "Estados Unidos Mexicanos",
+          "common": "México"
+        }
+      }
+    },
+    "cca3": "MEX",
+    "currencies": {
+      "MXN": {
+        "name": "Mexican peso",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Mexico City"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "area": 1964375,
+    "population": 130575786,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/bn.png",
+      "svg": "https://flagcdn.com/bn.svg",
+      "alt": "The flag of Brunei has a yellow field with two adjoining diagonal bands of white and black that extend from the upper hoist side of the field to the lower fly side. The red emblem of Brunei is centered on the field."
+    },
+    "name": {
+      "common": "Brunei",
+      "official": "Nation of Brunei, Abode of Peace",
+      "nativeName": {
+        "msa": {
+          "official": "Nation of Brunei, Abode Damai",
+          "common": "Negara Brunei Darussalam"
+        }
+      }
+    },
+    "cca3": "BRN",
+    "currencies": {
+      "BND": {
+        "name": "Brunei dollar",
+        "symbol": "$"
+      },
+      "SGD": {
+        "name": "Singapore dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Bandar Seri Begawan"
+    ],
+    "languages": {
+      "msa": "Malay"
+    },
+    "area": 5765,
+    "population": 455500,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/gf.png",
+      "svg": "https://flagcdn.com/gf.svg",
+      "alt": "The flag of French Guiana divides diagonally with green in the upper fly and yellow in the lower hoist and bears a red five-pointed star in the center."
+    },
+    "name": {
+      "common": "French Guiana",
+      "official": "Guiana",
+      "nativeName": {
+        "fra": {
+          "official": "Guyane",
+          "common": "Guyane française"
+        }
+      }
+    },
+    "cca3": "GUF",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Cayenne"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "area": 83534,
+    "population": 292354,
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/mu.png",
+      "svg": "https://flagcdn.com/mu.svg",
+      "alt": "The flag of Mauritius is composed of four equal horizontal bands of red, blue, yellow and green."
+    },
+    "name": {
+      "common": "Mauritius",
+      "official": "Republic of Mauritius",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Mauritius",
+          "common": "Mauritius"
+        },
+        "fra": {
+          "official": "République de Maurice",
+          "common": "Maurice"
+        },
+        "mfe": {
+          "official": "Republik Moris",
+          "common": "Moris"
+        }
+      }
+    },
+    "cca3": "MUS",
+    "currencies": {
+      "MUR": {
+        "name": "Mauritian rupee",
+        "symbol": "₨"
+      }
+    },
+    "capital": [
+      "Port Louis"
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "mfe": "Mauritian Creole"
+    },
+    "area": 2040,
+    "population": 1243741,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/by.png",
+      "svg": "https://flagcdn.com/by.svg",
+      "alt": "The flag of Belarus features a vertical band, with a white and red ornamental pattern, spanning about one-fifth the width of the field on the hoist side. Adjoining the vertical band are two horizontal bands of red and green, with the red band twice the height of the green band."
+    },
+    "name": {
+      "common": "Belarus",
+      "official": "Republic of Belarus",
+      "nativeName": {
+        "bel": {
+          "official": "Рэспубліка Беларусь",
+          "common": "Белару́сь"
+        },
+        "rus": {
+          "official": "Республика Беларусь",
+          "common": "Беларусь"
+        }
+      }
+    },
+    "cca3": "BLR",
+    "currencies": {
+      "BYN": {
+        "name": "Belarusian ruble",
+        "symbol": "Br"
+      }
+    },
+    "capital": [
+      "Minsk"
+    ],
+    "languages": {
+      "bel": "Belarusian",
+      "rus": "Russian"
+    },
+    "area": 207600,
+    "population": 9109280,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/mr.png",
+      "svg": "https://flagcdn.com/mr.svg",
+      "alt": "The flag of Mauritania has a green field with a thin red horizontal band at the top and bottom of the field. At the center of the field is a five-pointed yellow star above an upward facing yellow crescent."
+    },
+    "name": {
+      "common": "Mauritania",
+      "official": "Islamic Republic of Mauritania",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية الإسلامية الموريتانية",
+          "common": "موريتانيا"
+        }
+      }
+    },
+    "cca3": "MRT",
+    "currencies": {
+      "MRU": {
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    },
+    "capital": [
+      "Nouakchott"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "area": 1030700,
+    "population": 4927532,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/tm.png",
+      "svg": "https://flagcdn.com/tm.svg",
+      "alt": "The flag of Turkmenistan has a green field. It features a red vertical band, bearing five carpet guls stacked above two crossed olive branches, near the hoist end of the field. Just to the fly side of the vertical band near the top edge of the field is a hoist-side facing white crescent and five small five-pointed white stars placed just outside the crescent opening."
+    },
+    "name": {
+      "common": "Turkmenistan",
+      "official": "Turkmenistan",
+      "nativeName": {
+        "rus": {
+          "official": "Туркменистан",
+          "common": "Туркмения"
+        },
+        "tuk": {
+          "official": "Türkmenistan",
+          "common": "Türkmenistan"
+        }
+      }
+    },
+    "cca3": "TKM",
+    "currencies": {
+      "TMT": {
+        "name": "Turkmenistan manat",
+        "symbol": "m"
+      }
+    },
+    "capital": [
+      "Ashgabat"
+    ],
+    "languages": {
+      "rus": "Russian",
+      "tuk": "Turkmen"
+    },
+    "area": 488100,
+    "population": 7057841,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/py.png",
+      "svg": "https://flagcdn.com/py.svg",
+      "alt": "The flag of Paraguay features three equal horizontal bands of red, white and blue, with an emblem centered in the white band. On the obverse side of the flag depicted, this emblem is the national coat of arms."
+    },
+    "name": {
+      "common": "Paraguay",
+      "official": "Republic of Paraguay",
+      "nativeName": {
+        "grn": {
+          "official": "Tetã Paraguái",
+          "common": "Paraguái"
+        },
+        "spa": {
+          "official": "República de Paraguay",
+          "common": "Paraguay"
+        }
+      }
+    },
+    "cca3": "PRY",
+    "currencies": {
+      "PYG": {
+        "name": "Paraguayan guaraní",
+        "symbol": "₲"
+      }
+    },
+    "capital": [
+      "Asunción"
+    ],
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    },
+    "area": 406752,
+    "population": 6109644,
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/cz.png",
+      "svg": "https://flagcdn.com/cz.svg",
+      "alt": "The flag of Czechia is composed of two equal horizontal bands of white and red, with a blue isosceles triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end and spans about two-fifth the width of the field."
+    },
+    "name": {
+      "common": "Czechia",
+      "official": "Czech Republic",
+      "nativeName": {
+        "ces": {
+          "official": "Česká republika",
+          "common": "Česko"
+        },
+        "slk": {
+          "official": "Česká republika",
+          "common": "Česko"
+        }
+      }
+    },
+    "cca3": "CZE",
+    "currencies": {
+      "CZK": {
+        "name": "Czech koruna",
+        "symbol": "Kč"
+      }
+    },
+    "capital": [
+      "Prague"
+    ],
+    "languages": {
+      "ces": "Czech",
+      "slk": "Slovak"
+    },
+    "area": 78865,
+    "population": 10882341,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/lk.png",
+      "svg": "https://flagcdn.com/lk.svg",
+      "alt": "The flag of Sri Lanka features two large adjacent but separate rectangular areas, centered on a golden-yellow field. The smaller hoist-side rectangle is divided into two equal vertical bands of teal and orange, and the larger fly-side rectangle is maroon with a centered golden-yellow lion holding a Kastane sword in its right fore-paw and four golden-yellow Bo leaves, one in each corner."
+    },
+    "name": {
+      "common": "Sri Lanka",
+      "official": "Democratic Socialist Republic of Sri Lanka",
+      "nativeName": {
+        "sin": {
+          "official": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
+          "common": "ශ්‍රී ලංකාව"
+        },
+        "tam": {
+          "official": "இலங்கை சனநாயக சோசலிசக் குடியரசு",
+          "common": "இலங்கை"
+        }
+      }
+    },
+    "cca3": "LKA",
+    "currencies": {
+      "LKR": {
+        "name": "Sri Lankan rupee",
+        "symbol": "Rs  රු"
+      }
+    },
+    "capital": [
+      "Sri Jayawardenepura Kotte"
+    ],
+    "languages": {
+      "sin": "Sinhala",
+      "tam": "Tamil"
+    },
+    "area": 65610,
+    "population": 21763170,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ng.png",
+      "svg": "https://flagcdn.com/ng.svg",
+      "alt": "The flag of Nigeria is composed of three equal vertical bands of green, white and green."
+    },
+    "name": {
+      "common": "Nigeria",
+      "official": "Federal Republic of Nigeria",
+      "nativeName": {
+        "eng": {
+          "official": "Federal Republic of Nigeria",
+          "common": "Nigeria"
+        }
+      }
+    },
+    "cca3": "NGA",
+    "currencies": {
+      "NGN": {
+        "name": "Nigerian naira",
+        "symbol": "₦"
+      }
+    },
+    "capital": [
+      "Abuja"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 923768,
+    "population": 223800000,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/pw.png",
+      "svg": "https://flagcdn.com/pw.svg",
+      "alt": "The flag of Palau has a light blue field with a large golden-yellow circle that is offset slightly towards the hoist side of center."
+    },
+    "name": {
+      "common": "Palau",
+      "official": "Republic of Palau",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Palau",
+          "common": "Palau"
+        },
+        "pau": {
+          "official": "Beluu er a Belau",
+          "common": "Belau"
+        }
+      }
+    },
+    "cca3": "PLW",
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Ngerulmud"
+    ],
+    "languages": {
+      "eng": "English",
+      "pau": "Palauan"
+    },
+    "area": 459,
+    "population": 16733,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/kg.png",
+      "svg": "https://flagcdn.com/kg.svg",
+      "alt": "The flag of Kyrgyzstan features a yellow sun with forty rays at the center of a red field. At the center of the sun is a stylized depiction of a tunduk."
+    },
+    "name": {
+      "common": "Kyrgyzstan",
+      "official": "Kyrgyz Republic",
+      "nativeName": {
+        "kir": {
+          "official": "Кыргыз Республикасы",
+          "common": "Кыргызстан"
+        },
+        "rus": {
+          "official": "Кыргызская Республика",
+          "common": "Киргизия"
+        }
+      }
+    },
+    "cca3": "KGZ",
+    "currencies": {
+      "KGS": {
+        "name": "Kyrgyzstani som",
+        "symbol": "с"
+      }
+    },
+    "capital": [
+      "Bishkek"
+    ],
+    "languages": {
+      "kir": "Kyrgyz",
+      "rus": "Russian"
+    },
+    "area": 199951,
+    "population": 7281800,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/tn.png",
+      "svg": "https://flagcdn.com/tn.svg",
+      "alt": "The flag of Tunisia has a red field. A white circle bearing a five-pointed red star within a fly-side facing red crescent is situated at the center of the field."
+    },
+    "name": {
+      "common": "Tunisia",
+      "official": "Tunisian Republic",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية التونسية",
+          "common": "تونس"
+        }
+      }
+    },
+    "cca3": "TUN",
+    "currencies": {
+      "TND": {
+        "name": "Tunisian dinar",
+        "symbol": "د.ت"
+      }
+    },
+    "capital": [
+      "Tunis"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "area": 163610,
+    "population": 11972169,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/gp.png",
+      "svg": "https://flagcdn.com/gp.svg",
+      "alt": "The flag of Guadeloupe has a black field with a 30-rayed yellow sun in front of a green sugarcane, as well as a blue stripe with three yellow fleurs-de-lis on the top."
+    },
+    "name": {
+      "common": "Guadeloupe",
+      "official": "Guadeloupe",
+      "nativeName": {
+        "fra": {
+          "official": "Guadeloupe",
+          "common": "Guadeloupe"
+        }
+      }
+    },
+    "cca3": "GLP",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Basse-Terre"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "area": 1628,
+    "population": 378561,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ki.png",
+      "svg": "https://flagcdn.com/ki.svg",
+      "alt": "The flag of Kiribati is divided into two halves. While the upper half has a red field, at the center of which is a yellow frigate bird flying over the top half of a rising yellow sun with seventeen visible rays, the lower half is composed of six horizontal wavy bands of white alternating with blue to depict the ocean."
+    },
+    "name": {
+      "common": "Kiribati",
+      "official": "Independent and Sovereign Republic of Kiribati",
+      "nativeName": {
+        "eng": {
+          "official": "Independent and Sovereign Republic of Kiribati",
+          "common": "Kiribati"
+        },
+        "gil": {
+          "official": "Ribaberiki Kiribati",
+          "common": "Kiribati"
+        }
+      }
+    },
+    "cca3": "KIR",
+    "currencies": {
+      "AUD": {
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      "KID": {
+        "name": "Kiribati dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "South Tarawa"
+    ],
+    "languages": {
+      "eng": "English",
+      "gil": "Gilbertese"
+    },
+    "area": 811,
+    "population": 120740,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/fj.png",
+      "svg": "https://flagcdn.com/fj.svg",
+      "alt": "The flag of Fiji has a light blue field. It features the flag of the United Kingdom — the Union Jack — in the canton and the shield of the national coat of arms centered in the fly half."
+    },
+    "name": {
+      "common": "Fiji",
+      "official": "Republic of Fiji",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Fiji",
+          "common": "Fiji"
+        },
+        "fij": {
+          "official": "Matanitu Tugalala o Viti",
+          "common": "Viti"
+        },
+        "hif": {
+          "official": "रिपब्लिक ऑफ फीजी",
+          "common": "फिजी"
+        }
+      }
+    },
+    "cca3": "FJI",
+    "currencies": {
+      "FJD": {
+        "name": "Fijian dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Suva"
+    ],
+    "languages": {
+      "eng": "English",
+      "fij": "Fijian",
+      "hif": "Fiji Hindi"
+    },
+    "area": 18272,
+    "population": 900869,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ad.png",
+      "svg": "https://flagcdn.com/ad.svg",
+      "alt": "The flag of Andorra features three equal vertical bands of blue, yellow and red, with the coat of arms of Andorra centered in the yellow band."
+    },
+    "name": {
+      "common": "Andorra",
+      "official": "Principality of Andorra",
+      "nativeName": {
+        "cat": {
+          "official": "Principat d'Andorra",
+          "common": "Andorra"
+        }
+      }
+    },
+    "cca3": "AND",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Andorra la Vella"
+    ],
+    "languages": {
+      "cat": "Catalan"
+    },
+    "area": 468,
+    "population": 88406,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/aq.png",
+      "svg": "https://flagcdn.com/aq.svg",
+      "alt": "The flag of Antarctica features a plain white map of the country on a blue background."
+    },
+    "name": {
+      "common": "Antarctica",
+      "official": "Antarctica",
+      "nativeName": {}
+    },
+    "cca3": "ATA",
+    "currencies": {},
+    "capital": [],
+    "languages": {},
+    "area": 14000000,
+    "population": 1300,
+    "continents": [
+      "Antarctica"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/mh.png",
+      "svg": "https://flagcdn.com/mh.svg",
+      "alt": "The flag of Marshall Islands has a blue field with two broadening adjacent diagonal bands of orange and white that extend from the lower hoist-side corner to the upper fly-side corner of the field. A large white star with twenty-four rays — four large rays at the cardinal points and twenty smaller rays — is situated in the upper hoist-side corner above the diagonal bands."
+    },
+    "name": {
+      "common": "Marshall Islands",
+      "official": "Republic of the Marshall Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of the Marshall Islands",
+          "common": "Marshall Islands"
+        },
+        "mah": {
+          "official": "Republic of the Marshall Islands",
+          "common": "M̧ajeļ"
+        }
+      }
+    },
+    "cca3": "MHL",
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Majuro"
+    ],
+    "languages": {
+      "eng": "English",
+      "mah": "Marshallese"
+    },
+    "area": 181,
+    "population": 42418,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/cn.png",
+      "svg": "https://flagcdn.com/cn.svg",
+      "alt": "The flag of China has a red field. In the canton are five yellow five-pointed stars — a large star and four smaller stars arranged in a vertical arc on the fly side of the large star."
+    },
+    "name": {
+      "common": "China",
+      "official": "People's Republic of China",
+      "nativeName": {
+        "zho": {
+          "official": "中华人民共和国",
+          "common": "中国"
+        }
+      }
+    },
+    "cca3": "CHN",
+    "currencies": {
+      "CNY": {
+        "name": "Chinese yuan",
+        "symbol": "¥"
+      }
+    },
+    "capital": [
+      "Beijing"
+    ],
+    "languages": {
+      "zho": "Chinese"
+    },
+    "area": 9706961,
+    "population": 1408280000,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/hr.png",
+      "svg": "https://flagcdn.com/hr.svg",
+      "alt": "The flag of Croatia is composed of three equal horizontal bands of red, white and blue, with the coat of arms of Croatia superimposed in the center."
+    },
+    "name": {
+      "common": "Croatia",
+      "official": "Republic of Croatia",
+      "nativeName": {
+        "hrv": {
+          "official": "Republika Hrvatska",
+          "common": "Hrvatska"
+        }
+      }
+    },
+    "cca3": "HRV",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Zagreb"
+    ],
+    "languages": {
+      "hrv": "Croatian"
+    },
+    "area": 56594,
+    "population": 3866233,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/sc.png",
+      "svg": "https://flagcdn.com/sc.svg",
+      "alt": "The flag of Seychelles is composed of five broadening oblique bands of blue, yellow, red, white and green, which extend from the hoist side of the bottom edge to the top and fly edges of the field."
+    },
+    "name": {
+      "common": "Seychelles",
+      "official": "Republic of Seychelles",
+      "nativeName": {
+        "crs": {
+          "official": "Repiblik Sesel",
+          "common": "Sesel"
+        },
+        "eng": {
+          "official": "Republic of Seychelles",
+          "common": "Seychelles"
+        },
+        "fra": {
+          "official": "République des Seychelles",
+          "common": "Seychelles"
+        }
+      }
+    },
+    "cca3": "SYC",
+    "currencies": {
+      "SCR": {
+        "name": "Seychellois rupee",
+        "symbol": "₨"
+      }
+    },
+    "capital": [
+      "Victoria"
+    ],
+    "languages": {
+      "crs": "Seychellois Creole",
+      "eng": "English",
+      "fra": "French"
+    },
+    "area": 452,
+    "population": 122729,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/za.png",
+      "svg": "https://flagcdn.com/za.svg",
+      "alt": "The flag of South Africa is composed of two equal horizontal bands of red and blue, with a yellow-edged black isosceles triangle superimposed on the hoist side of the field. This triangle has its base centered on the hoist end, spans about two-fifth the width and two-third the height of the field, and is enclosed on its sides by the arms of a white-edged green horizontally oriented Y-shaped band which extends along the boundary of the red and blue bands to the fly end of the field."
+    },
+    "name": {
+      "common": "South Africa",
+      "official": "Republic of South Africa",
+      "nativeName": {
+        "afr": {
+          "official": "Republiek van Suid-Afrika",
+          "common": "South Africa"
+        },
+        "eng": {
+          "official": "Republic of South Africa",
+          "common": "South Africa"
+        },
+        "nbl": {
+          "official": "IRiphabliki yeSewula Afrika",
+          "common": "Sewula Afrika"
+        },
+        "nso": {
+          "official": "Rephaboliki ya Afrika-Borwa ",
+          "common": "Afrika-Borwa"
+        },
+        "sot": {
+          "official": "Rephaboliki ya Afrika Borwa",
+          "common": "Afrika Borwa"
+        },
+        "ssw": {
+          "official": "IRiphabhulikhi yeNingizimu Afrika",
+          "common": "Ningizimu Afrika"
+        },
+        "tsn": {
+          "official": "Rephaboliki ya Aforika Borwa",
+          "common": "Aforika Borwa"
+        },
+        "tso": {
+          "official": "Riphabliki ra Afrika Dzonga",
+          "common": "Afrika Dzonga"
+        },
+        "ven": {
+          "official": "Riphabuḽiki ya Afurika Tshipembe",
+          "common": "Afurika Tshipembe"
+        },
+        "xho": {
+          "official": "IRiphabliki yaseMzantsi Afrika",
+          "common": "Mzantsi Afrika"
+        },
+        "zul": {
+          "official": "IRiphabliki yaseNingizimu Afrika",
+          "common": "Ningizimu Afrika"
+        }
+      }
+    },
+    "cca3": "ZAF",
+    "currencies": {
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "capital": [
+      "Pretoria",
+      "Bloemfontein",
+      "Cape Town"
+    ],
+    "languages": {
+      "afr": "Afrikaans",
+      "eng": "English",
+      "nbl": "Southern Ndebele",
+      "nso": "Northern Sotho",
+      "sot": "Southern Sotho",
+      "ssw": "Swazi",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zul": "Zulu"
+    },
+    "area": 1221037,
+    "population": 63100945,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ck.png",
+      "svg": "https://flagcdn.com/ck.svg",
+      "alt": "The flag of the Cook Islands is blue with the UK flag in the canton and a large circle of 15 white five-pointed stars centered in the fly."
+    },
+    "name": {
+      "common": "Cook Islands",
+      "official": "Cook Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Cook Islands",
+          "common": "Cook Islands"
+        },
+        "rar": {
+          "official": "Kūki 'Āirani",
+          "common": "Kūki 'Āirani"
+        }
+      }
+    },
+    "cca3": "COK",
+    "currencies": {
+      "CKD": {
+        "name": "Cook Islands dollar",
+        "symbol": "$"
+      },
+      "NZD": {
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Avarua"
+    ],
+    "languages": {
+      "eng": "English",
+      "rar": "Cook Islands Māori"
+    },
+    "area": 236,
+    "population": 15040,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/es.png",
+      "svg": "https://flagcdn.com/es.svg",
+      "alt": "The flag of Spain is composed of three horizontal bands of red, yellow and red, with the yellow band twice the height of the red bands. In the yellow band is the national coat of arms offset slightly towards the hoist side of center."
+    },
+    "name": {
+      "common": "Spain",
+      "official": "Kingdom of Spain",
+      "nativeName": {
+        "spa": {
+          "official": "Reino de España",
+          "common": "España"
+        }
+      }
+    },
+    "cca3": "ESP",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Madrid"
+    ],
+    "languages": {
+      "spa": "Spanish",
+      "cat": "Catalan",
+      "eus": "Basque",
+      "glc": "Galician"
+    },
+    "area": 505992,
+    "population": 49315949,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/gl.png",
+      "svg": "https://flagcdn.com/gl.svg",
+      "alt": "The flag of Greenland has two equal horizontal bands of white and red, with a large disk slightly to the hoist side of center. The top half of the disk is red, and the bottom half is white."
+    },
+    "name": {
+      "common": "Greenland",
+      "official": "Greenland",
+      "nativeName": {
+        "kal": {
+          "official": "Kalaallit Nunaat",
+          "common": "Kalaallit Nunaat"
+        }
+      }
+    },
+    "cca3": "GRL",
+    "currencies": {
+      "DKK": {
+        "name": "krone",
+        "symbol": "kr."
+      }
+    },
+    "capital": [
+      "Nuuk"
+    ],
+    "languages": {
+      "kal": "Greenlandic"
+    },
+    "area": 2166086,
+    "population": 56542,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/pg.png",
+      "svg": "https://flagcdn.com/pg.svg",
+      "alt": "The flag of Papua New Guinea is divided diagonally, from the upper hoist-side corner to the lower fly-side corner, into a lower black and an upper red triangle. On the hoist side of the lower black triangle is a representation of the Southern Cross constellation made up of one small and four larger five-pointed white stars. A golden Raggiana bird-of-paradise is situated on the fly side of the upper red triangle."
+    },
+    "name": {
+      "common": "Papua New Guinea",
+      "official": "Independent State of Papua New Guinea",
+      "nativeName": {
+        "eng": {
+          "official": "Independent State of Papua New Guinea",
+          "common": "Papua New Guinea"
+        },
+        "hmo": {
+          "official": "Independen Stet bilong Papua Niugini",
+          "common": "Papua Niu Gini"
+        },
+        "tpi": {
+          "official": "Independen Stet bilong Papua Niugini",
+          "common": "Papua Niugini"
+        }
+      }
+    },
+    "cca3": "PNG",
+    "currencies": {
+      "PGK": {
+        "name": "Papua New Guinean kina",
+        "symbol": "K"
+      }
+    },
+    "capital": [
+      "Port Moresby"
+    ],
+    "languages": {
+      "eng": "English",
+      "hmo": "Hiri Motu",
+      "tpi": "Tok Pisin"
+    },
+    "area": 462840,
+    "population": 11781559,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ag.png",
+      "svg": "https://flagcdn.com/ag.svg",
+      "alt": "The flag of Antigua and Barbuda has a red field with an inverted isosceles triangle based on the top edge and spanning the height of the field. This triangle has three horizontal bands of black, light blue and white, with the light blue band half the height of the two other bands. The top half of a golden-yellow sun is situated in the lower two-third of the black band to depict a rising sun."
+    },
+    "name": {
+      "common": "Antigua and Barbuda",
+      "official": "Antigua and Barbuda",
+      "nativeName": {
+        "eng": {
+          "official": "Antigua and Barbuda",
+          "common": "Antigua and Barbuda"
+        }
+      }
+    },
+    "cca3": "ATG",
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Saint John's"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 442,
+    "population": 103603,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/no.png",
+      "svg": "https://flagcdn.com/no.svg",
+      "alt": "The flag of Norway has a red field with a large white-edged navy blue cross that extends to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+    },
+    "name": {
+      "common": "Norway",
+      "official": "Kingdom of Norway",
+      "nativeName": {
+        "nno": {
+          "official": "Kongeriket Noreg",
+          "common": "Noreg"
+        },
+        "nob": {
+          "official": "Kongeriket Norge",
+          "common": "Norge"
+        },
+        "smi": {
+          "official": "Norgga gonagasriika",
+          "common": "Norgga"
+        }
+      }
+    },
+    "cca3": "NOR",
+    "currencies": {
+      "NOK": {
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      }
+    },
+    "capital": [
+      "Oslo"
+    ],
+    "languages": {
+      "nno": "Norwegian Nynorsk",
+      "nob": "Norwegian Bokmål",
+      "smi": "Sami"
+    },
+    "area": 386224,
+    "population": 5606944,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ch.png",
+      "svg": "https://flagcdn.com/ch.svg",
+      "alt": "The flag of Switzerland is square shaped. It features a white Swiss cross centered on a red field."
+    },
+    "name": {
+      "common": "Switzerland",
+      "official": "Swiss Confederation",
+      "nativeName": {
+        "fra": {
+          "official": "Confédération suisse",
+          "common": "Suisse"
+        },
+        "gsw": {
+          "official": "Schweizerische Eidgenossenschaft",
+          "common": "Schweiz"
+        },
+        "ita": {
+          "official": "Confederazione Svizzera",
+          "common": "Svizzera"
+        },
+        "roh": {
+          "official": "Confederaziun svizra",
+          "common": "Svizra"
+        }
+      }
+    },
+    "cca3": "CHE",
+    "currencies": {
+      "CHF": {
+        "name": "Swiss franc",
+        "symbol": "Fr."
+      }
+    },
+    "capital": [
+      "Bern"
+    ],
+    "languages": {
+      "fra": "French",
+      "gsw": "Swiss German",
+      "ita": "Italian",
+      "roh": "Romansh"
+    },
+    "area": 41284,
+    "population": 9082848,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/zw.png",
+      "svg": "https://flagcdn.com/zw.svg",
+      "alt": "The flag of Zimbabwe is composed of seven equal horizontal bands of green, yellow, red, black, red, yellow and green, with a white isosceles triangle superimposed on the hoist side of the field. This triangle is edged in black, spans about one-fourth the width of the field and has its base on the hoist end. A yellow Zimbabwe Bird superimposed on a five-pointed red star is centered in the triangle."
+    },
+    "name": {
+      "common": "Zimbabwe",
+      "official": "Republic of Zimbabwe",
+      "nativeName": {
+        "bwg": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "eng": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "kck": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "khi": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "ndc": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "nde": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "nya": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "sna": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "sot": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "toi": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "tsn": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "tso": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "ven": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "xho": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "zib": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        }
+      }
+    },
+    "cca3": "ZWE",
+    "currencies": {
+      "ZWL": {
+        "name": "Zimbabwean dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Harare"
+    ],
+    "languages": {
+      "bwg": "Chibarwe",
+      "eng": "English",
+      "kck": "Kalanga",
+      "khi": "Khoisan",
+      "ndc": "Ndau",
+      "nde": "Northern Ndebele",
+      "nya": "Chewa",
+      "sna": "Shona",
+      "sot": "Sotho",
+      "toi": "Tonga",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zib": "Zimbabwean Sign Language"
+    },
+    "area": 390757,
+    "population": 17073087,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/si.png",
+      "svg": "https://flagcdn.com/si.svg",
+      "alt": "The flag of Slovenia is composed of three equal horizontal bands of white, blue and red. The national coat of arms is situated in the upper hoist side of the field centered on the boundary between the white and blue bands."
+    },
+    "name": {
+      "common": "Slovenia",
+      "official": "Republic of Slovenia",
+      "nativeName": {
+        "slv": {
+          "official": "Republika Slovenija",
+          "common": "Slovenija"
+        }
+      }
+    },
+    "cca3": "SVN",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Ljubljana"
+    ],
+    "languages": {
+      "slv": "Slovene"
+    },
+    "area": 20273,
+    "population": 2130638,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ga.png",
+      "svg": "https://flagcdn.com/ga.svg",
+      "alt": "The flag of Gabon is composed of three equal horizontal bands of green, yellow and blue."
+    },
+    "name": {
+      "common": "Gabon",
+      "official": "Gabonese Republic",
+      "nativeName": {
+        "fra": {
+          "official": "République gabonaise",
+          "common": "Gabon"
+        }
+      }
+    },
+    "cca3": "GAB",
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "capital": [
+      "Libreville"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "area": 267668,
+    "population": 2469296,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/fo.png",
+      "svg": "https://flagcdn.com/fo.svg",
+      "alt": "The flag of the Faroe Islands is white with a red cross outlined in blue extending to the edges of the flag. The vertical part of the cross is shifted toward the hoist side."
+    },
+    "name": {
+      "common": "Faroe Islands",
+      "official": "Faroe Islands",
+      "nativeName": {
+        "dan": {
+          "official": "Færøerne",
+          "common": "Færøerne"
+        },
+        "fao": {
+          "official": "Føroyar",
+          "common": "Føroyar"
+        }
+      }
+    },
+    "cca3": "FRO",
+    "currencies": {
+      "DKK": {
+        "name": "Danish krone",
+        "symbol": "kr"
+      },
+      "FOK": {
+        "name": "Faroese króna",
+        "symbol": "kr"
+      }
+    },
+    "capital": [
+      "Tórshavn"
+    ],
+    "languages": {
+      "dan": "Danish",
+      "fao": "Faroese"
+    },
+    "area": 1393,
+    "population": 54885,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ma.png",
+      "svg": "https://flagcdn.com/ma.svg",
+      "alt": "The flag of Morocco features a green pentagram — a five-pointed linear star — centered on a red field."
+    },
+    "name": {
+      "common": "Morocco",
+      "official": "Kingdom of Morocco",
+      "nativeName": {
+        "ara": {
+          "official": "المملكة المغربية",
+          "common": "المغرب"
+        },
+        "ber": {
+          "official": "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ",
+          "common": "ⵍⵎⴰⵖⵔⵉⴱ"
+        }
+      }
+    },
+    "cca3": "MAR",
+    "currencies": {
+      "MAD": {
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      }
+    },
+    "capital": [
+      "Rabat"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "ber": "Berber"
+    },
+    "area": 446550,
+    "population": 36828330,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/mc.png",
+      "svg": "https://flagcdn.com/mc.svg",
+      "alt": "The flag of Monaco is composed of two equal horizontal bands of red and white."
+    },
+    "name": {
+      "common": "Monaco",
+      "official": "Principality of Monaco",
+      "nativeName": {
+        "fra": {
+          "official": "Principauté de Monaco",
+          "common": "Monaco"
+        }
+      }
+    },
+    "cca3": "MCO",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Monaco"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "area": 2.02,
+    "population": 38423,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ls.png",
+      "svg": "https://flagcdn.com/ls.svg",
+      "alt": "The flag of Lesotho is composed of three horizontal bands of blue, white and green in the ratio of 3:4:3. A black mokorotlo — a Basotho hat — is centered in the white band."
+    },
+    "name": {
+      "common": "Lesotho",
+      "official": "Kingdom of Lesotho",
+      "nativeName": {
+        "eng": {
+          "official": "Kingdom of Lesotho",
+          "common": "Lesotho"
+        },
+        "sot": {
+          "official": "Kingdom of Lesotho",
+          "common": "Lesotho"
+        }
+      }
+    },
+    "cca3": "LSO",
+    "currencies": {
+      "LSL": {
+        "name": "Lesotho loti",
+        "symbol": "L"
+      },
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "capital": [
+      "Maseru"
+    ],
+    "languages": {
+      "eng": "English",
+      "sot": "Sotho"
+    },
+    "area": 30355,
+    "population": 2116427,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/wf.png",
+      "svg": "https://flagcdn.com/wf.svg",
+      "alt": "The flag of Wallis and Futuna has a red field with four white isosceles triangles in the middle. The apexes of the triangles are oriented inward and at right angles to each other. The flag of France, outlined in white on two sides, is in the canton."
+    },
+    "name": {
+      "common": "Wallis and Futuna",
+      "official": "Territory of the Wallis and Futuna Islands",
+      "nativeName": {
+        "fra": {
+          "official": "Territoire des îles Wallis et Futuna",
+          "common": "Wallis et Futuna"
+        }
+      }
+    },
+    "cca3": "WLF",
+    "currencies": {
+      "XPF": {
+        "name": "CFP franc",
+        "symbol": "₣"
+      }
+    },
+    "capital": [
+      "Mata-Utu"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "area": 142,
+    "population": 11620,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/aw.png",
+      "svg": "https://flagcdn.com/aw.svg",
+      "alt": "The flag of Aruba is blue, with two narrow, horizontal yellow stripes across the lower portion and a red four-pointed star outlined in white in the canton."
+    },
+    "name": {
+      "common": "Aruba",
+      "official": "Aruba",
+      "nativeName": {
+        "nld": {
+          "official": "Aruba",
+          "common": "Aruba"
+        },
+        "pap": {
+          "official": "Aruba",
+          "common": "Aruba"
+        }
+      }
+    },
+    "cca3": "ABW",
+    "currencies": {
+      "AWG": {
+        "name": "Aruban florin",
+        "symbol": "ƒ"
+      }
+    },
+    "capital": [
+      "Oranjestad"
+    ],
+    "languages": {
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "area": 180,
+    "population": 107566,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/bf.png",
+      "svg": "https://flagcdn.com/bf.svg",
+      "alt": "The flag of Burkina Faso features two equal horizontal bands of red and green, with a yellow five-pointed star in the center."
+    },
+    "name": {
+      "common": "Burkina Faso",
+      "official": "Burkina Faso",
+      "nativeName": {
+        "fra": {
+          "official": "République du Burkina",
+          "common": "Burkina Faso"
+        }
+      }
+    },
+    "cca3": "BFA",
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "capital": [
+      "Ouagadougou"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "area": 272967,
+    "population": 24070553,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/bi.png",
+      "svg": "https://flagcdn.com/bi.svg",
+      "alt": "The flag of Burundi is divided by a white diagonal cross into four alternating triangular areas of red at the top and bottom, and green on the hoist and fly sides. A white circle, with three green-edged red six-pointed stars arranged to form a triangle, is superimposed at the center of the cross."
+    },
+    "name": {
+      "common": "Burundi",
+      "official": "Republic of Burundi",
+      "nativeName": {
+        "fra": {
+          "official": "République du Burundi",
+          "common": "Burundi"
+        },
+        "run": {
+          "official": "Republika y'Uburundi ",
+          "common": "Uburundi"
+        }
+      }
+    },
+    "cca3": "BDI",
+    "currencies": {
+      "BIF": {
+        "name": "Burundian franc",
+        "symbol": "Fr"
+      }
+    },
+    "capital": [
+      "Gitega"
+    ],
+    "languages": {
+      "fra": "French",
+      "run": "Kirundi"
+    },
+    "area": 27834,
+    "population": 12332788,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/fi.png",
+      "svg": "https://flagcdn.com/fi.svg",
+      "alt": "The flag of Finland has a white field with a large blue cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+    },
+    "name": {
+      "common": "Finland",
+      "official": "Republic of Finland",
+      "nativeName": {
+        "fin": {
+          "official": "Suomen tasavalta",
+          "common": "Suomi"
+        },
+        "swe": {
+          "official": "Republiken Finland",
+          "common": "Finland"
+        }
+      }
+    },
+    "cca3": "FIN",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Helsinki"
+    ],
+    "languages": {
+      "fin": "Finnish",
+      "swe": "Swedish"
+    },
+    "area": 338455,
+    "population": 5650325,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/tj.png",
+      "svg": "https://flagcdn.com/tj.svg",
+      "alt": "The flag of Tajikistan is composed of three horizontal bands of red, white and green in the ratio of 2:3:2. A golden-yellow crown surmounted by an arc of seven five-pointed golden-yellow stars is centered in the white band."
+    },
+    "name": {
+      "common": "Tajikistan",
+      "official": "Republic of Tajikistan",
+      "nativeName": {
+        "rus": {
+          "official": "Республика Таджикистан",
+          "common": "Таджикистан"
+        },
+        "tgk": {
+          "official": "Ҷумҳурии Тоҷикистон",
+          "common": "Тоҷикистон"
+        }
+      }
+    },
+    "cca3": "TJK",
+    "currencies": {
+      "TJS": {
+        "name": "Tajikistani somoni",
+        "symbol": "ЅМ"
+      }
+    },
+    "capital": [
+      "Dushanbe"
+    ],
+    "languages": {
+      "rus": "Russian",
+      "tgk": "Tajik"
+    },
+    "area": 143100,
+    "population": 10499000,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ec.png",
+      "svg": "https://flagcdn.com/ec.svg",
+      "alt": "The flag of Ecuador is composed of the horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands. The Ecuadorian coat of arms is superimposed in the center of the field."
+    },
+    "name": {
+      "common": "Ecuador",
+      "official": "Republic of Ecuador",
+      "nativeName": {
+        "spa": {
+          "official": "República del Ecuador",
+          "common": "Ecuador"
+        }
+      }
+    },
+    "cca3": "ECU",
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Quito"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "area": 276841,
+    "population": 18103660,
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/it.png",
+      "svg": "https://flagcdn.com/it.svg",
+      "alt": "The flag of Italy is composed of three equal vertical bands of green, white and red."
+    },
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic",
+      "nativeName": {
+        "ita": {
+          "official": "Repubblica italiana",
+          "common": "Italia"
+        }
+      }
+    },
+    "cca3": "ITA",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Rome"
+    ],
+    "languages": {
+      "ita": "Italian",
+      "cat": "Catalan"
+    },
+    "area": 301336,
+    "population": 58927633,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/mm.png",
+      "svg": "https://flagcdn.com/mm.svg",
+      "alt": "The flag of Myanmar is composed of three equal horizontal bands of yellow, green and red, with a large five-pointed white star superimposed at the center of the field."
+    },
+    "name": {
+      "common": "Myanmar",
+      "official": "Republic of the Union of Myanmar",
+      "nativeName": {
+        "mya": {
+          "official": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+          "common": "မြန်မာ"
+        }
+      }
+    },
+    "cca3": "MMR",
+    "currencies": {
+      "MMK": {
+        "name": "Burmese kyat",
+        "symbol": "Ks"
+      }
+    },
+    "capital": [
+      "Naypyidaw"
+    ],
+    "languages": {
+      "mya": "Burmese"
+    },
+    "area": 676578,
+    "population": 51316756,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/jp.png",
+      "svg": "https://flagcdn.com/jp.svg",
+      "alt": "The flag of Japan features a crimson-red circle at the center of a white field."
+    },
+    "name": {
+      "common": "Japan",
+      "official": "Japan",
+      "nativeName": {
+        "jpn": {
+          "official": "日本",
+          "common": "日本"
+        }
+      }
+    },
+    "cca3": "JPN",
+    "currencies": {
+      "JPY": {
+        "name": "Japanese yen",
+        "symbol": "¥"
+      }
+    },
+    "capital": [
+      "Tokyo"
+    ],
+    "languages": {
+      "jpn": "Japanese"
+    },
+    "area": 377930,
+    "population": 123210000,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ss.png",
+      "svg": "https://flagcdn.com/ss.svg",
+      "alt": "The flag of South Sudan is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. A blue equilateral triangle which spans about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end of the field. At the center of this triangle is a five-pointed yellow star."
+    },
+    "name": {
+      "common": "South Sudan",
+      "official": "Republic of South Sudan",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of South Sudan",
+          "common": "South Sudan"
+        }
+      }
+    },
+    "cca3": "SSD",
+    "currencies": {
+      "SSP": {
+        "name": "South Sudanese pound",
+        "symbol": "£"
+      }
+    },
+    "capital": [
+      "Juba"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 619745,
+    "population": 15786898,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/lr.png",
+      "svg": "https://flagcdn.com/lr.svg",
+      "alt": "The flag of Liberia is composed of eleven equal horizontal bands of red alternating with white. A blue square bearing a five-pointed white star is superimposed in the canton."
+    },
+    "name": {
+      "common": "Liberia",
+      "official": "Republic of Liberia",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Liberia",
+          "common": "Liberia"
+        }
+      }
+    },
+    "cca3": "LBR",
+    "currencies": {
+      "LRD": {
+        "name": "Liberian dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Monrovia"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 111369,
+    "population": 5248621,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/gs.png",
+      "svg": "https://flagcdn.com/gs.svg",
+      "alt": "The flag of South Georgia is blue with the UK flag in the canton. The national coat of arms is centered on the fly half and has a green shield with a golden lion holding a torch. A fur seal is to the left of the shield and a Macaroni penguin to the right. A reindeer appears above the crest, and below the shield on a scroll is the Latin motto \"LEO TERRAM PROPRIAM PROTEGAT\" (Let the Lion Protect its Own Land)."
+    },
+    "name": {
+      "common": "South Georgia",
+      "official": "South Georgia and the South Sandwich Islands",
+      "nativeName": {
+        "eng": {
+          "official": "South Georgia and the South Sandwich Islands",
+          "common": "South Georgia"
+        }
+      }
+    },
+    "cca3": "SGS",
+    "currencies": {
+      "GBP": {
+        "name": "British pound",
+        "symbol": "£"
+      }
+    },
+    "capital": [
+      "King Edward Point"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 3903,
+    "population": 0,
+    "continents": [
+      "Antarctica"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/bo.png",
+      "svg": "https://flagcdn.com/bo.svg",
+      "alt": "The flag of Bolivia is composed of three equal horizontal bands of red, yellow and green, with the national coat of arms centered in the yellow band."
+    },
+    "name": {
+      "common": "Bolivia",
+      "official": "Plurinational State of Bolivia",
+      "nativeName": {
+        "aym": {
+          "official": "Wuliwya Suyu",
+          "common": "Wuliwya"
+        },
+        "grn": {
+          "official": "Tetã Volívia",
+          "common": "Volívia"
+        },
+        "que": {
+          "official": "Buliwya Mamallaqta",
+          "common": "Buliwya"
+        },
+        "spa": {
+          "official": "Estado Plurinacional de Bolivia",
+          "common": "Bolivia"
+        }
+      }
+    },
+    "cca3": "BOL",
+    "currencies": {
+      "BOB": {
+        "name": "Bolivian boliviano",
+        "symbol": "Bs."
+      }
+    },
+    "capital": [
+      "Sucre"
+    ],
+    "languages": {
+      "aym": "Aymara",
+      "grn": "Guaraní",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "area": 1098581,
+    "population": 11365333,
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ws.png",
+      "svg": "https://flagcdn.com/ws.svg",
+      "alt": "The flag of Samoa has a red field. A blue rectangle, bearing a representation of the Southern Cross made up of five large and one smaller five-pointed white stars, is superimposed in the canton."
+    },
+    "name": {
+      "common": "Samoa",
+      "official": "Independent State of Samoa",
+      "nativeName": {
+        "eng": {
+          "official": "Independent State of Samoa",
+          "common": "Samoa"
+        },
+        "smo": {
+          "official": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+          "common": "Sāmoa"
+        }
+      }
+    },
+    "cca3": "WSM",
+    "currencies": {
+      "WST": {
+        "name": "Samoan tālā",
+        "symbol": "T"
+      }
+    },
+    "capital": [
+      "Apia"
+    ],
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan"
+    },
+    "area": 2842,
+    "population": 205557,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/vn.png",
+      "svg": "https://flagcdn.com/vn.svg",
+      "alt": "The flag of Vietnam features a large five-pointed yellow star on a red field."
+    },
+    "name": {
+      "common": "Vietnam",
+      "official": "Socialist Republic of Vietnam",
+      "nativeName": {
+        "vie": {
+          "official": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+          "common": "Việt Nam"
+        }
+      }
+    },
+    "cca3": "VNM",
+    "currencies": {
+      "VND": {
+        "name": "Vietnamese đồng",
+        "symbol": "₫"
+      }
+    },
+    "capital": [
+      "Hanoi"
+    ],
+    "languages": {
+      "vie": "Vietnamese"
+    },
+    "area": 331212,
+    "population": 101343800,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/cg.png",
+      "svg": "https://flagcdn.com/cg.svg",
+      "alt": "The flag of the Republic of the Congo features a yellow diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and red triangle respectively."
+    },
+    "name": {
+      "common": "Republic of the Congo",
+      "official": "Republic of the Congo",
+      "nativeName": {
+        "fra": {
+          "official": "République du Congo",
+          "common": "République du Congo"
+        },
+        "kon": {
+          "official": "Repubilika ya Kongo",
+          "common": "Repubilika ya Kongo"
+        },
+        "lin": {
+          "official": "Republíki ya Kongó",
+          "common": "Republíki ya Kongó"
+        }
+      }
+    },
+    "cca3": "COG",
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "capital": [
+      "Brazzaville"
+    ],
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala"
+    },
+    "area": 342000,
+    "population": 6142180,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ir.png",
+      "svg": "https://flagcdn.com/ir.svg",
+      "alt": "The flag of Iran is composed of three equal horizontal bands of green, white and red. A red emblem of Iran is centered in the white band and Arabic inscriptions in white span the bottom edge of the green band and the top edge of the red band."
+    },
+    "name": {
+      "common": "Iran",
+      "official": "Islamic Republic of Iran",
+      "nativeName": {
+        "fas": {
+          "official": "جمهوری اسلامی ایران",
+          "common": "ایران"
+        }
+      }
+    },
+    "cca3": "IRN",
+    "currencies": {
+      "IRR": {
+        "name": "Iranian rial",
+        "symbol": "﷼"
+      }
+    },
+    "capital": [
+      "Tehran"
+    ],
+    "languages": {
+      "fas": "Persian (Farsi)"
+    },
+    "area": 1648195,
+    "population": 85961000,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/tf.png",
+      "svg": "https://flagcdn.com/tf.svg",
+      "alt": "The flag of the French Southern and Antarctic Lands is blue and features the French tricolor in the canton, often displayed with a white border. In the lower fly, the letters T.A.A.F. form a monogram in white, which is stylized to resemble an anchor. The monogram is surrounded by five white stars."
+    },
+    "name": {
+      "common": "French Southern and Antarctic Lands",
+      "official": "Territory of the French Southern and Antarctic Lands",
+      "nativeName": {
+        "fra": {
+          "official": "Territoire des Terres australes et antarctiques françaises",
+          "common": "Terres australes et antarctiques françaises"
+        }
+      }
+    },
+    "cca3": "ATF",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Port-aux-Français"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "area": 7747,
+    "population": 400,
+    "continents": [
+      "Antarctica"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/re.png",
+      "svg": "https://flagcdn.com/re.svg",
+      "alt": "The flag of Réunion has a blue field, with a red triangle spanning the bottom and extending to the center, as well as five yellow beams emanating from the center, spread equally apart."
+    },
+    "name": {
+      "common": "Réunion",
+      "official": "Réunion Island",
+      "nativeName": {
+        "fra": {
+          "official": "Ile de la Réunion",
+          "common": "La Réunion"
+        }
+      }
+    },
+    "cca3": "REU",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Saint-Denis"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "area": 2511,
+    "population": 896175,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/lb.png",
+      "svg": "https://flagcdn.com/lb.svg",
+      "alt": "The flag of Lebanon is composed of three horizontal bands of red, white and red. The white band is twice the height of the red bands and bears a green Lebanese Cedar tree at its center."
+    },
+    "name": {
+      "common": "Lebanon",
+      "official": "Lebanese Republic",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية اللبنانية",
+          "common": "لبنان"
+        },
+        "fra": {
+          "official": "République libanaise",
+          "common": "Liban"
+        }
+      }
+    },
+    "cca3": "LBN",
+    "currencies": {
+      "LBP": {
+        "name": "Lebanese pound",
+        "symbol": "ل.ل"
+      }
+    },
+    "capital": [
+      "Beirut"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "area": 10452,
+    "population": 5490000,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/as.png",
+      "svg": "https://flagcdn.com/as.svg",
+      "alt": "The flag of American Samoa features a large white triangle edged in red that is based on the fly side and extends to the hoist side and is charged with an eagle, all on a blue field."
+    },
+    "name": {
+      "common": "American Samoa",
+      "official": "American Samoa",
+      "nativeName": {
+        "eng": {
+          "official": "American Samoa",
+          "common": "American Samoa"
+        },
+        "smo": {
+          "official": "Sāmoa Amelika",
+          "common": "Sāmoa Amelika"
+        }
+      }
+    },
+    "cca3": "ASM",
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Pago Pago"
+    ],
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan"
+    },
+    "area": 199,
+    "population": 49710,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/cm.png",
+      "svg": "https://flagcdn.com/cm.svg",
+      "alt": "The flag of Cameroon is composed of three equal vertical bands of green, red and yellow, with a yellow five-pointed star in the center."
+    },
+    "name": {
+      "common": "Cameroon",
+      "official": "Republic of Cameroon",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Cameroon",
+          "common": "Cameroon"
+        },
+        "fra": {
+          "official": "République du Cameroun",
+          "common": "Cameroun"
+        }
+      }
+    },
+    "cca3": "CMR",
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "capital": [
+      "Yaoundé"
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "area": 475442,
+    "population": 29442327,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/sn.png",
+      "svg": "https://flagcdn.com/sn.svg",
+      "alt": "The flag of Senegal is composed of three equal vertical bands of green, golden-yellow and red, with a five-pointed green star centered in the golden-yellow band."
+    },
+    "name": {
+      "common": "Senegal",
+      "official": "Republic of Senegal",
+      "nativeName": {
+        "fra": {
+          "official": "République du Sénégal",
+          "common": "Sénégal"
+        }
+      }
+    },
+    "cca3": "SEN",
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "capital": [
+      "Dakar"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "area": 196722,
+    "population": 18593258,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/mo.png",
+      "svg": "https://flagcdn.com/mo.svg",
+      "alt": "The flag of Macau is green with a lotus flower above a stylized bridge and water in white, under an arc of five five-pointed gold stars."
+    },
+    "name": {
+      "common": "Macau",
+      "official": "Macao Special Administrative Region of the People's Republic of China",
+      "nativeName": {
+        "por": {
+          "official": "Região Administrativa Especial de Macau da República Popular da China",
+          "common": "Macau"
+        },
+        "zho": {
+          "official": "中华人民共和国澳门特别行政区",
+          "common": "澳门"
+        }
+      }
+    },
+    "cca3": "MAC",
+    "currencies": {
+      "MOP": {
+        "name": "Macanese pataca",
+        "symbol": "P"
+      }
+    },
+    "capital": [],
+    "languages": {
+      "por": "Portuguese",
+      "zho": "Chinese"
+    },
+    "area": 30,
+    "population": 685900,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ps.png",
+      "svg": "https://flagcdn.com/ps.svg",
+      "alt": "The flag of Palestine has three equal horizontal stripes of black, white, and green overlaid by a red triangle issuing from the hoist."
+    },
+    "name": {
+      "common": "Palestine",
+      "official": "State of Palestine",
+      "nativeName": {
+        "ara": {
+          "official": "دولة فلسطين",
+          "common": "فلسطين"
+        }
+      }
+    },
+    "cca3": "PSE",
+    "currencies": {
+      "EGP": {
+        "name": "Egyptian pound",
+        "symbol": "E£"
+      },
+      "ILS": {
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      },
+      "JOD": {
+        "name": "Jordanian dinar",
+        "symbol": "JD"
+      }
+    },
+    "capital": [
+      "Ramallah",
+      "Jerusalem"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "area": 6220,
+    "population": 5483450,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/nr.png",
+      "svg": "https://flagcdn.com/nr.svg",
+      "alt": "The flag of Nauru has a dark blue field with a thin yellow horizontal band across the center and a large white twelve-pointed star beneath the horizontal band on the hoist side of the field."
+    },
+    "name": {
+      "common": "Nauru",
+      "official": "Republic of Nauru",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Nauru",
+          "common": "Nauru"
+        },
+        "nau": {
+          "official": "Republic of Nauru",
+          "common": "Nauru"
+        }
+      }
+    },
+    "cca3": "NRU",
+    "currencies": {
+      "AUD": {
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Yaren"
+    ],
+    "languages": {
+      "eng": "English",
+      "nau": "Nauru"
+    },
+    "area": 21,
+    "population": 11680,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/sm.png",
+      "svg": "https://flagcdn.com/sm.svg",
+      "alt": "The flag of San Marino is composed of two equal horizontal bands of white and light blue, with the national coat of arms superimposed in the center."
+    },
+    "name": {
+      "common": "San Marino",
+      "official": "Republic of San Marino",
+      "nativeName": {
+        "ita": {
+          "official": "Repubblica di San Marino",
+          "common": "San Marino"
+        }
+      }
+    },
+    "cca3": "SMR",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "City of San Marino"
+    ],
+    "languages": {
+      "ita": "Italian"
+    },
+    "area": 61,
+    "population": 34132,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/sb.png",
+      "svg": "https://flagcdn.com/sb.svg",
+      "alt": "The flag of Solomon Islands features a thin yellow diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a blue and green triangle respectively. Five white five-pointed stars arranged in an X shape are situated on the hoist side of the upper blue triangle."
+    },
+    "name": {
+      "common": "Solomon Islands",
+      "official": "Solomon Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Solomon Islands",
+          "common": "Solomon Islands"
+        }
+      }
+    },
+    "cca3": "SLB",
+    "currencies": {
+      "SBD": {
+        "name": "Solomon Islands dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Honiara"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 28896,
+    "population": 750325,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ai.png",
+      "svg": "https://flagcdn.com/ai.svg",
+      "alt": "The flag of Anguilla is blue, with the flag of the UK in the canton and the national coat of arms centered in the fly half. The coat of arms depicts three orange dolphins in an interlocking circular design on a white background with a turquoise-blue field below."
+    },
+    "name": {
+      "common": "Anguilla",
+      "official": "Anguilla",
+      "nativeName": {
+        "eng": {
+          "official": "Anguilla",
+          "common": "Anguilla"
+        }
+      }
+    },
+    "cca3": "AIA",
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "The Valley"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 91,
+    "population": 16010,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/fm.png",
+      "svg": "https://flagcdn.com/fm.svg",
+      "alt": "The flag of Micronesia has a light blue field, at the center of which are four five-pointed white stars arranged in the shape of a diamond."
+    },
+    "name": {
+      "common": "Micronesia",
+      "official": "Federated States of Micronesia",
+      "nativeName": {
+        "eng": {
+          "official": "Federated States of Micronesia",
+          "common": "Micronesia"
+        }
+      }
+    },
+    "cca3": "FSM",
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Palikir"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 702,
+    "population": 105564,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/mw.png",
+      "svg": "https://flagcdn.com/mw.svg",
+      "alt": "The flag of Malawi is composed of three equal horizontal bands of black, red and green. The top half of a red sun with thirty-one visible rays is centered in the black band."
+    },
+    "name": {
+      "common": "Malawi",
+      "official": "Republic of Malawi",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Malawi",
+          "common": "Malawi"
+        },
+        "nya": {
+          "official": "Chalo cha Malawi, Dziko la Malaŵi",
+          "common": "Malaŵi"
+        }
+      }
+    },
+    "cca3": "MWI",
+    "currencies": {
+      "MWK": {
+        "name": "Malawian kwacha",
+        "symbol": "MK"
+      }
+    },
+    "capital": [
+      "Lilongwe"
+    ],
+    "languages": {
+      "eng": "English",
+      "nya": "Chewa"
+    },
+    "area": 118484,
+    "population": 20734262,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/qa.png",
+      "svg": "https://flagcdn.com/qa.svg",
+      "alt": "The flag of Qatar has a maroon field, on the hoist side of which is a white vertical band that spans about one-third the width of the field and is separated from the rest of the field by nine adjoining fly-side pointing white isosceles triangles that serve as a serrated line."
+    },
+    "name": {
+      "common": "Qatar",
+      "official": "State of Qatar",
+      "nativeName": {
+        "ara": {
+          "official": "دولة قطر",
+          "common": "قطر"
+        }
+      }
+    },
+    "cca3": "QAT",
+    "currencies": {
+      "QAR": {
+        "name": "Qatari riyal",
+        "symbol": "ر.ق"
+      }
+    },
+    "capital": [
+      "Doha"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "area": 11586,
+    "population": 3173024,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/bw.png",
+      "svg": "https://flagcdn.com/bw.svg",
+      "alt": "The flag of Botswana has a light blue field with a white-edged black horizontal band across its center."
+    },
+    "name": {
+      "common": "Botswana",
+      "official": "Republic of Botswana",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Botswana",
+          "common": "Botswana"
+        },
+        "tsn": {
+          "official": "Lefatshe la Botswana",
+          "common": "Botswana"
+        }
+      }
+    },
+    "cca3": "BWA",
+    "currencies": {
+      "BWP": {
+        "name": "Botswana pula",
+        "symbol": "P"
+      }
+    },
+    "capital": [
+      "Gaborone"
+    ],
+    "languages": {
+      "eng": "English",
+      "tsn": "Tswana"
+    },
+    "area": 582000,
+    "population": 2359609,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/mp.png",
+      "svg": "https://flagcdn.com/mp.svg",
+      "alt": "The flag of the Northern Mariana Islands is blue with a five-pointed white star on a gray latte stone (a traditional foundation stone) in the center, surrounded by a head lei (wreath)."
+    },
+    "name": {
+      "common": "Northern Mariana Islands",
+      "official": "Commonwealth of the Northern Mariana Islands",
+      "nativeName": {
+        "cal": {
+          "official": "Commonwealth of the Northern Mariana Islands",
+          "common": "Northern Mariana Islands"
+        },
+        "cha": {
+          "official": "Sankattan Siha Na Islas Mariånas",
+          "common": "Na Islas Mariånas"
+        },
+        "eng": {
+          "official": "Commonwealth of the Northern Mariana Islands",
+          "common": "Northern Mariana Islands"
+        }
+      }
+    },
+    "cca3": "MNP",
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Saipan"
+    ],
+    "languages": {
+      "cal": "Carolinian",
+      "cha": "Chamorro",
+      "eng": "English"
+    },
+    "area": 464,
+    "population": 47329,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/is.png",
+      "svg": "https://flagcdn.com/is.svg",
+      "alt": "The flag of Iceland has a blue field with a large white-edged red cross that extends to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+    },
+    "name": {
+      "common": "Iceland",
+      "official": "Iceland",
+      "nativeName": {
+        "isl": {
+          "official": "Ísland",
+          "common": "Ísland"
+        }
+      }
+    },
+    "cca3": "ISL",
+    "currencies": {
+      "ISK": {
+        "name": "Icelandic króna",
+        "symbol": "kr"
+      }
+    },
+    "capital": [
+      "Reykjavik"
+    ],
+    "languages": {
+      "isl": "Icelandic"
+    },
+    "area": 103000,
+    "population": 391810,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ke.png",
+      "svg": "https://flagcdn.com/ke.svg",
+      "alt": "The flag of Kenya is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. An emblem comprising a red, black and white Maasai shield covering two crossed white spears is superimposed at the center of the field."
+    },
+    "name": {
+      "common": "Kenya",
+      "official": "Republic of Kenya",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Kenya",
+          "common": "Kenya"
+        },
+        "swa": {
+          "official": "Republic of Kenya",
+          "common": "Kenya"
+        }
+      }
+    },
+    "cca3": "KEN",
+    "currencies": {
+      "KES": {
+        "name": "Kenyan shilling",
+        "symbol": "Sh"
+      }
+    },
+    "capital": [
+      "Nairobi"
+    ],
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "area": 580367,
+    "population": 53330978,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/xk.png",
+      "svg": "https://flagcdn.com/xk.svg",
+      "alt": "The flag of Kosovo has a dark blue field with a gold-colored silhouette of the country in the center, with six five-pointed white stars in a slight arc over it."
+    },
+    "name": {
+      "common": "Kosovo",
+      "official": "Republic of Kosovo",
+      "nativeName": {
+        "sqi": {
+          "official": "Republika e Kosovës",
+          "common": "Kosova"
+        },
+        "srp": {
+          "official": "Република Косово",
+          "common": "Косово"
+        }
+      }
+    },
+    "cca3": "UNK",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Pristina"
+    ],
+    "languages": {
+      "sqi": "Albanian",
+      "srp": "Serbian"
+    },
+    "area": 10908,
+    "population": 1585566,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/sx.png",
+      "svg": "https://flagcdn.com/sx.svg",
+      "alt": "The flag of Sint Maarten features two equal horizontal bands of red and blue, with a white isosceles triangle based on the hoist side. The center of the triangle displays the national coat of arms with an orange-bordered blue shield that prominently displays a white courthouse, as well as yellow sage in the upper left and the silhouette of a monument in the upper right. Over the shield is a yellow rising sun and a brown pelican in flight. A yellow scroll below the shield has the Latin motto \"SEMPER PROGREDIENS\" (Always Progressing)."
+    },
+    "name": {
+      "common": "Sint Maarten",
+      "official": "Sint Maarten",
+      "nativeName": {
+        "eng": {
+          "official": "Sint Maarten",
+          "common": "Sint Maarten"
+        },
+        "fra": {
+          "official": "Saint-Martin",
+          "common": "Saint-Martin"
+        },
+        "nld": {
+          "official": "Sint Maarten",
+          "common": "Sint Maarten"
+        }
+      }
+    },
+    "cca3": "SXM",
+    "currencies": {
+      "ANG": {
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      }
+    },
+    "capital": [
+      "Philipsburg"
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "nld": "Dutch"
+    },
+    "area": 34,
+    "population": 41349,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/bs.png",
+      "svg": "https://flagcdn.com/bs.svg",
+      "alt": "The flag of the Bahamas is composed of three equal horizontal bands of aquamarine, yellow and aquamarine, with a black equilateral triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end and spans about one-third the width of the field."
+    },
+    "name": {
+      "common": "Bahamas",
+      "official": "Commonwealth of the Bahamas",
+      "nativeName": {
+        "eng": {
+          "official": "Commonwealth of the Bahamas",
+          "common": "Bahamas"
+        }
+      }
+    },
+    "cca3": "BHS",
+    "currencies": {
+      "BSD": {
+        "name": "Bahamian dollar",
+        "symbol": "$"
+      },
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Nassau"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 13943,
+    "population": 398165,
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/dz.png",
+      "svg": "https://flagcdn.com/dz.svg",
+      "alt": "The flag of Algeria features two equal vertical bands of green and white. A five-pointed red star within a fly-side facing red crescent is centered over the two-color boundary."
+    },
+    "name": {
+      "common": "Algeria",
+      "official": "People's Democratic Republic of Algeria",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
+          "common": "الجزائر"
+        }
+      }
+    },
+    "cca3": "DZA",
+    "currencies": {
+      "DZD": {
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
+    },
+    "capital": [
+      "Algiers"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "area": 2381741,
+    "population": 47400000,
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/gr.png",
+      "svg": "https://flagcdn.com/gr.svg",
+      "alt": "The flag of Greece is composed of nine equal horizontal bands of blue alternating with white. A blue square bearing a white cross is superimposed in the canton."
+    },
+    "name": {
+      "common": "Greece",
+      "official": "Hellenic Republic",
+      "nativeName": {
+        "ell": {
+          "official": "Ελληνική Δημοκρατία",
+          "common": "Ελλάδα"
+        }
+      }
+    },
+    "cca3": "GRC",
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "€"
+      }
+    },
+    "capital": [
+      "Athens"
+    ],
+    "languages": {
+      "ell": "Greek"
+    },
+    "area": 131990,
+    "population": 10400720,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/np.png",
+      "svg": "https://flagcdn.com/np.svg",
+      "alt": "The flag of Nepal is the world's only non-quadrilateral flag of a sovereign country. It takes the shape of two adjoining right-angled triangles and has a crimson red field with deep blue edges. Within the smaller upper triangle is an emblem of the upper half of a white sun resting on an upward facing white crescent. The lower triangle bears a white sun with twelve rays."
+    },
+    "name": {
+      "common": "Nepal",
+      "official": "Federal Democratic Republic of Nepal",
+      "nativeName": {
+        "nep": {
+          "official": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
+          "common": "नेपाल"
+        }
+      }
+    },
+    "cca3": "NPL",
+    "currencies": {
+      "NPR": {
+        "name": "Nepalese rupee",
+        "symbol": "₨"
+      }
+    },
+    "capital": [
+      "Kathmandu"
+    ],
+    "languages": {
+      "nep": "Nepali"
+    },
+    "area": 147181,
+    "population": 29911840,
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/vi.png",
+      "svg": "https://flagcdn.com/vi.svg",
+      "alt": "The flag of the United States Virgin Islands is composed of a white field with the national coat of arms in the center between the large blue initials V and I. The coat of arms shows a yellow eagle holding an olive branch in its right talon and three arrows in the left, with a shield of seven red and six white vertical stripes below a blue panel."
+    },
+    "name": {
+      "common": "United States Virgin Islands",
+      "official": "Virgin Islands of the United States",
+      "nativeName": {
+        "eng": {
+          "official": "Virgin Islands of the United States",
+          "common": "United States Virgin Islands"
+        }
+      }
+    },
+    "cca3": "VIR",
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Charlotte Amalie"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "area": 347,
+    "population": 87146,
+    "continents": [
+      "North America"
+    ]
+  }
+]
