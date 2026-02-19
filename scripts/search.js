@@ -72,7 +72,7 @@ async function runSearch(){
         const stops = getStops(itin0);
         const duration = itin0?.duration?.replace('PT','').toLowerCase() || '';
         const code = o.validatingAirlineCodes?.[0] || (seg0?.carrierCode||'') + (seg0?.number||'');
-        const price = o.price?.total || '';
+        const price = o.price?.total.replace(".",",") || '';
         const datePretty = seg0?.departure.at.split("T")[0].split('-').reverse().join('-');
         const flightNumber = itin0.segments?.map(seg => seg.carrierCode + seg.number).join(" + ");
         
@@ -90,6 +90,9 @@ async function runSearch(){
         </tr>`; 
     }).join('');
     tbody.innerHTML = rows;
+
+    updateTotal()
+    
     }catch(err){
     console.error(err);
     tbody.innerHTML = '<tr><td colspan="9">Ocorreu um erro ao procurar voos.</td></tr>';
@@ -101,3 +104,84 @@ const tbody = document.querySelector('#voos table tbody');
 const thead = document.querySelector('#voos table thead');
           
 if(btn){ btn.addEventListener('click', runSearch); }
+
+
+function parsePrice(cell) {
+  if (!cell) return 0;
+  const text = cell.textContent || "";
+  const numeric = text
+    .replace(/[^\d,.\-]/g, "")   // remove € e espaços
+    .replace(/\./g, "")          // remove separador de milhar
+    .replace(",", ".");          // vírgula → ponto
+  const value = parseFloat(numeric);
+  return isNaN(value) ? 0 : value;
+}
+
+function sumTablePrices(tableId) {
+  const table = document.getElementById(tableId);
+  if (!table) return 0;
+
+  let total = 0;
+  table.querySelectorAll("tbody tr").forEach(row => {
+    const cells = row.querySelectorAll("td");
+    if (!cells.length) return;
+    const priceCell = cells[cells.length - 1]; // última coluna
+    total += parsePrice(priceCell);
+  });
+
+  return total;
+}
+
+function updateTotal() {
+  const totalVoos   = sumTablePrices("flightTable");
+  const totalHoteis = sumTablePrices("hotelsTable");
+  const totalTours  = sumTablePrices("tourTable");
+
+  const total = totalVoos + totalHoteis + totalTours;
+
+  // Atualiza o resumo
+  const totalEl = document.getElementById("totalPrice");
+  if (totalEl) {
+    totalEl.textContent = formatPricePT(total);
+  }
+
+    openPriceModal(total, { totalVoos, totalHoteis, totalTours });
+}
+
+
+function openPriceModal(total, breakdown) {
+  const modal = document.getElementById("priceModal");
+  const text  = document.getElementById("priceModalText");
+  if (!modal || !text) return;
+
+  const { totalVoos, totalHoteis, totalTours } = breakdown;
+
+  text.innerHTML = `
+    <strong>Total por pessoa:</strong> ${total.toFixed(2)} €<br/>
+    <small>
+      Voos: ${totalVoos.toFixed(2)} € •
+      Hotéis: ${totalHoteis.toFixed(2)} € •
+      Tours: ${totalTours.toFixed(2)} €
+    </small>
+  `;
+
+  modal.style.display = "flex";
+  modal.setAttribute("aria-hidden", "false");
+}
+
+document.addEventListener("click", (e) => {
+  const modal = document.getElementById("priceModal");
+  if (!modal) return;
+
+  if (e.target.id === "closePriceModal" || e.target === modal) {
+    modal.style.display = "none";
+    modal.setAttribute("aria-hidden", "true");
+  }
+});
+
+function formatPricePT(value) {
+  return value
+    .toFixed(2)                 // duas casas decimais
+    .replace('.', ',')          // vírgula como decimal
+    .replace(/\B(?=(\d{3})+(?!\d))/g, ' ') + ' €'; // espaço nos milhares
+}

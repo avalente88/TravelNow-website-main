@@ -22,8 +22,6 @@ function makeStackedTables(...selectors) {
 }
 
 
-
-
 document.addEventListener('DOMContentLoaded', () => {
   const map = document.getElementById('world-map-svg');
   const placeholder = document.getElementById('placeholder');
@@ -40,38 +38,39 @@ document.addEventListener('DOMContentLoaded', () => {
   const countryLanguagesEl = document.getElementById('country-languages');
   // const countryMapLinkEl = document.getElementById('country-map-link');
 
-  // --- CONFIG ROTEIROS (mantido do original) ---
   const ROTEIROS_BY_COUNTRY = {
-    // México
-    MX: [
-      { title: 'México: do óbvio de Quintana Roo a Los Cabos', href: 'Plans/Americas/quintana-roo-los-cabos.html' }
-    ],
     // Uzbequistão
-    UZ: [
+    UZB: [
       { title: 'Uzbequistão com extensão ao Turcomenistão', href: 'Plans/global_itinerary.html?itinerary=uzbekistan1' }
     ],
-    // Peru
-    PE: [
-      { title: 'Peru, Argentina e relaxe no Brasil', href: 'Plans/plano-peru-argentina-brasil.html' }
+    TKM: [
+      { title: 'Uzbequistão com extensão ao Turcomenistão', href: 'Plans/global_itinerary.html?itinerary=uzbekistan1' } 
     ],
     // Chile
-    CL: [
+    CHL: [
       { title: 'Patagónia e Rio de Janeiro', href: 'Plans/global_itinerary.html?itinerary=patagonia1' }
     ],
     // Argentina
-    AR: [
-      { title: 'Patagónia e Rio de Janeiro', href: 'Plans/global_itinerary.html?itinerary=patagonia1' },
-      { title: 'Peru, Argentina e relaxe no Brasil', href: 'Plans/Americas/plano-peru-argentina-brasil.html' }
+    ARG: [
+      { title: 'Patagónia e Rio de Janeiro', href: 'Plans/global_itinerary.html?itinerary=patagonia1' }
     ],
-    // Portugal (exemplo vazio)
-    PT: [
-      // { title: 'Portugal: Alentejo Essencial', href: '/plans/portugal-alentejo.html' }
+    // Brasil
+    BRA: [
+      { title: 'Patagónia e Rio de Janeiro', href: 'Plans/global_itinerary.html?itinerary=patagonia1' }
     ],
     // Fallback global (opcional)
     _DEFAULT: [
       // { title: 'Europa: 10 dias — capitais clássicas', href: '/plans/europe-classics.html' }
     ]
   };
+
+    Object.keys(ROTEIROS_BY_COUNTRY).forEach(code => {
+    const el = document.querySelector(`svg path[id="${code}"]`);
+    if (el) {
+      el.classList.add("tem-roteiro");
+    }
+  });
+
 
   // Tabelas responsivas (cards em mobile)
   makeStackedTables('#voos table', '#hoteis table');
@@ -108,14 +107,17 @@ document.addEventListener('DOMContentLoaded', () => {
       // console.log(`Clicked on country: ${countryName} (${countryCode})`);
 
       try {
-        const response = await fetch(`https://restcountries.com/v3.1/alpha/${countryCode}`);
-        if (!response.ok) {
-          throw new Error(`Could not fetch data for ${countryName}`);
-        }
-        const data = await response.json();
-        const countryInfo = data[0];
+       
+        const response = await fetch('/JSON/countryInfo.json');
+        const countries = await response.json();
+
+        const countryInfo = countries.find(
+          c => c.cca3.toLowerCase() === countryCode.toLowerCase()
+        );
+
         updateInfoPanel(countryInfo);
         renderRoteiros(countryCode);
+
       } catch (error) {
         console.error("API Error:", error);
         displayError(countryName);
