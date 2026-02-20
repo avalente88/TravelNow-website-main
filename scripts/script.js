@@ -46,17 +46,26 @@ document.addEventListener('DOMContentLoaded', () => {
     TKM: [
       { title: 'Uzbequistão com extensão ao Turcomenistão', href: 'Plans/global_itinerary.html?itinerary=uzbekistan1' } 
     ],
+    MEX: [
+      { title: 'México: 10 dias - Quinta Roo e Los Cabos', href: 'Plans/global_itinerary.html?itinerary=quintana_los_cabos' }
+    ],
     // Chile
     CHL: [
       { title: 'Patagónia e Rio de Janeiro', href: 'Plans/global_itinerary.html?itinerary=patagonia1' }
     ],
+    // Peru
+    PER: [
+      { title: 'Peru, com escapada na Argentina e descanço da Bahia', href: 'Plans/global_itinerary.html?itinerary=peru_ba_iguacu_bahia' }
+    ],
     // Argentina
     ARG: [
-      { title: 'Patagónia e Rio de Janeiro', href: 'Plans/global_itinerary.html?itinerary=patagonia1' }
+      { title: 'Patagónia e Rio de Janeiro', href: 'Plans/global_itinerary.html?itinerary=patagonia1' },
+      { title: 'Peru, com escapada na Argentina e descanço da Bahia', href: 'Plans/global_itinerary.html?itinerary=peru_ba_iguacu_bahia' }
     ],
     // Brasil
     BRA: [
-      { title: 'Patagónia e Rio de Janeiro', href: 'Plans/global_itinerary.html?itinerary=patagonia1' }
+      { title: 'Patagónia e Rio de Janeiro', href: 'Plans/global_itinerary.html?itinerary=patagonia1' },
+      { title: 'Peru, com escapada na Argentina e descanço da Bahia', href: 'Plans/global_itinerary.html?itinerary=peru_ba_iguacu_bahia' }
     ],
     // Fallback global (opcional)
     _DEFAULT: [

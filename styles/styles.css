@@ -64,6 +64,8 @@ header p {
   border: 3px solid white; 
   transform: translateX(0px);
   transform: translateY(50px);
+
+  background-color: white;
 }
 
 .about-container {

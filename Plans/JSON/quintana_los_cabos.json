@@ -1,0 +1,218 @@
+{
+  "name": "Cancún + Los Cabos + Toronto",
+  "itineraryRoute": "Lisboa → Cancún → Los Cabos → Toronto → Lisboa",
+  "numberOfDays": "Número de dias: 11",
+  "totalPrice": "TOTAL: 2&nbsp;999,00&nbsp;€",
+
+  "figures": [
+    {
+      "source": "/Images/MX/playa-delfines-cancun.jpg",
+      "alt": "Cancún",
+      "caption": "Cancún"
+    },
+    {
+      "source": "/Images/MX/isla-mujeres.jpg",
+      "alt": "Isla Mujeres",
+      "caption": "Isla Mujeres"
+    },
+    {
+      "source": "/Images/MX/los-cabos.jpg",
+      "alt": "Los Cabos",
+      "caption": "Los Cabos"
+    },
+    {
+      "source": "/Images/MX/Cataratas-do-Niagara.jpg",
+      "alt": "Cataratas do Niagara",
+      "caption": "Cataratas do Niagara"
+    }
+  ],
+
+  "flights": [
+    {
+      "from": "LIS - Lisbon",
+      "to": "CUN - Cancun",
+      "duration": "10:10",
+      "stops": "",
+      "price": 542.00
+    },
+    {
+      "from": "CUN - Cancun",
+      "to": "SJD - Los Cabos",
+      "duration": "05:20",
+      "stops": "TLC - Toluca - 0:45",
+      "price": 195.00
+    },
+    {
+      "from": "SJD - Los Cabos",
+      "to": "YYZ - Toronto",
+      "duration": "04:50",
+      "stops": "",
+      "price": 492.00
+    },
+    {
+      "from": "YYZ - Toronto",
+      "to": "LIS - Lisbon",
+      "duration": "07:20",
+      "stops": "",
+      "price": 448.00
+    }
+  ],
+
+  "restaurants": [],
+
+  "tours": [],
+
+  "flightSearch": [
+{
+      "from": "LIS",
+      "to": "CUN",
+      "offset": 0
+    },
+    {
+      "from": "CUN",
+      "to": "SJD",
+      "offset": 4
+    },
+    {
+      "from": "SJD",
+      "to": "YYZ",
+      "offset": 8
+    },
+    {
+      "from": "YYZ",
+      "to": "LIS",
+      "offset": 10
+    }
+
+  ],
+
+  "days": [
+    {
+      "date": "Dia 1",
+      "city": "Lisboa → Cancún",
+      "transport": [
+        { "type": "avião", "text": "" }
+      ],
+      "details": [
+        { "label": null, "items": ["Partida de Lisboa (LIS) e chegada a Cancún (CUN)."] },
+        { "label": "Noite", "items": ["Transfer e chegada ao hotel."] }
+      ]
+    },
+    {
+      "date": "Dia 2",
+      "city": "Cancún",
+      "transport": [],
+      "details": [
+        { "label": "Sugestões", "items": ["Praias/centro de Cancún", "Opcional: ferry p/ Isla Mujeres"] }
+      ]
+    },
+    {
+      "date": "Dia 3",
+      "city": "Cancún",
+      "transport": [],
+      "details": [
+        { "label": "Sugestões", "items": ["Dia livre em Cancún / Isla Mujeres"] }
+      ]
+    },
+    {
+      "date": "Dia 4",
+      "city": "Cancún",
+      "transport": [],
+      "details": [
+        { "label": "Sugestões", "items": ["Dia livre para ida a Cenotes e às pirâmides."] }
+      ]
+    },
+    {
+      "date": "Dia 5",
+      "city": "Cancún → Los Cabos",
+      "transport": [
+        { "type": "avião", "text": "" }
+      ],
+      "details": [
+        { "label": "Manhã", "items": ["Voo Cancún (CUN) → Toluca (TLC)", "Conexão Toluca → Los Cabos (SJD)"] },
+        { "label": "Tarde", "items": ["Chegada ao hotel"] }
+      ]
+    },
+    {
+      "date": "Dia 6",
+      "city": "Los Cabos",
+      "transport": [],
+      "details": [
+        { "label": "Sugestões", "items": ["El Arco, Playa del Amor, passeio de barco"] }
+      ]
+    },
+    {
+      "date": "Dia 7",
+      "city": "Los Cabos",
+      "transport": [],
+      "details": [
+        { "label": "Sugestões", "items": ["Dia livre / resort / atividades"] }
+      ]
+    },
+    {
+      "date": "Dia 8",
+      "city": "Los Cabos",
+      "transport": [],
+      "details": [
+        { "label": "Sugestões", "items": ["Dia livre / resort / pôr-do-sol"] }
+      ]
+    },
+    {
+      "date": "Dia 9",
+      "city": "Los Cabos → Toronto",
+      "transport": [
+        { "type": "avião", "text": "" }
+      ],
+      "details": [
+        { "label": "Tarde", "items": ["Voo SJD → YYZ", "Chegada ao hotel"] }
+      ]
+    },
+    {
+      "date": "Dia 10",
+      "city": "Toronto / Cataratas do Niágara",
+      "transport": [
+        { "type": "estrada", "text": "" }
+      ],
+      "details": [
+        { "label": "Dia completo", "items": ["Toronto (centro) + excursão às Cataratas do Niágara (opcional)"] }
+      ]
+    },
+    {
+      "date": "Dia 11",
+      "city": "Toronto → Lisboa",
+      "transport": [
+        { "type": "avião", "text": "" }
+      ],
+      "details": [
+        { "label": null, "items": ["Voo de regresso YYZ → LIS"] }
+      ]
+    }
+  ],
+
+  "hotels": [
+    {
+      "hotel": "Esplendor by Wyndham Isla Mujeres",
+      "url": "https://www.booking.com/hotel/ar/canal-beagle-ushuaia.pt-pt.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaEaIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AszVlMwGwAIB0gIkN2IxMTc4MTYtNjU5Yi00NDYxLTlmMjMtZjQwMTlkZTAxZDVl2AIB4AIB&sid=957479400a6c1f6c3601ef700b18ccfb&all_sr_blocks=801707902_341407502_2_1_0&checkin=@@checkin&checkout=@@checkout&dest_id=-1018179&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=2&highlighted_blocks=801707902_341407502_2_1_0&hpos=2&matching_block_id=801707902_341407502_2_1_0&nflt=review_score%3D80%3Broomfacility%3D38%3Bht_id%3D204&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=801707902_341407502_2_1_0__36320&srepoch=1770335402&srpvid=4bada7858a59031c&type=total&ucfs=1&",
+      "local": "Isla Mujeres",
+      "noites": 4,
+      "regime": "Tudo incluído",
+      "preco": 1009
+    },
+    {
+      "hotel": "Royal Solaris Los Cabos",
+      "url": null,
+      "local": "Los Cabos",
+      "noites": 4,
+      "regime": "Tudo incluído",
+      "preco": 1127
+    },
+    {
+      "hotel": "The Yorkville Royal Sonesta Hotel Toronto",
+      "url": null,
+      "local": "Toronto",
+      "noites": 2,
+      "regime": "PA",
+      "preco": 508
+    }
+  ]
+}

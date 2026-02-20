@@ -1,0 +1,165 @@
+{
+  "name": "Peru + Argentina + Iguaçu + Brasil",
+  "itineraryRoute": "Lisbon → … → Lisboa",
+  "numberOfDays": "Número de dias: 20",
+  "totalPrice": "TOTAL: 10 974,00€",
+
+  "figures": [],
+
+  "flights": [
+    
+    {
+      "from": "LIS - Lisboa",
+      "to": "LIM - Lima",
+      "duration": "15:25h",
+      "stops": "MAD - Madrid: 2:00",
+      "price": 875
+    },
+    {
+      "from": "LIM - Lima",
+      "to": "CUZ - Cusco",
+      "duration": "01:30h",
+      "stops": "",
+      "price": 120
+    },
+    {
+      "from": "CUZ - Cusco",
+      "to": "AEP - Buenos Aires",
+      "duration": "07:30h",
+      "stops": "",
+      "price": 280
+    },
+    {
+      "from": "EZE - Buenos Aires",
+      "to": "IGR - Cataratas del Iguazú",
+      "duration": "01:48h",
+      "stops": "",
+      "price": 200
+    },
+    {
+      "from": "IGU - Cataratas del Iguazú",
+      "to": "SSA - Salvador",
+      "duration": "5:10h",
+      "stops": "CGH - São Paulo - 1:00h",
+      "price": 348
+    },
+    
+    {
+      "from": "SSA - Salvador",
+      "to": "LIS - Lisboa",
+      "duration": "08:15h",
+      "stops": "",
+      "price": 1397
+    }
+  ],
+
+  "restaurants": [],
+  "tours": [],
+  "flightSearch": [
+    {
+      "from": "LIS",
+      "to": "LIM",
+      "offset": 0
+    },
+    {
+      "from": "LIM",
+      "to": "CUZ",
+      "offset": 3
+    },
+    {
+      "from": "CUZ",
+      "to": "AEP",
+      "offset": 7
+    },
+    {
+      "from": "AEP",
+      "to": "IGR",
+      "offset": 9
+    },
+    {
+      "from": "IGU",
+      "to": "SSA",
+      "offset": 12
+    },
+{
+      "from": "SSA",
+      "to": "LIS",
+      "offset": 19
+    }
+
+  ],
+
+  "days": [
+    { "date": "Dia 1", "city": "", "transport": [], "details": [{ "label": null, "items": ["Ida para Lima e chegada por volta das 18:00."] }] },
+    { "date": "Dia 2", "city": "", "transport": [], "details": [{ "label": null, "items": ["Lima"] }] },
+    { "date": "Dia 3", "city": "", "transport": [], "details": [{ "label": null, "items": ["Lima"] }] },
+    { "date": "Dia 4", "city": "", "transport": [], "details": [{ "label": null, "items": ["Ida para Cusco"] }] },
+    { "date": "Dia 5", "city": "", "transport": [], "details": [{ "label": null, "items": ["Cusco - Vale Sagrado"] }] },
+    { "date": "Dia 6", "city": "", "transport": [], "details": [{ "label": null, "items": ["Belmond Train para Matchu Pichu e regresso a Cusco em comboio normal"] }] },
+    { "date": "Dia 7", "city": "", "transport": [], "details": [{ "label": null, "items": ["Cusco - Rainbow montain"] }] },
+    { "date": "Dia 8", "city": "", "transport": [], "details": [{ "label": null, "items": ["Cusco - Buenos Aires"] }] },
+    { "date": "Dia 9", "city": "", "transport": [], "details": [{ "label": null, "items": ["Buenos Aires"] }] },
+    { "date": "Dia 10", "city": "", "transport": [], "details": [{ "label": null, "items": ["Buenos Aires - Iguaçu"] }] },
+    { "date": "Dia 11", "city": "", "transport": [], "details": [{ "label": null, "items": ["Iguaçu argentino"] }] },
+    { "date": "Dia 12", "city": "", "transport": [], "details": [{ "label": null, "items": ["Iguaçu Brasil"] }] },
+    { "date": "Dia 13", "city": "", "transport": [], "details": [{ "label": null, "items": ["Iguaçu - praia no Brasil"] }] },
+    {	"date" :	"Dia 14",	"city" :	"",	"transport" :	[],	"details" : [{"label" :	null,	"items" : ["praia no Brasil"]}]},
+    {	"date" :	"Dia 15",	"city" :	"",	"transport" :	[],	"details" : [{"label" :	null,	"items" : ["praia no Brasil"]}]},
+    {	"date" :	"Dia 16",	"city" :	"",	"transport" :	[],	"details" : [{"label" :	null,	"items" : ["praia no Brasil"]}]},
+    { "date": "Dia 17", "city": "", "transport": [], "details": [{ "label": null, "items": ["praia no Brasil"] }] },
+    { "date": "Dia 18", "city": "", "transport": [], "details": [{ "label": null, "items": ["praia no Brasil"] }] },
+    { "date": "Dia 19", "city": "", "transport": [], "details": [{ "label": null, "items": ["praia no Brasil"] }] },
+    { "date": "Dia 20", "city": "", "transport": [], "details": [{ "label": null, "items": ["regresso a Lisboa"] }] }
+  ],
+
+  "hotels": [
+    {
+      "hotel": "JW Miraflores",
+      "url": "xxx",
+      "local": "Lima",
+      "noites": 3,
+      "regime": "pequeno-almoco",
+      "preco": 333
+    },
+    {
+      "hotel": "Hilton Inn Cusco",
+      "url": "xxx",
+      "local": "Cusco",
+      "noites": 4,
+      "regime": "pequeno-almoco",
+      "preco": 123
+    },
+    {
+      "hotel": "NH Centro Histórico",
+      "url": "xxx",
+      "local": "Buenos Aires",
+      "noites": 2,
+      "regime": "pequeno-almoco",
+      "preco": 123
+    },
+    {
+      "hotel": "Falls Iguazú Hotel & Spa",
+      "url": "ccc",
+      "local": "Iguaçu (Argentina)",
+      "noites": 2,
+      "regime": "meia pensão",
+      "preco": 22
+    },
+    {
+      "hotel": "DoubleTree by Hilton Foz do Iguacu Brazil",
+      "url": "xxx",
+      "local": "Iguaçu (Brasil)",
+      "noites": 1,
+      "regime": "pequeno-almoco",
+      "preco": 444
+    },
+    {
+      "hotel": "Tivoli EcoResort Praia do Forte",
+      "url": "xxx",
+      "local": "Praia do Forte - Bahia",
+      "noites": 7,
+      "regime": "meia pensão",
+      "preco": 44444
+    }
+  ]
+}
