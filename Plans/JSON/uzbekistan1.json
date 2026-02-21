@@ -389,7 +389,7 @@
         "hotels": [
         {
           "hotel": "Crowne Plaza Tashkent",
-          "url": "https://www.ihg.com/crowneplaza/hotels/pt/pt/tashkent/tastm/hoteldetail",
+          "url": "https://www.booking.com/hotel/uz/crowne-plaza-tashkent-an-ihg.html?checkin={CHECKIN}&checkout={CHECKOUT}&group_adults=2&group_children=0&no_rooms=1",
           "local": "Tashkent",
           "noites": 3,
           "regime": "PA",
@@ -397,7 +397,7 @@
         },
         {
           "hotel": "Zarafshon Parkside",
-          "url": "https://www.zarafshonparkside.com/en/home",
+          "url": "https://www.booking.com/hotel/uz/zarafshon-parkside.html?checkin={CHECKIN}&checkout={CHECKOUT}&group_adults=2&group_children=0&no_rooms=1",
           "local": "Samarcanda",
           "noites": 2,
           "regime": "PA",
@@ -405,7 +405,7 @@
         },
         {
           "hotel": "Kukaldosh Boutique Hotel",
-          "url": "https://www.booking.com/hotel/uz/kukaldosh.pt-pt.html?aid=356980&label=gog235jc-10CAso7gFCCWt1a2FsZG9zaEgzWANoRogBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0_DjywbAAgHSAiRhNWFjNDg5NC0zMjcxLTQzMDEtOTU3OS1hNzExM2RmMWZlOTHYAgHgAgE&sid=870b178448d73cef57e8697f06836b45&all_sr_blocks=107690014_118520059_2_41_0_860339&checkin=2026-04-10&checkout=2026-04-12&dest_id=-2575720&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=107690014_118520059_2_41_0_860339&hpos=1&matching_block_id=107690014_118520059_2_41_0_860339&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=107690014_118520059_2_41_0_860339_23723&srepoch=1769535589&srpvid=90127c2f49ac05ef&type=total&ucfs=1&",
+          "url": "https://www.booking.com/hotel/uz/kukaldosh.pt-pt.html?checkin={CHECKIN}&checkout={CHECKOUT}&group_adults=2&group_children=0&no_rooms=1",
           "local": "Bucara",
           "noites": 2,
           "regime": "PA",
@@ -413,8 +413,7 @@
         },
         {
           "hotel": "Oasis al Khiva Boutique Hotel Inside Citadel",
-          "url": "https://www.booking.com/hotel/uz/oasis-al-khiva-boutique.pt-pt.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaLsBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALzxb7LBsACAdICJDEyODQ4NmY2LThmYTEtNGQ5MS05N2RlLTI0NjI3YjM2MWQ3Y9gCAeACAQ&sid=870b178448d73cef57e8697f06836b45&all_sr_blocks=1432006101_414826359_0_2_0&checkin=2026-04-12&checkout=2026-04-13&dest_id=-2577285&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=1432006101_414826359_0_2_0&hpos=1&matching_block_id=1432006101_414826359_0_2_0&nflt=review_score%3D90&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=1432006101_414826359_0_2_0__5190&srepoch=1769533776&srpvid=fed678a063a80028&type=total&ucfs=1&",
-          "local": "Khiva",
+          "url": "https://www.booking.com/hotel/uz/oasis-al-khiva-boutique.pt-pt.html?checkin={CHECKIN}&checkout={CHECKOUT}&group_adults=2&group_children=0&no_rooms=1",
           "noites": 2,
           "regime": "PA",
           "preco": 48.00
@@ -429,7 +428,7 @@
         },
         {
           "hotel": "Premium Hotel Labi Rud",
-          "url": "https://www.booking.com/hotel/uz/malika-sultan-inn.pt-pt.html?label=gen173nr-10CAEoggI46AdIM1gEaLsBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALzxb7LBsACAdICJDEyODQ4NmY2LThmYTEtNGQ5MS05N2RlLTI0NjI3YjM2MWQ3Y9gCAeACAQ&aid=304142&ucfs=1&checkin=2026-04-17&checkout=2026-04-18&dest_id=-2575720&dest_type=city&group_adults=2&no_rooms=1&group_children=0&srpvid=ce397f524c4b0690&srepoch=1769537217&matching_block_id=1353043803_407633032_2_1_0_794701&atlas_src=sr_iw_title",
+          "url": "https://www.booking.com/hotel/uz/malika-sultan-inn.pt-pt.html?checkin={CHECKIN}&checkout={CHECKOUT}&group_adults=2&group_children=0&no_rooms=1",
           "local": "Bucara",
           "noites": 1,
           "regime": "PA",

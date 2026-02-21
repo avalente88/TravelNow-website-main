@@ -199,7 +199,7 @@
   "hotels": [
     {
       "hotel": "JW Miraflores",
-      "url": "https://www.booking.com/hotel/pe/jw-marriott-lima.en-gb.html?label=jw-marriott-cusco-vAJoMHEUIyOtWHVBnoX7jAS732492718299%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2395719376965%3Akwd-331396024730%3Alp9220914%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YboIMJYQAPicrzwdxpGM5o8&sid=775e3adfec1dd0553acbd9fbf4c9ea59&aid=311984&ucfs=1&checkin=2026-04-15&checkout=2026-04-18&dest_id=-352647&dest_type=city&group_adults=2&no_rooms=1&group_children=0&srpvid=bd918bdcc9b300e6&srepoch=1771703644&matching_block_id=27153401_94383785_2_42_0&atlas_src=sr_iw_title",
+      "url": "https://www.booking.com/hotel/pe/jw-marriott-lima.en-gb.html?checkin={CHECKIN}&checkout={CHECKOUT}&group_adults=2&group_children=0&no_rooms=1",
       "local": "Lima",
       "noites": 3,
       "regime": "PA",
@@ -207,7 +207,7 @@
     },
     {
       "hotel": "JW Marriot El Convento Cusco",
-      "url": "https://www.booking.com/searchresults.en-gb.html?ssne=Cusco&ssne_untouched=Cusco&highlighted_hotels=351410&ss=Cusco&dest_id=-345275&dest_type=city&hp_avform=1&origin=hp&do_availability_check=1&label=jw-marriott-cusco-vAJoMHEUIyOtWHVBnoX7jAS732492718299%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2395719376965%3Akwd-331396024730%3Alp9220914%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YboIMJYQAPicrzwdxpGM5o8&sid=775e3adfec1dd0553acbd9fbf4c9ea59&aid=311984&lang=en-gb&sb=1&src_elem=sb&src=hotel&checkin=2026-04-21&checkout=2026-04-25&group_adults=2&no_rooms=1&group_children=0",
+      "url": "https://www.booking.com/hotel/pe/jw-marriott-cusco.pt-pt.html?checkin={CHECKIN}&checkout={CHECKOUT}&group_adults=2&group_children=0&no_rooms=1",
       "local": "Cusco",
       "noites": 4,
       "regime": "PA",
@@ -215,7 +215,7 @@
     },
     {
       "hotel": "Doubletree By Hilton Buenos Aires",
-      "url": "https://www.booking.com/hotel/ar/melia-buenos-aires.en-gb.html?label=jw-marriott-cusco-vAJoMHEUIyOtWHVBnoX7jAS732492718299%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2395719376965%3Akwd-331396024730%3Alp9220914%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YboIMJYQAPicrzwdxpGM5o8&sid=775e3adfec1dd0553acbd9fbf4c9ea59&aid=311984&ucfs=1&checkin=2026-04-20&checkout=2026-04-22&group_adults=2&no_rooms=1&group_children=0&nflt=mealplan%3D1%3Bht_id%3D204%3Bclass%3D5&srpvid=2fc68c3d40fc02d3&srepoch=1771703887&matching_block_id=7935923_387205310_2_1_0&atlas_src=hp_iw_title",
+      "url": "https://www.booking.com/hotel/ar/melia-buenos-aires.html?checkin={CHECKIN}&checkout={CHECKOUT}&group_adults=2&no_rooms=1&group_children=0",
       "local": "Buenos Aires",
       "noites": 2,
       "regime": "PA",
@@ -223,7 +223,7 @@
     },
     {
       "hotel": "Falls Iguazú Hotel & Spa",
-      "url": "https://www.booking.com/hotel/ar/falls-iguazu-amp-spa.en-gb.html?aid=311984&label=jw-marriott-cusco-vAJoMHEUIyOtWHVBnoX7jAS732492718299%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2395719376965%3Akwd-331396024730%3Alp9220914%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YboIMJYQAPicrzwdxpGM5o8&sid=775e3adfec1dd0553acbd9fbf4c9ea59&all_sr_blocks=198370707_123809315_2_17_0&checkin=2026-04-20&checkout=2026-04-22&dest_id=1983707&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=198370707_123809315_2_17_0&hpos=1&matching_block_id=198370707_123809315_2_17_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=198370707_123809315_2_17_0__41140&srepoch=1771706483&srpvid=6e7b91765903039a&type=total&ucfs=1&",
+      "url": "https://www.booking.com/hotel/ar/falls-iguazu-amp-spa.html?checkin={CHECKIN}&checkout={CHECKOUT}&group_adults=2&no_rooms=1&group_children=0",
       "local": "Iguaçu (Argentina)",
       "noites": 2,
       "regime": "meia pensão",
@@ -231,7 +231,7 @@
     },
     {
       "hotel": "DoubleTree by Hilton Foz do Iguacu Brazil",
-      "url": "https://www.booking.com/hotel/br/doubletree-by-hilton-foz-do-iguacu.en-gb.html?label=jw-marriott-cusco-vAJoMHEUIyOtWHVBnoX7jAS732492718299%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2395719376965%3Akwd-331396024730%3Alp9220914%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YboIMJYQAPicrzwdxpGM5o8&sid=775e3adfec1dd0553acbd9fbf4c9ea59&aid=311984&ucfs=1&arphpl=1&checkin=2026-04-20&checkout=2026-04-22&dest_id=8553576&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5dde9190895c044f&srepoch=1771706533&all_sr_blocks=855357602_353048948_0_33_0&highlighted_blocks=855357602_353048948_0_33_0&matching_block_id=855357602_353048948_0_33_0&sr_pri_blocks=855357602_353048948_0_33_0__184266&from_sustainable_property_sr=1&from=searchresults",
+      "url": "https://www.booking.com/hotel/br/doubletree-by-hilton-foz-do-iguacu.html?checkin={CHECKIN}&checkout={CHECKOUT}&group_adults=2&no_rooms=1&group_children=0",
       "local": "Iguaçu (Brasil)",
       "noites": 1,
       "regime": "meia pensão",
@@ -239,7 +239,7 @@
     },
     {
       "hotel": "Tivoli EcoResort Praia do Forte",
-      "url": "https://www.booking.com/hotel/br/praia-do-forte-ecoresort.en-gb.html?aid=311984&label=mkt123sc-363012d6-b162-4aaf-ad39-326720226724&ucfs=1&arphpl=1&checkin=2026-04-19&checkout=2026-04-26&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=8f4d95e23d7201f0&srepoch=1771708742&all_sr_blocks=9744321_145796848_2_17_0&highlighted_blocks=9744321_145796848_2_17_0&matching_block_id=9744321_145796848_2_17_0&sr_pri_blocks=9744321_145796848_2_17_0__1904300&from=searchresults",
+      "url": "https://www.booking.com/hotel/br/praia-do-forte-ecoresort.html?checkin={CHECKIN}&checkout={CHECKOUT}&group_adults=2&no_rooms=1&group_children=0",
       "local": "Praia do Forte - Bahia",
       "noites": 7,
       "regime": "meia pensão",

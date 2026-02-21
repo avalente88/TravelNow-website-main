@@ -190,7 +190,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     // Um por linha (mais legível):
     container.innerHTML = items
-      .map(it => `<div><a style="color: deeppink" href="${it.href}">${it.title}</a></div>`)
+      .map(it => `<div><li style="margin-left: 45px; color: deeppink"><a style="color: deeppink" href="${it.href}">${it.title}</a></li></div>`)
       .join('');
   }
 

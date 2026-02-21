@@ -192,23 +192,23 @@
   "hotels": [
     {
       "hotel": "Esplendor by Wyndham Isla Mujeres",
-      "url": "https://www.booking.com/hotel/ar/canal-beagle-ushuaia.pt-pt.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaEaIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AszVlMwGwAIB0gIkN2IxMTc4MTYtNjU5Yi00NDYxLTlmMjMtZjQwMTlkZTAxZDVl2AIB4AIB&sid=957479400a6c1f6c3601ef700b18ccfb&all_sr_blocks=801707902_341407502_2_1_0&checkin=@@checkin&checkout=@@checkout&dest_id=-1018179&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=2&highlighted_blocks=801707902_341407502_2_1_0&hpos=2&matching_block_id=801707902_341407502_2_1_0&nflt=review_score%3D80%3Broomfacility%3D38%3Bht_id%3D204&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=801707902_341407502_2_1_0__36320&srepoch=1770335402&srpvid=4bada7858a59031c&type=total&ucfs=1&",
+      "url": "https://www.booking.com/hotel/mx/esplendor-by-wyndham-isla-mujeres.en-gb.html?checkin={CHECKIN}&checkout={CHECKOUT}&group_adults=2&group_children=0&no_rooms=1",
       "local": "Isla Mujeres",
       "noites": 4,
       "regime": "Tudo incluído",
-      "preco": 1009
+      "preco": 1120.00
     },
     {
       "hotel": "Royal Solaris Los Cabos",
-      "url": null,
+      "url": "https://www.booking.com/hotel/mx/royal-solaris-los-cabos-all-inclusive.html?checkin={CHECKIN}&checkout={CHECKOUT}&group_adults=2&group_children=0&no_rooms=1",
       "local": "Los Cabos",
       "noites": 4,
       "regime": "Tudo incluído",
-      "preco": 1127
+      "preco": 1127.00
     },
     {
       "hotel": "The Yorkville Royal Sonesta Hotel Toronto",
-      "url": null,
+      "url": "https://www.booking.com/hotel/ca/royal-sonesta-toronto-yorkville.html?checkin={CHECKIN}&checkout={CHECKOUT}&group_adults=2&group_children=0&no_rooms=1",
       "local": "Toronto",
       "noites": 2,
       "regime": "PA",

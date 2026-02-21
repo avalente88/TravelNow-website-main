@@ -91,7 +91,9 @@ async function runSearch(){
     }).join('');
     tbody.innerHTML = rows;
 
-    updateTotal()
+    updateHotelUrls(isoDate);
+    updateTotal();
+    
     
     }catch(err){
     console.error(err);
@@ -184,4 +186,32 @@ function formatPricePT(value) {
     .toFixed(2)                 // duas casas decimais
     .replace('.', ',')          // vírgula como decimal
     .replace(/\B(?=(\d{3})+(?!\d))/g, ' ') + ' €'; // espaço nos milhares
+}
+
+function updateHotelUrls(isoDate) {
+  const startDate = new Date(isoDate);
+  let currentCheckIn = new Date(startDate);
+
+  // Seleciona todos os anchors de hotéis
+  const hotelLinks = document.querySelectorAll("#hotelsTable a.hotel");
+
+  hotelLinks.forEach(link => {
+    const row = link.closest("tr");
+    const nights = parseInt(row.querySelector('[data-label="Noites"]').textContent.trim(), 10);
+
+    // Calcula check-in e check-out
+    const checkIn = new Date(currentCheckIn);
+    const checkOut = new Date(currentCheckIn);
+    checkOut.setDate(checkOut.getDate() + nights);
+
+    // Atualiza o URL
+    const url = new URL(link.href);
+    url.searchParams.set("checkin", checkIn.toISOString().slice(0, 10));
+    url.searchParams.set("checkout", checkOut.toISOString().slice(0, 10));
+
+    link.href = url.toString();
+
+    // Avança a data para o próximo hotel
+    currentCheckIn = new Date(checkOut);
+  });
 }
