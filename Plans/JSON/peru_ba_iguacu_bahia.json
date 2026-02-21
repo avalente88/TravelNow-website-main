@@ -1,60 +1,144 @@
 {
   "name": "Peru + Argentina + Iguaçu + Brasil",
-  "itineraryRoute": "Lisbon → … → Lisboa",
+  "itineraryRoute": "Lisboa → Lima → Cusco → Buenos Aires → Cataratas do Iguaçu → Salvador da Bahia → Lisboa",
   "numberOfDays": "Número de dias: 20",
-  "totalPrice": "TOTAL: 10 974,00€",
+  "totalPrice": "TOTAL: 6 810,50€",
 
-  "figures": [],
+  "figures": [
+    {
+      "source": "/Images/PE/Lima.jpg",
+      "alt": "Lima",
+      "caption": "Lima"
+    },
+    {
+      "source": "/Images/pe/deserto.jpg",
+      "alt": "Deserto de Huacachina",
+      "caption": "Deserto de Huacachina"
+    },
+    {
+      "source": "/Images/PE/cusco.jpg",
+      "alt": "Cusco",
+      "caption": "Cusco"
+    },
+    {
+      "source": "/Images/PE/rainbow.jpg",
+      "alt": "Rainbow Mountain",
+      "caption": "Rainbow Mountain"
+    },
+    {
+      "source": "/Images/PE/matchu_pichu.jpg",
+      "alt": "Matchu Pichu",
+      "caption": "Matchu Pichu"
+    },
+    {
+      "source": "/Images/AR/boca.jpg",
+      "alt": "Ushuaia - terra do fogo",
+      "caption": "Ushuaia"
+    },
+    {
+      "source": "/Images/BR/Iguacu.jpg",
+      "alt": "Cataratas do Iguaçu",
+      "caption": "Cataratas do Iguaçu"
+    },
+    {
+      "source": "/Images/BR/Bahia.jpg",
+      "alt": "Praia do Forte - Bahia",
+      "caption": "Praia do Forte - Bahia"
+    }
+  ],
 
   "flights": [
     
     {
       "from": "LIS - Lisboa",
       "to": "LIM - Lima",
-      "duration": "15:25h",
-      "stops": "MAD - Madrid: 2:00",
-      "price": 875
+      "duration": "15:55",
+      "stops": "MAD - Madrid: 2:30",
+      "price": 575.00
     },
     {
       "from": "LIM - Lima",
       "to": "CUZ - Cusco",
-      "duration": "01:30h",
+      "duration": "01:25",
       "stops": "",
-      "price": 120
+      "price": 75.00
     },
     {
       "from": "CUZ - Cusco",
       "to": "AEP - Buenos Aires",
-      "duration": "07:30h",
-      "stops": "",
-      "price": 280
+      "duration": "08:00",
+      "stops": "LIM - Lima - 1:55",
+      "price": 186.00
     },
     {
       "from": "EZE - Buenos Aires",
       "to": "IGR - Cataratas del Iguazú",
-      "duration": "01:48h",
+      "duration": "01:55",
       "stops": "",
-      "price": 200
+      "price": 140.00
     },
     {
       "from": "IGU - Cataratas del Iguazú",
       "to": "SSA - Salvador",
-      "duration": "5:10h",
-      "stops": "CGH - São Paulo - 1:00h",
-      "price": 348
+      "duration": "6:15",
+      "stops": "GIG - Rio de Janeiro - 2:05h",
+      "price": 130.00
     },
     
     {
       "from": "SSA - Salvador",
       "to": "LIS - Lisboa",
-      "duration": "08:15h",
+      "duration": "08:15",
       "stops": "",
-      "price": 1397
+      "price": 948.00
     }
   ],
 
   "restaurants": [],
-  "tours": [],
+  "tours": [
+    {
+      "name": "Paracas e deserto de Huacachina",
+      "href": "https://www.getyourguide.com/pt-pt/paracas-l32470/de-lima-excursao-guiada-de-1-dia-a-paracas-e-ao-oasis-de-huacachina-t796007?ranking_uuid=2423d877-2303-46fa-95ca-ac311c63ad72&date_from=2026-04-03",
+      "location": "Lima",
+      "price": "67,00&nbsp;€"
+    },
+    {
+      "name": "Vale Sagrado dos Incas",
+      "href": "https://www.civitatis.com/pt/cusco/excursao-vale-sagrado-incas/?_gl=1*1fbb0ht*_up*MQ..*_ga*MTU2MzExOTY0OS4xNzcxNzA3MjMz*_ga_QJQ54CTKPM*czE3NzE3MDcyMzMkbzEkZzEkdDE3NzE3MDcyNDgkajQ1JGwwJGgw*_ga_TN9QD45KNE*czE3NzE3MDcyMzUkbzEkZzEkdDE3NzE3MDcyNDkkajQ2JGwwJGgw*_ga_216706797*czE3NzE3MDcyMzUkbzEkZzAkdDE3NzE3MDcyNDkkajQ2JGwwJGgxNjA4MDkzMDgz",
+      "location": "Cusco",
+      "price": "50,00&nbsp;€"
+    },
+    { "name": "Hiram Bingham com Matchu Pichu",
+      "href": "https://www.civitatis.com/en/cuzco/machu-picchu-luxury-train-trip/?aid=121&cmp=en_RoW_PMax&cmpint=Nonbrand_Europa_Generica&gclsrc=aw.ds&gad_source=1&gad_campaignid=23546287379&gbraid=0AAAAADSEWH2CrZtPZpqJEPuX3silB6YbD&gclid=CjwKCAiAzOXMBhASEiwAe14SaUyGiY2Axq3CoAnr9nJYh891LwLSAF_j2pQIZoM4ORuqzYMyxPPzPxoCJ1MQAvD_BwE",
+      "location": "Cusco",
+      "price": "971,00&nbsp;€"
+    },
+    {
+      "name": "Raibow Mountain",
+      "href": "https://www.civitatis.com/en/cuzco/private-day-trip/?_gl=1*1uu6y5o*_up*MQ..*_gs*MQ..*_ga*MTM3MTAzMTUxOS4xNzcxNzA3Mjkw*_ga_QJQ54CTKPM*czE3NzE3MDcyOTAkbzEkZzEkdDE3NzE3MDczOTAkajI5JGwwJGgw*_ga_216706797*czE3NzE3MDcyOTEkbzEkZzAkdDE3NzE3MDczOTAkajMwJGwwJGgxMzIyMDA0NTA5&gclid=CjwKCAiAzOXMBhASEiwAe14SaUyGiY2Axq3CoAnr9nJYh891LwLSAF_j2pQIZoM4ORuqzYMyxPPzPxoCJ1MQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADSEWH2CrZtPZpqJEPuX3silB6YbD",
+      "location": "Lima",
+      "price": "65,00&nbsp;€"
+    },
+    {
+      "name": "Hop On Hop Off em Buenos Aires",
+      "href": "https://www.getyourguide.com/pt-br/buenos-aires-l1/buenos-aires-hop-on-hop-off-passeios-a-pe-gratuitos-e-descontos-t361645/?ranking_uuid=83820eb8-c739-4c40-ab98-fea62a1cd63d",
+      "location": "Buenos Aires",
+      "price": "33,00&nbsp;€"
+    },
+    {
+      "name": "Travessia de fronteira no Iguaçu, parque das Aves e marco das 3 fronteiras",
+      "href": "https://iguazufalls.travel/puerto-iguazu-transfers/",
+      "location": "Foz do Iguaçu - Brasil",
+      "price": "160,00&nbsp;€"
+    },
+    {
+      "name": "Tour por Salvador da Bahia",
+      "href": "https://www.civitatis.com/pt/salvador/tour-privado-salvador/?_gl=1*1nydmlb*_up*MQ..*_ga*NjYyNzg3MTYuMTc3MTcwODY2MQ..*_ga_QJQ54CTKPM*czE3NzE3MDg2NjAkbzEkZzAkdDE3NzE3MDg2NjAkajYwJGwwJGgw*_ga_216706797*czE3NzE3MDg2NjEkbzEkZzAkdDE3NzE3MDg2NjEkajYwJGwwJGgxODU5NDE1Mjk4*_ga_TN9QD45KNE*czE3NzE3MDg2NjIkbzEkZzAkdDE3NzE3MDg2NjIkajYwJGwwJGgw",
+      "location": "Praia do Forte - Bahia",
+      "price": "95,00&nbsp;€"
+    }
+
+  ],
   "flightSearch": [
     {
       "from": "LIS",
@@ -90,76 +174,76 @@
   ],
 
   "days": [
-    { "date": "Dia 1", "city": "", "transport": [], "details": [{ "label": null, "items": ["Ida para Lima e chegada por volta das 18:00."] }] },
-    { "date": "Dia 2", "city": "", "transport": [], "details": [{ "label": null, "items": ["Lima"] }] },
-    { "date": "Dia 3", "city": "", "transport": [], "details": [{ "label": null, "items": ["Lima"] }] },
-    { "date": "Dia 4", "city": "", "transport": [], "details": [{ "label": null, "items": ["Ida para Cusco"] }] },
-    { "date": "Dia 5", "city": "", "transport": [], "details": [{ "label": null, "items": ["Cusco - Vale Sagrado"] }] },
-    { "date": "Dia 6", "city": "", "transport": [], "details": [{ "label": null, "items": ["Belmond Train para Matchu Pichu e regresso a Cusco em comboio normal"] }] },
-    { "date": "Dia 7", "city": "", "transport": [], "details": [{ "label": null, "items": ["Cusco - Rainbow montain"] }] },
-    { "date": "Dia 8", "city": "", "transport": [], "details": [{ "label": null, "items": ["Cusco - Buenos Aires"] }] },
-    { "date": "Dia 9", "city": "", "transport": [], "details": [{ "label": null, "items": ["Buenos Aires"] }] },
-    { "date": "Dia 10", "city": "", "transport": [], "details": [{ "label": null, "items": ["Buenos Aires - Iguaçu"] }] },
-    { "date": "Dia 11", "city": "", "transport": [], "details": [{ "label": null, "items": ["Iguaçu argentino"] }] },
-    { "date": "Dia 12", "city": "", "transport": [], "details": [{ "label": null, "items": ["Iguaçu Brasil"] }] },
-    { "date": "Dia 13", "city": "", "transport": [], "details": [{ "label": null, "items": ["Iguaçu - praia no Brasil"] }] },
-    {	"date" :	"Dia 14",	"city" :	"",	"transport" :	[],	"details" : [{"label" :	null,	"items" : ["praia no Brasil"]}]},
-    {	"date" :	"Dia 15",	"city" :	"",	"transport" :	[],	"details" : [{"label" :	null,	"items" : ["praia no Brasil"]}]},
-    {	"date" :	"Dia 16",	"city" :	"",	"transport" :	[],	"details" : [{"label" :	null,	"items" : ["praia no Brasil"]}]},
-    { "date": "Dia 17", "city": "", "transport": [], "details": [{ "label": null, "items": ["praia no Brasil"] }] },
-    { "date": "Dia 18", "city": "", "transport": [], "details": [{ "label": null, "items": ["praia no Brasil"] }] },
-    { "date": "Dia 19", "city": "", "transport": [], "details": [{ "label": null, "items": ["praia no Brasil"] }] },
-    { "date": "Dia 20", "city": "", "transport": [], "details": [{ "label": null, "items": ["regresso a Lisboa"] }] }
+    { "date": "Dia 1", "city": "Lisboa → Lima", "transport": [], "details": [{ "label": null, "items": ["Ida para Lima e chegada no final do dia. Ida para o hotel, desfazer as malas."] }] },
+    { "date": "Dia 2", "city": "Lima", "transport": [], "details": [{ "label": null, "items": ["Explorar Lima, do centro histórico a Barranco. Explorar o bairro de Miraflores e o que Lima tem para oferecer. É das capitais onde menos chove no mundo."] }] },
+    { "date": "Dia 3", "city": "Paracas, Ica e Huacaccina", "transport": [], "details": [{ "label": null, "items": ["Tour de um dia a Paracas, Ica e Huacaccina. Os mais aventureiros podem ir ao deserto em buggy, ver o pôr do sol."] }] },
+    { "date": "Dia 4", "city": "Cusco", "transport": [], "details": [{ "label": null, "items": ["Ida para Cusco e iniciar a adaptação à altitude com um chá de coca ou rebuçados. Fazer um passeio calmo pela cidade, pela praça de armas, que tem muitos restaurantes típicos, com alpaca e porquinho da Índia (iguarias locais)."] }] },
+    { "date": "Dia 5", "city": "Vale Sagrado", "transport": [], "details": [{ "label": null, "items": ["Partir pela manhã para o Vale Sagrado e aprender mais sobre a cultura Inca. Este passeio inclui almoço."] }] },
+    { "date": "Dia 6", "city": "Belmond train e Machu Picchu", "transport": [], "details": [{ "label": null, "items": ["Belmond Train para Machu Pichu. Existem alternativas mais baratas, mas este comboio é um sonho e inclui champagne non stop e um almoço de vários pratos. No bilhete está também incluído um guia e a entrada para Matchu Picchu, bem como um lanche no hotel Belmond."] }] },
+    { "date": "Dia 7", "city": "Rainbow Mountain", "transport": [], "details": [{ "label": null, "items": ["Dia de trekking até à Rainbow montain. Nesta subida é normal a falta de oxigénio e cansaço, por isso é importante ir preparado e subir devagarinho. Há também cavalos que podem ser contratados para facilitar a subida."] }] },
+    { "date": "Dia 8", "city": "Cusco → Buenos Aires", "transport": [], "details": [{ "label": null, "items": ["Despedida de Cusco e partida rumo a Buenos Aires. Raramente há voo direto, tendo geralmente que se parar ou em Lima ou em Santiago do Chile. Aproveitar para descansar. Jantar em Buenos Aires."] }] },
+    { "date": "Dia 9", "city": "Buenos Aires", "transport": [], "details": [{ "label": null, "items": ["Partir à descoberta de Buenos Aires. Por ser pouco tempo, é recomendável um autocarro estilo Hop-On Hop-Off, que permite ir aos locais mais emblemáticos. O bairro de Boca, é um dos mais famosos e coloridos da cidade. Ao jantar, é extremamente recomendado ir ao Dom Julio, O restaurante de carnes de Buenos Aires. Convém marcar com muita antecedência."] }] },
+    { "date": "Dia 10", "city": "Buenos Aires → Iguaçu", "transport": [], "details": [{ "label": null, "items": ["Aproveitar a manhã para ver pequenos detalhes de Buenos Aires, como a ponte das mulheres, a Mafalda ou a biblioteca que já foi um teatro. Partir ao final do dia para o Iguaçu argentino."] }] },
+    { "date": "Dia 11", "city": "Iguaçu Argentino", "transport": [], "details": [{ "label": null, "items": ["Este é dia do Iguaçu argentino. É recomendável apanhar o comboio que leva para o local mais longínquo do parque. É também recomendável ter uma capa impermeável."] }] },
+    { "date": "Dia 12", "city": "Iguaçu Brasileiro, parque das Aves e marco das 3 fronteiras", "transport": [], "details": [{ "label": null, "items": ["O Iguaçu brasileiro é igualmente bonito. Há vários passeios que se podem fazer, como o passeio de barco até às cascatas, mas o barco é agressivo. Sai-se de lá todo molhado e uma muda de roupa é obrigatória, inclusive roupa interior porque o barco para mesmo debaixo da cascata. Para quem prefere sair seco, um passeio de helicóptero é uma alternativa, que custa cerca de 250€. De tarde, ver o parque das aves e terminar no marco das 3 fronteiras, onde se vê Brasil, Paraguai e Argentina mas onde também há música ao vivo e boas barraquinhas de comida."] }] },
+    { "date": "Dia 13", "city": "Iguaçu → Salvador da Bahia", "transport": [], "details": [{ "label": null, "items": ["Partida para Salvador da Bahia e a partir daí, ir para a praia do Forte."] }] },
+    {"date" :"Dia 14",	"city" :"Praia do Forte",	"transport" :	[],	"details" : [{"label" :	null,	"items" : ["Descansar no hotel e aproveitar a praia do Forte. Esta é uma praia calma, com águas mornas e cristalinas, ideal para relaxar."]}]},
+    {"date" :"Dia 15",	"city" :"Praia do Forte",	"transport" :	[],	"details" : [{"label" :	null,	"items" : ["Continuar os dias de praia. Aproveitar para ir à vila da praia do Forte, que tem várias lojas (nomeadamente havaianas) e restaurantes, como o Sabor da Vila e o bar dou Souza, que tem um ótimo bolinho de Peixe."]}]},
+    {"date" :"Dia 16",	"city" :"Praia do Forte",	"transport" :	[],	"details" : [{"label" :	null,	"items" : ["Continuar a aproveitar a praia do Forte. Para os mais aventureiros, é possível fazer um passeio de barco para ver as tartarugas marinhas, que são uma das atrações da região. Há inclusive o projeto Tamar. Contudo, por vezes, até da costa se conseguem ver as tartarugas."]}]},
+    { "date": "Dia 17", "city": "Praia do Forte", "transport": [], "details": [{ "label": null, "items": ["Aproveitar as infraestruturas do hotel e fazer um desvio para o Point do Folha, para uma ótima lagosta grelhada."] }] },
+    { "date": "Dia 18", "city": "Praia do Forte", "transport": [], "details": [{ "label": null, "items": ["Alternar entre mergulhos no mar e mergulhos de água doce, na piscina. Regar com capirinhas do hotel."] }] },
+    { "date": "Dia 19", "city": "Praia do Forte", "transport": [], "details": [{ "label": null, "items": ["Aproveitar para as últimas compras, mergulhos e garfadas. O dia seguinte será dia de viagem e talvez seja bom aproveitar o spa do hotel."] }] },
+    { "date": "Dia 20", "city": "Salvador da Bahia e regresso a Lisboa", "transport": [], "details": [{ "label": null, "items": ["O regresso a Lisboa é apenas no final do dia. Para evitar pedir check-out tardio, aproveitar o dia para fazer um tour em Salvador, com tudo o que há de mais importante para conhecer. Regresso a Lisboa."] }] }
   ],
 
   "hotels": [
     {
       "hotel": "JW Miraflores",
-      "url": "xxx",
+      "url": "https://www.booking.com/hotel/pe/jw-marriott-lima.en-gb.html?label=jw-marriott-cusco-vAJoMHEUIyOtWHVBnoX7jAS732492718299%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2395719376965%3Akwd-331396024730%3Alp9220914%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YboIMJYQAPicrzwdxpGM5o8&sid=775e3adfec1dd0553acbd9fbf4c9ea59&aid=311984&ucfs=1&checkin=2026-04-15&checkout=2026-04-18&dest_id=-352647&dest_type=city&group_adults=2&no_rooms=1&group_children=0&srpvid=bd918bdcc9b300e6&srepoch=1771703644&matching_block_id=27153401_94383785_2_42_0&atlas_src=sr_iw_title",
       "local": "Lima",
       "noites": 3,
-      "regime": "pequeno-almoco",
-      "preco": 333
+      "regime": "PA",
+      "preco": 540.00
     },
     {
-      "hotel": "Hilton Inn Cusco",
-      "url": "xxx",
+      "hotel": "JW Marriot El Convento Cusco",
+      "url": "https://www.booking.com/searchresults.en-gb.html?ssne=Cusco&ssne_untouched=Cusco&highlighted_hotels=351410&ss=Cusco&dest_id=-345275&dest_type=city&hp_avform=1&origin=hp&do_availability_check=1&label=jw-marriott-cusco-vAJoMHEUIyOtWHVBnoX7jAS732492718299%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2395719376965%3Akwd-331396024730%3Alp9220914%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YboIMJYQAPicrzwdxpGM5o8&sid=775e3adfec1dd0553acbd9fbf4c9ea59&aid=311984&lang=en-gb&sb=1&src_elem=sb&src=hotel&checkin=2026-04-21&checkout=2026-04-25&group_adults=2&no_rooms=1&group_children=0",
       "local": "Cusco",
       "noites": 4,
-      "regime": "pequeno-almoco",
-      "preco": 123
+      "regime": "PA",
+      "preco": 757.00
     },
     {
-      "hotel": "NH Centro Histórico",
-      "url": "xxx",
+      "hotel": "Doubletree By Hilton Buenos Aires",
+      "url": "https://www.booking.com/hotel/ar/melia-buenos-aires.en-gb.html?label=jw-marriott-cusco-vAJoMHEUIyOtWHVBnoX7jAS732492718299%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2395719376965%3Akwd-331396024730%3Alp9220914%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YboIMJYQAPicrzwdxpGM5o8&sid=775e3adfec1dd0553acbd9fbf4c9ea59&aid=311984&ucfs=1&checkin=2026-04-20&checkout=2026-04-22&group_adults=2&no_rooms=1&group_children=0&nflt=mealplan%3D1%3Bht_id%3D204%3Bclass%3D5&srpvid=2fc68c3d40fc02d3&srepoch=1771703887&matching_block_id=7935923_387205310_2_1_0&atlas_src=hp_iw_title",
       "local": "Buenos Aires",
       "noites": 2,
-      "regime": "pequeno-almoco",
-      "preco": 123
+      "regime": "PA",
+      "preco": 172.00
     },
     {
       "hotel": "Falls Iguazú Hotel & Spa",
-      "url": "ccc",
+      "url": "https://www.booking.com/hotel/ar/falls-iguazu-amp-spa.en-gb.html?aid=311984&label=jw-marriott-cusco-vAJoMHEUIyOtWHVBnoX7jAS732492718299%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2395719376965%3Akwd-331396024730%3Alp9220914%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YboIMJYQAPicrzwdxpGM5o8&sid=775e3adfec1dd0553acbd9fbf4c9ea59&all_sr_blocks=198370707_123809315_2_17_0&checkin=2026-04-20&checkout=2026-04-22&dest_id=1983707&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=198370707_123809315_2_17_0&hpos=1&matching_block_id=198370707_123809315_2_17_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=198370707_123809315_2_17_0__41140&srepoch=1771706483&srpvid=6e7b91765903039a&type=total&ucfs=1&",
       "local": "Iguaçu (Argentina)",
       "noites": 2,
       "regime": "meia pensão",
-      "preco": 22
+      "preco": 175.00
     },
     {
       "hotel": "DoubleTree by Hilton Foz do Iguacu Brazil",
-      "url": "xxx",
+      "url": "https://www.booking.com/hotel/br/doubletree-by-hilton-foz-do-iguacu.en-gb.html?label=jw-marriott-cusco-vAJoMHEUIyOtWHVBnoX7jAS732492718299%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2395719376965%3Akwd-331396024730%3Alp9220914%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YboIMJYQAPicrzwdxpGM5o8&sid=775e3adfec1dd0553acbd9fbf4c9ea59&aid=311984&ucfs=1&arphpl=1&checkin=2026-04-20&checkout=2026-04-22&dest_id=8553576&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5dde9190895c044f&srepoch=1771706533&all_sr_blocks=855357602_353048948_0_33_0&highlighted_blocks=855357602_353048948_0_33_0&matching_block_id=855357602_353048948_0_33_0&sr_pri_blocks=855357602_353048948_0_33_0__184266&from_sustainable_property_sr=1&from=searchresults",
       "local": "Iguaçu (Brasil)",
       "noites": 1,
-      "regime": "pequeno-almoco",
-      "preco": 444
+      "regime": "meia pensão",
+      "preco": 112.00
     },
     {
       "hotel": "Tivoli EcoResort Praia do Forte",
-      "url": "xxx",
+      "url": "https://www.booking.com/hotel/br/praia-do-forte-ecoresort.en-gb.html?aid=311984&label=mkt123sc-363012d6-b162-4aaf-ad39-326720226724&ucfs=1&arphpl=1&checkin=2026-04-19&checkout=2026-04-26&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=8f4d95e23d7201f0&srepoch=1771708742&all_sr_blocks=9744321_145796848_2_17_0&highlighted_blocks=9744321_145796848_2_17_0&matching_block_id=9744321_145796848_2_17_0&sr_pri_blocks=9744321_145796848_2_17_0__1904300&from=searchresults",
       "local": "Praia do Forte - Bahia",
       "noites": 7,
       "regime": "meia pensão",
-      "preco": 44444
+      "preco": 1559.50
     }
   ]
 }
